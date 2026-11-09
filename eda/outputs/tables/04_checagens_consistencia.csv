@@ -1,0 +1,10 @@
+,ocorrências
+duration <= 0,0
+credit_amount <= 0,0
+age < 18,0
+age > 100,0
+installment_rate fora de 1-4,0
+residence_since fora de 1-4,0
+job=desempregado(A171) e employment>=1 ano,1
+employment=desempregado(A71) e job=qualificado/gerência,45
+credit_history=sem créditos(A30) e existing_credits>1,27

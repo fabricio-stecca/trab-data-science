@@ -1,0 +1,49 @@
+# =====================================================================
+#  Configuração base da MLP — German Credit
+#  Herda common/protocolo.yaml (divisão, limiar, métricas — iguais para todos
+#  os algoritmos). Os arquivos em mlp/configs/experiments/ só precisam conter
+#  o que muda; o resto é herdado daqui.
+# =====================================================================
+
+experiment:
+  name: mlp_default
+
+# auto | cpu | cuda   (auto = cuda se disponível)
+# Nesta base (1000 linhas, rede pequena) a CPU é mais rápida que a GPU: o custo de
+# lançar operações na GPU domina. Resultados CPU x GPU diferem levemente (RNG do dropout).
+device: cpu
+
+data:
+  drop_features: []       # ex.: [personal_status, foreign_worker] para testar sem atributos sensíveis
+  log_transform: [credit_amount, duration]   # log1p antes de escalar (atributos assimétricos)
+  scaler: standard        # standard | minmax | robust | none
+  rare_category_min_frequency: 0.02   # categorias com < 2% (no treino) viram "infrequent"; null desativa
+
+model:
+  hidden_layers: [32, 16] # nº de neurônios por camada oculta
+  activation: relu        # relu | leaky_relu | elu | gelu | selu | silu | tanh | sigmoid
+  dropout: 0.3
+  batch_norm: false
+  weight_init: default    # default | xavier | kaiming
+
+training:
+  epochs: 300             # máximo de épocas (1 época ≈ n_treino / batch_size steps)
+  batch_size: 32
+  grad_clip: null         # ex.: 1.0 para limitar a norma do gradiente
+  eval_every_steps: 10    # avalia na validação a cada N steps (atualizações de pesos)
+  monitor: val_loss       # métrica que define o melhor checkpoint: val_loss | val_auc | val_f1 | val_cost
+  optimizer:
+    name: adam            # adam | adamw
+    lr: 0.001
+    weight_decay: 0.0001  # regularização L2 (no adamw é o weight decay desacoplado)
+  scheduler:
+    name: none            # none | step | cosine   (atualizado a cada época)
+    step_size: 50         # step: multiplica o lr por gamma a cada step_size épocas
+    gamma: 0.5
+  loss:
+    name: bce             # bce | cross_entropy | mse
+    weight_bias: auto     # peso da classe "mau" na loss: auto (= n_bom/n_mau no treino), número, ou null (=1)
+  early_stopping:
+    enabled: true
+    patience: 30          # para se o monitor não melhorar por 30 avaliações seguidas
+    min_delta: 0.0        # melhora mínima para contar como melhora

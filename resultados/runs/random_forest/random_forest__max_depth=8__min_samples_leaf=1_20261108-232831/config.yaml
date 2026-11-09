@@ -1,0 +1,28 @@
+experiment:
+  seed: 42
+  output_dir: resultados/runs
+  results_file: resultados/resultados.csv
+  name: random_forest__max_depth=8__min_samples_leaf=1
+data:
+  path: data/raw/german.data
+  drop_features: []
+  log_transform: []
+  scaler: none
+  rare_category_min_frequency: 0.02
+split:
+  train: 0.6
+  val: 0.2
+  test: 0.2
+  stratify: true
+  seed: 42
+evaluation:
+  threshold: optimize_cost
+  cost_fn: 5
+  cost_fp: 1
+  main_metric: cost_mean
+model:
+  n_estimators: 300
+  max_depth: 8
+  min_samples_leaf: 1
+  max_features: sqrt
+  weight_bias: auto

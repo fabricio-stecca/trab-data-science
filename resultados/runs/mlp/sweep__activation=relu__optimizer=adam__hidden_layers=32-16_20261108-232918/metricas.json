@@ -1,0 +1,62 @@
+{
+  "algorithm": "mlp",
+  "name": "sweep__activation=relu__optimizer=adam__hidden_layers=32-16",
+  "params": {
+    "camadas": [
+      32,
+      16
+    ],
+    "ativacao": "relu",
+    "dropout": 0.3,
+    "otimizador": "adam",
+    "lr": 0.001,
+    "weight_decay": 0.0001,
+    "loss": "bce",
+    "weight_bias": "auto",
+    "batch": 32,
+    "monitor": "val_loss",
+    "melhor_step": 170
+  },
+  "run_dir": "resultados\\runs\\mlp\\sweep__activation=relu__optimizer=adam__hidden_layers=32-16_20261108-232918",
+  "seconds": 0.82,
+  "n_inputs": 59,
+  "threshold": 0.28,
+  "split_id": "1ff36d32de",
+  "split_sizes": {
+    "treino": 600,
+    "validacao": 200,
+    "teste": 200
+  },
+  "validacao": {
+    "accuracy": 0.515,
+    "balanced_accuracy": 0.6488095238095237,
+    "precision": 0.38064516129032255,
+    "recall": 0.9833333333333333,
+    "specificity": 0.3142857142857143,
+    "f1": 0.5488372093023256,
+    "auc": 0.7252380952380952,
+    "cost_total": 101.0,
+    "cost_mean": 0.505,
+    "tn": 44,
+    "fp": 96,
+    "fn": 1,
+    "tp": 59,
+    "threshold": 0.28
+  },
+  "teste": {
+    "accuracy": 0.445,
+    "balanced_accuracy": 0.575,
+    "precision": 0.33962264150943394,
+    "recall": 0.9,
+    "specificity": 0.25,
+    "f1": 0.4931506849315068,
+    "auc": 0.77,
+    "cost_total": 135.0,
+    "cost_mean": 0.675,
+    "tn": 35,
+    "fp": 105,
+    "fn": 6,
+    "tp": 54,
+    "threshold": 0.28
+  }
+}

@@ -1,0 +1,7 @@
+# Parametrizações testadas do Gradient Boosting (cada combinação vira uma execução).
+# A melhor é escolhida pela validação.
+experiment:
+  name: gradient_boosting
+sweep:
+  model.learning_rate: [0.03, 0.1]
+  model.max_depth: [3, null]

@@ -1,0 +1,59 @@
+{
+  "algorithm": "random_forest",
+  "name": "random_forest__seed5",
+  "params": {
+    "modelo": {
+      "n_estimators": 300,
+      "max_depth": null,
+      "min_samples_leaf": 5,
+      "max_features": "sqrt",
+      "weight_bias": "auto"
+    },
+    "pre_processamento": {
+      "log_transform": [],
+      "scaler": "none"
+    }
+  },
+  "run_dir": "resultados\\extra\\runs\\random_forest\\random_forest__seed5_20261108-234059",
+  "seconds": 0.4,
+  "n_inputs": 59,
+  "threshold": 0.35,
+  "split_id": "1c4c0d2403",
+  "split_sizes": {
+    "treino": 600,
+    "validacao": 200,
+    "teste": 200
+  },
+  "validacao": {
+    "accuracy": 0.63,
+    "balanced_accuracy": 0.7023809523809523,
+    "precision": 0.44166666666666665,
+    "recall": 0.8833333333333333,
+    "specificity": 0.5214285714285715,
+    "f1": 0.5888888888888889,
+    "auc": 0.7923809523809524,
+    "cost_total": 102.0,
+    "cost_mean": 0.51,
+    "tn": 73,
+    "fp": 67,
+    "fn": 7,
+    "tp": 53,
+    "threshold": 0.35
+  },
+  "teste": {
+    "accuracy": 0.625,
+    "balanced_accuracy": 0.7035714285714285,
+    "precision": 0.43902439024390244,
+    "recall": 0.9,
+    "specificity": 0.5071428571428571,
+    "f1": 0.5901639344262295,
+    "auc": 0.7503571428571428,
+    "cost_total": 99.0,
+    "cost_mean": 0.495,
+    "tn": 71,
+    "fp": 69,
+    "fn": 6,
+    "tp": 54,
+    "threshold": 0.35
+  }
+}

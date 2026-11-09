@@ -1,0 +1,22 @@
+# =====================================================================
+#  Configuração base do Random Forest — herda common/protocolo.yaml
+#  (divisão, limiar e métricas iguais para todos os algoritmos).
+# =====================================================================
+
+experiment:
+  name: random_forest_default
+
+data:
+  drop_features: []
+  # Árvores só comparam valores com limiares ("idade < 30?"), então não dependem da escala:
+  # log e padronização não mudam o resultado e ficam desligados.
+  log_transform: []
+  scaler: none
+  rare_category_min_frequency: 0.02
+
+model:
+  n_estimators: 300       # nº de árvores
+  max_depth: null         # profundidade máxima de cada árvore (null = sem limite)
+  min_samples_leaf: 1     # mínimo de clientes em cada folha (maior = árvores mais simples)
+  max_features: sqrt      # atributos sorteados a cada divisão: sqrt | log2 | fração (ex.: 0.5)
+  weight_bias: auto       # peso da classe "mau": auto (= n_bom/n_mau no treino), número, ou null

@@ -1,0 +1,7 @@
+# Parametrizações testadas do KNN (cada combinação vira uma execução).
+# A melhor é escolhida pela validação.
+experiment:
+  name: knn
+sweep:
+  model.n_neighbors: [5, 15, 31]
+  model.weights: [uniform, distance]

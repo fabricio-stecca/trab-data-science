@@ -1,0 +1,37 @@
+# =====================================================================
+#  Protocolo de avaliação COMPARTILHADO por todos os algoritmos
+#  (MLP, KNN, Random Forest, Gradient Boosting).
+#
+#  Tudo aqui é igual para todos, para que a comparação seja justa.
+#  As configs de cada algoritmo herdam este arquivo.
+# =====================================================================
+
+experiment:
+  seed: 42                              # semente dos modelos (pesos, árvores, ordem dos batches)
+  output_dir: resultados/runs           # cada execução vai para resultados/runs/<algoritmo>/<nome>_<data-hora>/
+  results_file: resultados/resultados.csv   # uma linha por execução, de todos os algoritmos
+
+data:
+  path: data/raw/german.data            # relativo à raiz do projeto
+
+# Divisão aleatória das linhas em treino / validação / teste (frações somam 1).
+# - treino:    ajusta o modelo e o pré-processamento (scaler, one-hot)
+# - validação: escolhe hiperparâmetros, checkpoint (MLP) e limiar de decisão
+# - teste:     usado UMA vez no final, só para relatar o desempenho
+# A mesma seed gera exatamente a mesma divisão para todos os algoritmos.
+split:
+  train: 0.6
+  val: 0.2
+  test: 0.2
+  stratify: true          # mantém a proporção 70/30 de bons/maus nos três conjuntos
+  seed: 42
+
+evaluation:
+  # Limiar de decisão sobre P(mau):
+  #   número fixo (ex.: 0.5) | optimize_cost | optimize_f1  (otimizados SÓ na validação)
+  threshold: optimize_cost
+  cost_fn: 5              # custo de prever "bom" quando é "mau" (matriz de custo do UCI)
+  cost_fp: 1              # custo de prever "mau" quando é "bom"
+  # Métrica de VALIDAÇÃO usada para escolher a melhor configuração; o teste só é relatado.
+  # accuracy | balanced_accuracy | precision | recall | specificity | f1 | auc | cost_total | cost_mean
+  main_metric: cost_mean

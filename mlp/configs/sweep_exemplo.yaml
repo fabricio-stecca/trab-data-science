@@ -1,0 +1,10 @@
+# Grade de combinações: cada combinação vira um experimento.
+# Rode com: python mlp/train.py -c mlp/configs/sweep_exemplo.yaml
+# Dica: incluir split.seed: [1, 2, 3, 4, 5] repete o experimento em 5 divisões
+# diferentes, o que mostra a variabilidade dos resultados.
+experiment:
+  name: sweep
+sweep:
+  model.activation: [relu, tanh]
+  training.optimizer.name: [adam, adamw]
+  model.hidden_layers: [[16], [32, 16]]

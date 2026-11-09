@@ -1,0 +1,20 @@
+# =====================================================================
+#  Configuração base do KNN — herda common/protocolo.yaml
+#  (divisão, limiar e métricas iguais para todos os algoritmos).
+# =====================================================================
+
+experiment:
+  name: knn_default
+
+data:
+  drop_features: []
+  # O KNN usa distâncias: atributos em escalas diferentes (idade ~20-75 x valor até ~18 mil)
+  # dominariam a distância, por isso log + padronização são necessários.
+  log_transform: [credit_amount, duration]
+  scaler: standard        # standard | minmax | robust | none
+  rare_category_min_frequency: 0.02
+
+model:
+  n_neighbors: 15         # k: nº de vizinhos consultados
+  weights: distance       # uniform (todos votam igual) | distance (vizinhos mais próximos pesam mais)
+  p: 2                    # 1 = distância de Manhattan, 2 = distância Euclidiana

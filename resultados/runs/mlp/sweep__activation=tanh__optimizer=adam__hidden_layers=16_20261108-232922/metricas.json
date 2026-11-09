@@ -1,0 +1,61 @@
+{
+  "algorithm": "mlp",
+  "name": "sweep__activation=tanh__optimizer=adam__hidden_layers=16",
+  "params": {
+    "camadas": [
+      16
+    ],
+    "ativacao": "tanh",
+    "dropout": 0.3,
+    "otimizador": "adam",
+    "lr": 0.001,
+    "weight_decay": 0.0001,
+    "loss": "bce",
+    "weight_bias": "auto",
+    "batch": 32,
+    "monitor": "val_loss",
+    "melhor_step": 210
+  },
+  "run_dir": "resultados\\runs\\mlp\\sweep__activation=tanh__optimizer=adam__hidden_layers=16_20261108-232922",
+  "seconds": 0.74,
+  "n_inputs": 59,
+  "threshold": 0.32,
+  "split_id": "1ff36d32de",
+  "split_sizes": {
+    "treino": 600,
+    "validacao": 200,
+    "teste": 200
+  },
+  "validacao": {
+    "accuracy": 0.555,
+    "balanced_accuracy": 0.6678571428571428,
+    "precision": 0.3986013986013986,
+    "recall": 0.95,
+    "specificity": 0.38571428571428573,
+    "f1": 0.5615763546798029,
+    "auc": 0.7351190476190476,
+    "cost_total": 101.0,
+    "cost_mean": 0.505,
+    "tn": 54,
+    "fp": 86,
+    "fn": 3,
+    "tp": 57,
+    "threshold": 0.32
+  },
+  "teste": {
+    "accuracy": 0.555,
+    "balanced_accuracy": 0.6488095238095238,
+    "precision": 0.3925925925925926,
+    "recall": 0.8833333333333333,
+    "specificity": 0.4142857142857143,
+    "f1": 0.5435897435897435,
+    "auc": 0.7758333333333334,
+    "cost_total": 117.0,
+    "cost_mean": 0.585,
+    "tn": 58,
+    "fp": 82,
+    "fn": 7,
+    "tp": 53,
+    "threshold": 0.32
+  }
+}

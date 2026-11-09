@@ -1,0 +1,53 @@
+experiment:
+  seed: 42
+  output_dir: resultados/runs
+  results_file: resultados/resultados.csv
+  name: sweep__activation=relu__optimizer=adamw__hidden_layers=16
+data:
+  path: data/raw/german.data
+  drop_features: []
+  log_transform:
+  - credit_amount
+  - duration
+  scaler: standard
+  rare_category_min_frequency: 0.02
+split:
+  train: 0.6
+  val: 0.2
+  test: 0.2
+  stratify: true
+  seed: 42
+evaluation:
+  threshold: optimize_cost
+  cost_fn: 5
+  cost_fp: 1
+  main_metric: cost_mean
+device: cpu
+model:
+  hidden_layers:
+  - 16
+  activation: relu
+  dropout: 0.3
+  batch_norm: false
+  weight_init: default
+training:
+  epochs: 300
+  batch_size: 32
+  grad_clip: null
+  eval_every_steps: 10
+  monitor: val_loss
+  optimizer:
+    name: adamw
+    lr: 0.001
+    weight_decay: 0.0001
+  scheduler:
+    name: none
+    step_size: 50
+    gamma: 0.5
+  loss:
+    name: bce
+    weight_bias: auto
+  early_stopping:
+    enabled: true
+    patience: 30
+    min_delta: 0.0

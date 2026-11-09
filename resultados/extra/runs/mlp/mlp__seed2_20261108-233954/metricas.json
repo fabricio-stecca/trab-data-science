@@ -1,0 +1,62 @@
+{
+  "algorithm": "mlp",
+  "name": "mlp__seed2",
+  "params": {
+    "camadas": [
+      32,
+      16
+    ],
+    "ativacao": "relu",
+    "dropout": 0.3,
+    "otimizador": "adamw",
+    "lr": 0.001,
+    "weight_decay": 0.0001,
+    "loss": "bce",
+    "weight_bias": "auto",
+    "batch": 32,
+    "monitor": "val_loss",
+    "melhor_step": 220
+  },
+  "run_dir": "resultados\\extra\\runs\\mlp\\mlp__seed2_20261108-233954",
+  "seconds": 2.67,
+  "n_inputs": 59,
+  "threshold": 0.3,
+  "split_id": "1740f040b2",
+  "split_sizes": {
+    "treino": 600,
+    "validacao": 200,
+    "teste": 200
+  },
+  "validacao": {
+    "accuracy": 0.615,
+    "balanced_accuracy": 0.705952380952381,
+    "precision": 0.43410852713178294,
+    "recall": 0.9333333333333333,
+    "specificity": 0.4785714285714286,
+    "f1": 0.5925925925925926,
+    "auc": 0.7751190476190476,
+    "cost_total": 93.0,
+    "cost_mean": 0.465,
+    "tn": 67,
+    "fp": 73,
+    "fn": 4,
+    "tp": 56,
+    "threshold": 0.3
+  },
+  "teste": {
+    "accuracy": 0.545,
+    "balanced_accuracy": 0.6464285714285715,
+    "precision": 0.38848920863309355,
+    "recall": 0.9,
+    "specificity": 0.39285714285714285,
+    "f1": 0.542713567839196,
+    "auc": 0.7745238095238095,
+    "cost_total": 115.0,
+    "cost_mean": 0.575,
+    "tn": 55,
+    "fp": 85,
+    "fn": 6,
+    "tp": 54,
+    "threshold": 0.3
+  }
+}

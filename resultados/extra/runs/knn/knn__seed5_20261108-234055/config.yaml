@@ -1,0 +1,28 @@
+experiment:
+  seed: 42
+  output_dir: resultados/extra/runs
+  results_file: resultados/extra/robustez_seeds.csv
+  name: knn__seed5
+data:
+  path: data/raw/german.data
+  drop_features: []
+  log_transform:
+  - credit_amount
+  - duration
+  scaler: standard
+  rare_category_min_frequency: 0.02
+split:
+  train: 0.6
+  val: 0.2
+  test: 0.2
+  stratify: true
+  seed: 5
+evaluation:
+  threshold: optimize_cost
+  cost_fn: 5
+  cost_fp: 1
+  main_metric: cost_mean
+model:
+  n_neighbors: 15
+  weights: distance
+  p: 2

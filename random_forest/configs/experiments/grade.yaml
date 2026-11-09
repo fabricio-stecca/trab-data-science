@@ -1,0 +1,7 @@
+# Parametrizações testadas do Random Forest (cada combinação vira uma execução).
+# A melhor é escolhida pela validação.
+experiment:
+  name: random_forest
+sweep:
+  model.max_depth: [null, 8]
+  model.min_samples_leaf: [1, 5]

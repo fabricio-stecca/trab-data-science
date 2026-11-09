@@ -1,0 +1,61 @@
+{
+  "algorithm": "gradient_boosting",
+  "name": "gradient_boosting__seed3",
+  "params": {
+    "modelo": {
+      "learning_rate": 0.03,
+      "max_iter": 200,
+      "max_depth": 3,
+      "max_leaf_nodes": 31,
+      "min_samples_leaf": 20,
+      "l2_regularization": 0.0,
+      "weight_bias": "auto"
+    },
+    "pre_processamento": {
+      "log_transform": [],
+      "scaler": "none"
+    }
+  },
+  "run_dir": "resultados\\extra\\runs\\gradient_boosting\\gradient_boosting__seed3_20261108-234025",
+  "seconds": 1.45,
+  "n_inputs": 59,
+  "threshold": 0.4,
+  "split_id": "5f196ddcb4",
+  "split_sizes": {
+    "treino": 600,
+    "validacao": 200,
+    "teste": 200
+  },
+  "validacao": {
+    "accuracy": 0.655,
+    "balanced_accuracy": 0.6964285714285714,
+    "precision": 0.45714285714285713,
+    "recall": 0.8,
+    "specificity": 0.5928571428571429,
+    "f1": 0.5818181818181818,
+    "auc": 0.743095238095238,
+    "cost_total": 117.0,
+    "cost_mean": 0.585,
+    "tn": 83,
+    "fp": 57,
+    "fn": 12,
+    "tp": 48,
+    "threshold": 0.4
+  },
+  "teste": {
+    "accuracy": 0.665,
+    "balanced_accuracy": 0.694047619047619,
+    "precision": 0.46464646464646464,
+    "recall": 0.7666666666666667,
+    "specificity": 0.6214285714285714,
+    "f1": 0.5786163522012578,
+    "auc": 0.7773809523809524,
+    "cost_total": 123.0,
+    "cost_mean": 0.615,
+    "tn": 87,
+    "fp": 53,
+    "fn": 14,
+    "tp": 46,
+    "threshold": 0.4
+  }
+}

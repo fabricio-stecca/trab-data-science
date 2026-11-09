@@ -1,0 +1,60 @@
+{
+  "algorithm": "knn",
+  "name": "knn__sem_tratamento",
+  "params": {
+    "modelo": {
+      "n_neighbors": 15,
+      "weights": "distance",
+      "p": 2
+    },
+    "pre_processamento": {
+      "log_transform": [
+        "credit_amount",
+        "duration"
+      ],
+      "scaler": "standard"
+    }
+  },
+  "run_dir": "resultados\\extra\\runs\\knn\\knn__sem_tratamento_20261108-233905",
+  "seconds": 0.0,
+  "n_inputs": 59,
+  "threshold": 0.5,
+  "split_id": "1ff36d32de",
+  "split_sizes": {
+    "treino": 600,
+    "validacao": 200,
+    "teste": 200
+  },
+  "validacao": {
+    "accuracy": 0.695,
+    "balanced_accuracy": 0.5392857142857143,
+    "precision": 0.47368421052631576,
+    "recall": 0.15,
+    "specificity": 0.9285714285714286,
+    "f1": 0.2278481012658228,
+    "auc": 0.705,
+    "cost_total": 265.0,
+    "cost_mean": 1.325,
+    "tn": 130,
+    "fp": 10,
+    "fn": 51,
+    "tp": 9,
+    "threshold": 0.5
+  },
+  "teste": {
+    "accuracy": 0.745,
+    "balanced_accuracy": 0.6178571428571429,
+    "precision": 0.6666666666666666,
+    "recall": 0.3,
+    "specificity": 0.9357142857142857,
+    "f1": 0.41379310344827586,
+    "auc": 0.7125,
+    "cost_total": 219.0,
+    "cost_mean": 1.095,
+    "tn": 131,
+    "fp": 9,
+    "fn": 42,
+    "tp": 18,
+    "threshold": 0.5
+  }
+}

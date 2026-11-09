@@ -1,0 +1,30 @@
+experiment:
+  seed: 42
+  output_dir: resultados/runs
+  results_file: resultados/resultados.csv
+  name: gradient_boosting__learning_rate=0.1__max_depth=None
+data:
+  path: data/raw/german.data
+  drop_features: []
+  log_transform: []
+  scaler: none
+  rare_category_min_frequency: 0.02
+split:
+  train: 0.6
+  val: 0.2
+  test: 0.2
+  stratify: true
+  seed: 42
+evaluation:
+  threshold: optimize_cost
+  cost_fn: 5
+  cost_fp: 1
+  main_metric: cost_mean
+model:
+  learning_rate: 0.1
+  max_iter: 200
+  max_depth: null
+  max_leaf_nodes: 31
+  min_samples_leaf: 20
+  l2_regularization: 0.0
+  weight_bias: auto

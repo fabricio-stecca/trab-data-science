@@ -1,0 +1,1001 @@
+checking_status,duration,credit_history,purpose,credit_amount,savings_status,employment,installment_rate,personal_status,other_parties,residence_since,property,age,other_installment_plans,housing,existing_credits,job,num_dependents,own_telephone,foreign_worker,credit_risk
+< 0 DM,6,conta crítica/outros créditos,rádio/TV,1169,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,4,imóvel,67,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+0-200 DM,48,pagos em dia até agora,rádio/TV,5951,< 100 DM,1-4 anos,2,F div./sep./casada,nenhum,2,imóvel,22,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+sem conta,12,conta crítica/outros créditos,educação,2096,< 100 DM,4-7 anos,2,M solteiro,nenhum,3,imóvel,49,nenhum,própria,1,não qualificado (residente),2,não,sim,0
+< 0 DM,42,pagos em dia até agora,móveis/equip.,7882,< 100 DM,4-7 anos,2,M solteiro,fiador,4,poupança/seguro de vida,45,nenhum,gratuita,1,qualificado/funcionário,2,não,sim,0
+< 0 DM,24,atrasos no passado,carro (novo),4870,< 100 DM,1-4 anos,3,M solteiro,nenhum,4,desconhecido/nenhum,53,nenhum,gratuita,2,qualificado/funcionário,2,não,sim,1
+sem conta,36,pagos em dia até agora,educação,9055,desconhecido/sem poupança,1-4 anos,2,M solteiro,nenhum,4,desconhecido/nenhum,35,nenhum,gratuita,1,não qualificado (residente),2,sim,sim,0
+sem conta,24,pagos em dia até agora,móveis/equip.,2835,500-1000 DM,>= 7 anos,3,M solteiro,nenhum,4,poupança/seguro de vida,53,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,36,pagos em dia até agora,carro (usado),6948,< 100 DM,1-4 anos,2,M solteiro,nenhum,2,carro/outros,35,nenhum,aluguel,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+sem conta,12,pagos em dia até agora,rádio/TV,3059,>= 1000 DM,4-7 anos,2,M divorciado/separado,nenhum,4,imóvel,61,nenhum,própria,1,não qualificado (residente),1,não,sim,0
+0-200 DM,30,conta crítica/outros créditos,carro (novo),5234,< 100 DM,desempregado,4,M casado/viúvo,nenhum,2,carro/outros,28,nenhum,própria,2,gerência/autônomo/alta qualif.,1,não,sim,1
+0-200 DM,12,pagos em dia até agora,carro (novo),1295,< 100 DM,< 1 ano,3,F div./sep./casada,nenhum,1,carro/outros,25,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,1
+< 0 DM,48,pagos em dia até agora,negócios,4308,< 100 DM,< 1 ano,3,F div./sep./casada,nenhum,4,poupança/seguro de vida,24,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,1
+0-200 DM,12,pagos em dia até agora,rádio/TV,1567,< 100 DM,1-4 anos,1,F div./sep./casada,nenhum,1,carro/outros,22,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+< 0 DM,24,conta crítica/outros créditos,carro (novo),1199,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,carro/outros,60,nenhum,própria,2,não qualificado (residente),1,não,sim,1
+< 0 DM,15,pagos em dia até agora,carro (novo),1403,< 100 DM,1-4 anos,2,F div./sep./casada,nenhum,4,carro/outros,28,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,24,pagos em dia até agora,rádio/TV,1282,100-500 DM,1-4 anos,4,F div./sep./casada,nenhum,2,carro/outros,32,nenhum,própria,1,não qualificado (residente),1,não,sim,1
+sem conta,24,conta crítica/outros créditos,rádio/TV,2424,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,4,poupança/seguro de vida,53,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+< 0 DM,30,sem créditos/todos pagos,negócios,8072,desconhecido/sem poupança,< 1 ano,2,M solteiro,nenhum,3,carro/outros,25,banco,própria,3,qualificado/funcionário,1,não,sim,0
+0-200 DM,24,pagos em dia até agora,carro (usado),12579,< 100 DM,>= 7 anos,4,F div./sep./casada,nenhum,2,desconhecido/nenhum,44,nenhum,gratuita,1,gerência/autônomo/alta qualif.,1,sim,sim,1
+sem conta,24,pagos em dia até agora,rádio/TV,3430,500-1000 DM,>= 7 anos,3,M solteiro,nenhum,2,carro/outros,31,nenhum,própria,1,qualificado/funcionário,2,sim,sim,0
+sem conta,9,conta crítica/outros créditos,carro (novo),2134,< 100 DM,1-4 anos,4,M solteiro,nenhum,4,carro/outros,48,nenhum,própria,3,qualificado/funcionário,1,sim,sim,0
+< 0 DM,6,pagos em dia até agora,rádio/TV,2647,500-1000 DM,1-4 anos,2,M solteiro,nenhum,3,imóvel,44,nenhum,aluguel,1,qualificado/funcionário,2,não,sim,0
+< 0 DM,10,conta crítica/outros créditos,carro (novo),2241,< 100 DM,< 1 ano,1,M solteiro,nenhum,3,imóvel,48,nenhum,aluguel,2,não qualificado (residente),2,não,não,0
+0-200 DM,12,conta crítica/outros créditos,carro (usado),1804,100-500 DM,< 1 ano,3,M solteiro,nenhum,4,poupança/seguro de vida,44,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,10,conta crítica/outros créditos,móveis/equip.,2069,desconhecido/sem poupança,1-4 anos,2,M casado/viúvo,nenhum,1,carro/outros,26,nenhum,própria,2,qualificado/funcionário,1,não,não,0
+< 0 DM,6,pagos em dia até agora,móveis/equip.,1374,< 100 DM,1-4 anos,1,M solteiro,nenhum,2,imóvel,36,banco,própria,1,não qualificado (residente),1,sim,sim,0
+sem conta,6,sem créditos/todos pagos,rádio/TV,426,< 100 DM,>= 7 anos,4,M casado/viúvo,nenhum,4,carro/outros,39,nenhum,própria,1,não qualificado (residente),1,não,sim,0
+>= 200 DM,12,todos pagos neste banco,rádio/TV,409,>= 1000 DM,1-4 anos,3,F div./sep./casada,nenhum,3,imóvel,42,nenhum,aluguel,2,qualificado/funcionário,1,não,sim,0
+0-200 DM,7,pagos em dia até agora,rádio/TV,2415,< 100 DM,1-4 anos,3,M solteiro,fiador,2,imóvel,34,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,60,atrasos no passado,negócios,6836,< 100 DM,>= 7 anos,3,M solteiro,nenhum,4,desconhecido/nenhum,63,nenhum,própria,2,qualificado/funcionário,1,sim,sim,1
+0-200 DM,18,pagos em dia até agora,negócios,1913,>= 1000 DM,< 1 ano,3,M casado/viúvo,nenhum,3,imóvel,36,banco,própria,1,qualificado/funcionário,1,sim,sim,0
+< 0 DM,24,pagos em dia até agora,móveis/equip.,4020,< 100 DM,1-4 anos,2,M solteiro,nenhum,2,carro/outros,27,lojas,própria,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,18,pagos em dia até agora,carro (novo),5866,100-500 DM,1-4 anos,2,M solteiro,nenhum,2,carro/outros,30,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+sem conta,12,conta crítica/outros créditos,negócios,1264,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,57,nenhum,aluguel,1,não qualificado (residente),1,não,sim,0
+>= 200 DM,12,pagos em dia até agora,móveis/equip.,1474,< 100 DM,< 1 ano,4,F div./sep./casada,nenhum,1,poupança/seguro de vida,33,banco,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+0-200 DM,45,conta crítica/outros créditos,rádio/TV,4746,< 100 DM,< 1 ano,4,M solteiro,nenhum,2,poupança/seguro de vida,25,nenhum,própria,2,não qualificado (residente),1,não,sim,1
+sem conta,48,conta crítica/outros créditos,educação,6110,< 100 DM,1-4 anos,1,M solteiro,nenhum,3,desconhecido/nenhum,31,banco,gratuita,1,qualificado/funcionário,1,sim,sim,0
+>= 200 DM,18,pagos em dia até agora,rádio/TV,2100,< 100 DM,1-4 anos,4,M solteiro,co-requerente,2,imóvel,37,lojas,própria,1,qualificado/funcionário,1,não,sim,1
+>= 200 DM,10,pagos em dia até agora,eletrodomésticos,1225,< 100 DM,1-4 anos,2,M solteiro,nenhum,2,carro/outros,37,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,9,pagos em dia até agora,rádio/TV,458,< 100 DM,1-4 anos,4,M solteiro,nenhum,3,imóvel,24,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,30,pagos em dia até agora,rádio/TV,2333,500-1000 DM,>= 7 anos,4,M solteiro,nenhum,2,carro/outros,30,banco,própria,1,gerência/autônomo/alta qualif.,1,não,sim,0
+0-200 DM,12,pagos em dia até agora,rádio/TV,1158,500-1000 DM,1-4 anos,3,M divorciado/separado,nenhum,1,carro/outros,26,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,18,atrasos no passado,reparos,6204,< 100 DM,1-4 anos,2,M solteiro,nenhum,4,imóvel,44,nenhum,própria,1,não qualificado (residente),2,sim,sim,0
+< 0 DM,30,conta crítica/outros créditos,carro (usado),6187,100-500 DM,4-7 anos,1,M casado/viúvo,nenhum,4,carro/outros,24,nenhum,aluguel,2,qualificado/funcionário,1,não,sim,0
+< 0 DM,48,conta crítica/outros créditos,carro (usado),6143,< 100 DM,>= 7 anos,4,F div./sep./casada,nenhum,4,desconhecido/nenhum,58,lojas,gratuita,2,não qualificado (residente),1,não,sim,1
+sem conta,11,conta crítica/outros créditos,carro (novo),1393,< 100 DM,< 1 ano,4,F div./sep./casada,nenhum,4,carro/outros,35,nenhum,própria,2,gerência/autônomo/alta qualif.,1,não,sim,0
+sem conta,36,pagos em dia até agora,rádio/TV,2299,500-1000 DM,>= 7 anos,4,M solteiro,nenhum,4,carro/outros,39,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,6,pagos em dia até agora,carro (usado),1352,500-1000 DM,desempregado,1,F div./sep./casada,nenhum,2,poupança/seguro de vida,23,nenhum,aluguel,1,desempregado/não qualif. (não residente),1,sim,sim,0
+sem conta,11,conta crítica/outros créditos,carro (novo),7228,< 100 DM,1-4 anos,1,M solteiro,nenhum,4,poupança/seguro de vida,39,nenhum,própria,2,não qualificado (residente),1,não,sim,0
+sem conta,12,pagos em dia até agora,rádio/TV,2073,100-500 DM,1-4 anos,4,F div./sep./casada,co-requerente,2,imóvel,28,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,24,atrasos no passado,móveis/equip.,2333,desconhecido/sem poupança,< 1 ano,4,M solteiro,nenhum,2,poupança/seguro de vida,29,banco,própria,1,não qualificado (residente),1,não,sim,0
+0-200 DM,27,atrasos no passado,carro (usado),5965,< 100 DM,>= 7 anos,1,M solteiro,nenhum,2,carro/outros,30,nenhum,própria,2,gerência/autônomo/alta qualif.,1,sim,sim,0
+sem conta,12,pagos em dia até agora,rádio/TV,1262,< 100 DM,1-4 anos,3,M solteiro,nenhum,2,carro/outros,25,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,18,pagos em dia até agora,carro (usado),3378,desconhecido/sem poupança,1-4 anos,2,M solteiro,nenhum,1,poupança/seguro de vida,31,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,36,atrasos no passado,carro (novo),2225,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,57,banco,gratuita,2,qualificado/funcionário,1,sim,sim,1
+sem conta,6,todos pagos neste banco,carro (novo),783,desconhecido/sem poupança,1-4 anos,1,M solteiro,fiador,2,imóvel,26,lojas,própria,1,não qualificado (residente),2,não,sim,0
+0-200 DM,12,pagos em dia até agora,rádio/TV,6468,desconhecido/sem poupança,desempregado,2,M solteiro,nenhum,1,desconhecido/nenhum,52,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,1
+sem conta,36,conta crítica/outros créditos,rádio/TV,9566,< 100 DM,1-4 anos,2,F div./sep./casada,nenhum,2,carro/outros,31,lojas,própria,2,qualificado/funcionário,1,não,sim,0
+>= 200 DM,18,pagos em dia até agora,carro (novo),1961,< 100 DM,>= 7 anos,3,F div./sep./casada,nenhum,2,carro/outros,23,nenhum,própria,1,gerência/autônomo/alta qualif.,1,não,sim,0
+< 0 DM,36,conta crítica/outros créditos,móveis/equip.,6229,< 100 DM,< 1 ano,4,F div./sep./casada,co-requerente,4,desconhecido/nenhum,23,nenhum,aluguel,2,não qualificado (residente),1,sim,sim,1
+0-200 DM,9,pagos em dia até agora,negócios,1391,< 100 DM,1-4 anos,2,M casado/viúvo,nenhum,1,imóvel,27,banco,própria,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,15,conta crítica/outros créditos,rádio/TV,1537,desconhecido/sem poupança,>= 7 anos,4,M solteiro,fiador,4,imóvel,50,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+0-200 DM,36,sem créditos/todos pagos,negócios,1953,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,61,nenhum,gratuita,1,gerência/autônomo/alta qualif.,1,sim,sim,1
+0-200 DM,48,sem créditos/todos pagos,negócios,14421,< 100 DM,1-4 anos,2,M solteiro,nenhum,2,carro/outros,25,nenhum,própria,1,qualificado/funcionário,1,sim,sim,1
+sem conta,24,pagos em dia até agora,rádio/TV,3181,< 100 DM,< 1 ano,4,F div./sep./casada,nenhum,4,poupança/seguro de vida,26,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+sem conta,27,pagos em dia até agora,reparos,5190,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,4,poupança/seguro de vida,48,nenhum,própria,4,qualificado/funcionário,2,sim,sim,0
+sem conta,12,pagos em dia até agora,rádio/TV,2171,< 100 DM,< 1 ano,2,F div./sep./casada,nenhum,2,carro/outros,29,banco,própria,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,12,pagos em dia até agora,carro (novo),1007,>= 1000 DM,1-4 anos,4,M casado/viúvo,nenhum,1,imóvel,22,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,36,pagos em dia até agora,educação,1819,< 100 DM,1-4 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,37,lojas,gratuita,1,qualificado/funcionário,1,sim,sim,1
+sem conta,36,pagos em dia até agora,rádio/TV,2394,desconhecido/sem poupança,1-4 anos,4,F div./sep./casada,nenhum,4,carro/outros,25,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,36,pagos em dia até agora,carro (usado),8133,< 100 DM,1-4 anos,1,F div./sep./casada,nenhum,2,poupança/seguro de vida,30,banco,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,7,conta crítica/outros créditos,rádio/TV,730,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,2,poupança/seguro de vida,46,nenhum,aluguel,2,não qualificado (residente),1,sim,sim,0
+< 0 DM,8,conta crítica/outros créditos,outros,1164,< 100 DM,>= 7 anos,3,M solteiro,nenhum,4,desconhecido/nenhum,51,banco,gratuita,2,gerência/autônomo/alta qualif.,2,sim,sim,0
+0-200 DM,42,conta crítica/outros créditos,negócios,5954,< 100 DM,4-7 anos,2,F div./sep./casada,nenhum,1,imóvel,41,banco,própria,2,não qualificado (residente),1,não,sim,0
+< 0 DM,36,pagos em dia até agora,educação,1977,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,40,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,1
+< 0 DM,12,conta crítica/outros créditos,carro (usado),1526,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,66,nenhum,gratuita,2,gerência/autônomo/alta qualif.,1,não,sim,0
+< 0 DM,42,pagos em dia até agora,rádio/TV,3965,< 100 DM,< 1 ano,4,M solteiro,nenhum,3,carro/outros,34,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+0-200 DM,11,atrasos no passado,rádio/TV,4771,< 100 DM,4-7 anos,2,M solteiro,nenhum,4,poupança/seguro de vida,51,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,54,sem créditos/todos pagos,carro (usado),9436,desconhecido/sem poupança,1-4 anos,2,M solteiro,nenhum,2,poupança/seguro de vida,39,nenhum,própria,1,não qualificado (residente),2,não,sim,0
+0-200 DM,30,pagos em dia até agora,móveis/equip.,3832,< 100 DM,< 1 ano,2,M casado/viúvo,nenhum,1,poupança/seguro de vida,22,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,24,pagos em dia até agora,rádio/TV,5943,desconhecido/sem poupança,< 1 ano,1,F div./sep./casada,nenhum,1,carro/outros,44,nenhum,própria,2,qualificado/funcionário,1,sim,sim,1
+sem conta,15,pagos em dia até agora,rádio/TV,1213,500-1000 DM,>= 7 anos,4,M solteiro,nenhum,3,poupança/seguro de vida,47,lojas,própria,1,qualificado/funcionário,1,sim,sim,0
+sem conta,18,pagos em dia até agora,negócios,1568,100-500 DM,1-4 anos,3,F div./sep./casada,nenhum,4,poupança/seguro de vida,24,nenhum,aluguel,1,não qualificado (residente),1,não,sim,0
+< 0 DM,24,pagos em dia até agora,outros,1755,< 100 DM,>= 7 anos,4,F div./sep./casada,fiador,4,imóvel,58,nenhum,própria,1,não qualificado (residente),1,sim,sim,0
+< 0 DM,10,pagos em dia até agora,rádio/TV,2315,< 100 DM,>= 7 anos,3,M solteiro,nenhum,4,imóvel,52,nenhum,própria,1,não qualificado (residente),1,não,sim,0
+sem conta,12,conta crítica/outros créditos,negócios,1412,< 100 DM,1-4 anos,4,F div./sep./casada,fiador,2,imóvel,29,nenhum,própria,2,gerência/autônomo/alta qualif.,1,sim,sim,0
+0-200 DM,18,conta crítica/outros créditos,móveis/equip.,1295,< 100 DM,< 1 ano,4,F div./sep./casada,nenhum,1,poupança/seguro de vida,27,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+0-200 DM,36,pagos em dia até agora,educação,12612,100-500 DM,1-4 anos,1,M solteiro,nenhum,4,desconhecido/nenhum,47,nenhum,gratuita,1,qualificado/funcionário,2,sim,sim,1
+< 0 DM,18,pagos em dia até agora,carro (novo),2249,100-500 DM,4-7 anos,4,M solteiro,nenhum,3,carro/outros,30,nenhum,própria,1,gerência/autônomo/alta qualif.,2,sim,sim,0
+< 0 DM,12,sem créditos/todos pagos,reparos,1108,< 100 DM,4-7 anos,4,M solteiro,nenhum,3,imóvel,28,nenhum,própria,2,qualificado/funcionário,1,não,sim,1
+sem conta,12,conta crítica/outros créditos,rádio/TV,618,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,imóvel,56,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,12,conta crítica/outros créditos,carro (usado),1409,< 100 DM,>= 7 anos,4,M solteiro,nenhum,3,imóvel,54,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,12,conta crítica/outros créditos,rádio/TV,797,desconhecido/sem poupança,>= 7 anos,4,F div./sep./casada,nenhum,3,poupança/seguro de vida,33,banco,própria,1,não qualificado (residente),2,não,sim,1
+>= 200 DM,24,conta crítica/outros créditos,móveis/equip.,3617,desconhecido/sem poupança,>= 7 anos,4,M solteiro,co-requerente,4,desconhecido/nenhum,20,nenhum,aluguel,2,qualificado/funcionário,1,não,sim,0
+0-200 DM,12,pagos em dia até agora,carro (novo),1318,>= 1000 DM,>= 7 anos,4,M solteiro,nenhum,4,imóvel,54,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,54,sem créditos/todos pagos,negócios,15945,< 100 DM,< 1 ano,3,M solteiro,nenhum,4,desconhecido/nenhum,58,nenhum,aluguel,1,qualificado/funcionário,1,sim,sim,1
+sem conta,12,conta crítica/outros créditos,educação,2012,desconhecido/sem poupança,4-7 anos,4,F div./sep./casada,nenhum,2,carro/outros,61,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,18,pagos em dia até agora,negócios,2622,100-500 DM,1-4 anos,4,M solteiro,nenhum,4,carro/outros,34,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,36,conta crítica/outros créditos,rádio/TV,2337,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,imóvel,36,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,20,atrasos no passado,carro (usado),7057,desconhecido/sem poupança,4-7 anos,3,M solteiro,nenhum,4,poupança/seguro de vida,36,banco,aluguel,2,gerência/autônomo/alta qualif.,2,sim,sim,0
+sem conta,24,pagos em dia até agora,carro (novo),1469,100-500 DM,>= 7 anos,4,M casado/viúvo,nenhum,4,imóvel,41,nenhum,aluguel,1,não qualificado (residente),1,não,sim,0
+0-200 DM,36,pagos em dia até agora,rádio/TV,2323,< 100 DM,4-7 anos,4,M solteiro,nenhum,4,carro/outros,24,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,0
+sem conta,6,atrasos no passado,rádio/TV,932,< 100 DM,1-4 anos,3,F div./sep./casada,nenhum,2,imóvel,24,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,9,conta crítica/outros créditos,móveis/equip.,1919,< 100 DM,4-7 anos,4,M solteiro,nenhum,3,carro/outros,35,nenhum,aluguel,1,qualificado/funcionário,1,sim,sim,0
+sem conta,12,pagos em dia até agora,carro (usado),2445,desconhecido/sem poupança,< 1 ano,2,M casado/viúvo,nenhum,4,carro/outros,26,nenhum,aluguel,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,24,conta crítica/outros créditos,outros,11938,< 100 DM,1-4 anos,2,M solteiro,co-requerente,3,carro/outros,39,nenhum,própria,2,gerência/autônomo/alta qualif.,2,sim,sim,1
+sem conta,18,todos pagos neste banco,carro (novo),6458,< 100 DM,>= 7 anos,2,M solteiro,nenhum,4,desconhecido/nenhum,39,banco,própria,2,gerência/autônomo/alta qualif.,2,sim,sim,1
+0-200 DM,12,pagos em dia até agora,carro (novo),6078,< 100 DM,4-7 anos,2,M solteiro,nenhum,2,carro/outros,32,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,24,pagos em dia até agora,móveis/equip.,7721,desconhecido/sem poupança,< 1 ano,1,F div./sep./casada,nenhum,2,poupança/seguro de vida,30,nenhum,própria,1,qualificado/funcionário,1,sim,não,0
+0-200 DM,14,pagos em dia até agora,negócios,1410,500-1000 DM,>= 7 anos,1,M casado/viúvo,nenhum,2,imóvel,35,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,6,atrasos no passado,negócios,1449,100-500 DM,>= 7 anos,1,M divorciado/separado,nenhum,2,carro/outros,31,banco,própria,2,qualificado/funcionário,2,não,sim,0
+>= 200 DM,15,pagos em dia até agora,educação,392,< 100 DM,< 1 ano,4,F div./sep./casada,nenhum,4,poupança/seguro de vida,23,nenhum,aluguel,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,18,pagos em dia até agora,carro (novo),6260,< 100 DM,4-7 anos,3,M solteiro,nenhum,3,imóvel,28,nenhum,aluguel,1,não qualificado (residente),1,não,sim,0
+sem conta,36,conta crítica/outros créditos,carro (novo),7855,< 100 DM,1-4 anos,4,F div./sep./casada,nenhum,2,imóvel,25,lojas,própria,2,qualificado/funcionário,1,sim,sim,1
+< 0 DM,12,pagos em dia até agora,rádio/TV,1680,500-1000 DM,>= 7 anos,3,M casado/viúvo,nenhum,1,imóvel,35,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,48,conta crítica/outros créditos,rádio/TV,3578,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,1,imóvel,47,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+< 0 DM,42,pagos em dia até agora,rádio/TV,7174,desconhecido/sem poupança,4-7 anos,4,F div./sep./casada,nenhum,3,carro/outros,30,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,1
+< 0 DM,10,conta crítica/outros créditos,móveis/equip.,2132,desconhecido/sem poupança,< 1 ano,2,F div./sep./casada,co-requerente,3,imóvel,27,nenhum,aluguel,2,qualificado/funcionário,1,não,não,0
+< 0 DM,33,conta crítica/outros créditos,móveis/equip.,4281,500-1000 DM,1-4 anos,1,F div./sep./casada,nenhum,4,carro/outros,23,nenhum,própria,2,qualificado/funcionário,1,não,sim,1
+0-200 DM,12,conta crítica/outros créditos,carro (novo),2366,500-1000 DM,4-7 anos,3,M divorciado/separado,nenhum,3,carro/outros,36,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+< 0 DM,21,pagos em dia até agora,rádio/TV,1835,< 100 DM,1-4 anos,3,F div./sep./casada,nenhum,2,imóvel,25,nenhum,própria,2,qualificado/funcionário,1,sim,sim,1
+sem conta,24,conta crítica/outros créditos,carro (usado),3868,< 100 DM,>= 7 anos,4,F div./sep./casada,nenhum,2,carro/outros,41,nenhum,aluguel,2,gerência/autônomo/alta qualif.,1,sim,sim,0
+sem conta,12,pagos em dia até agora,móveis/equip.,1768,< 100 DM,1-4 anos,3,M solteiro,nenhum,2,imóvel,24,nenhum,aluguel,1,não qualificado (residente),1,não,sim,0
+>= 200 DM,10,conta crítica/outros créditos,carro (novo),781,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,63,nenhum,gratuita,2,qualificado/funcionário,1,sim,sim,0
+0-200 DM,18,pagos em dia até agora,móveis/equip.,1924,desconhecido/sem poupança,< 1 ano,4,F div./sep./casada,nenhum,3,imóvel,27,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,1
+< 0 DM,12,conta crítica/outros créditos,carro (novo),2121,< 100 DM,1-4 anos,4,M solteiro,nenhum,2,poupança/seguro de vida,30,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+< 0 DM,12,pagos em dia até agora,rádio/TV,701,< 100 DM,1-4 anos,4,M casado/viúvo,nenhum,2,imóvel,40,nenhum,própria,1,não qualificado (residente),1,não,sim,0
+0-200 DM,12,pagos em dia até agora,reparos,639,< 100 DM,1-4 anos,4,M solteiro,nenhum,2,carro/outros,30,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+0-200 DM,12,conta crítica/outros créditos,carro (usado),1860,< 100 DM,desempregado,4,M solteiro,nenhum,2,carro/outros,34,nenhum,própria,2,gerência/autônomo/alta qualif.,1,sim,sim,0
+< 0 DM,12,conta crítica/outros créditos,carro (novo),3499,< 100 DM,1-4 anos,3,F div./sep./casada,co-requerente,2,imóvel,29,nenhum,própria,2,qualificado/funcionário,1,não,sim,1
+0-200 DM,48,pagos em dia até agora,carro (novo),8487,desconhecido/sem poupança,4-7 anos,1,F div./sep./casada,nenhum,2,carro/outros,24,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,36,atrasos no passado,educação,6887,< 100 DM,1-4 anos,4,M solteiro,nenhum,3,poupança/seguro de vida,29,lojas,própria,1,qualificado/funcionário,1,sim,sim,1
+sem conta,15,pagos em dia até agora,móveis/equip.,2708,< 100 DM,< 1 ano,2,M solteiro,nenhum,3,poupança/seguro de vida,27,banco,própria,2,não qualificado (residente),1,não,sim,0
+sem conta,18,pagos em dia até agora,móveis/equip.,1984,< 100 DM,1-4 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,47,banco,gratuita,2,qualificado/funcionário,1,não,sim,0
+sem conta,60,pagos em dia até agora,rádio/TV,10144,100-500 DM,4-7 anos,2,F div./sep./casada,nenhum,4,imóvel,21,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+sem conta,12,conta crítica/outros créditos,rádio/TV,1240,desconhecido/sem poupança,>= 7 anos,4,F div./sep./casada,nenhum,2,imóvel,38,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+sem conta,27,atrasos no passado,carro (usado),8613,>= 1000 DM,1-4 anos,2,M solteiro,nenhum,2,carro/outros,27,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+0-200 DM,12,pagos em dia até agora,rádio/TV,766,500-1000 DM,1-4 anos,4,M solteiro,nenhum,3,imóvel,66,nenhum,própria,1,não qualificado (residente),1,não,sim,1
+0-200 DM,15,conta crítica/outros créditos,rádio/TV,2728,desconhecido/sem poupança,4-7 anos,4,M solteiro,fiador,2,imóvel,35,banco,própria,3,qualificado/funcionário,1,sim,sim,0
+>= 200 DM,12,pagos em dia até agora,rádio/TV,1881,< 100 DM,1-4 anos,2,F div./sep./casada,nenhum,2,carro/outros,44,nenhum,aluguel,1,não qualificado (residente),1,sim,sim,0
+>= 200 DM,6,pagos em dia até agora,carro (novo),709,>= 1000 DM,< 1 ano,2,M casado/viúvo,nenhum,2,imóvel,27,nenhum,própria,1,desempregado/não qualif. (não residente),1,não,não,0
+0-200 DM,36,pagos em dia até agora,rádio/TV,4795,< 100 DM,< 1 ano,4,F div./sep./casada,nenhum,1,desconhecido/nenhum,30,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+< 0 DM,27,pagos em dia até agora,rádio/TV,3416,< 100 DM,1-4 anos,3,M solteiro,nenhum,2,carro/outros,27,nenhum,própria,1,gerência/autônomo/alta qualif.,1,não,sim,0
+< 0 DM,18,pagos em dia até agora,móveis/equip.,2462,< 100 DM,1-4 anos,2,M solteiro,nenhum,2,carro/outros,22,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+sem conta,21,conta crítica/outros créditos,móveis/equip.,2288,< 100 DM,< 1 ano,4,F div./sep./casada,nenhum,4,poupança/seguro de vida,23,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,48,todos pagos neste banco,negócios,3566,100-500 DM,4-7 anos,4,M solteiro,nenhum,2,carro/outros,30,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,6,conta crítica/outros créditos,carro (novo),860,< 100 DM,>= 7 anos,1,F div./sep./casada,nenhum,4,desconhecido/nenhum,39,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+sem conta,12,conta crítica/outros créditos,carro (novo),682,100-500 DM,4-7 anos,4,F div./sep./casada,nenhum,3,carro/outros,51,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+< 0 DM,36,conta crítica/outros créditos,móveis/equip.,5371,< 100 DM,1-4 anos,3,M solteiro,fiador,2,poupança/seguro de vida,28,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,18,conta crítica/outros créditos,rádio/TV,1582,>= 1000 DM,>= 7 anos,4,M solteiro,nenhum,4,carro/outros,46,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,6,pagos em dia até agora,rádio/TV,1346,100-500 DM,>= 7 anos,2,M solteiro,nenhum,4,desconhecido/nenhum,42,banco,gratuita,1,qualificado/funcionário,2,sim,sim,0
+sem conta,10,pagos em dia até agora,rádio/TV,1924,< 100 DM,1-4 anos,1,M solteiro,nenhum,4,poupança/seguro de vida,38,nenhum,própria,1,qualificado/funcionário,1,sim,não,0
+>= 200 DM,36,pagos em dia até agora,rádio/TV,5848,< 100 DM,1-4 anos,4,M solteiro,nenhum,1,carro/outros,24,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,24,conta crítica/outros créditos,carro (usado),7758,>= 1000 DM,>= 7 anos,2,F div./sep./casada,nenhum,4,desconhecido/nenhum,29,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,24,atrasos no passado,negócios,6967,100-500 DM,4-7 anos,4,M solteiro,nenhum,4,carro/outros,36,nenhum,aluguel,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+< 0 DM,12,pagos em dia até agora,móveis/equip.,1282,< 100 DM,1-4 anos,2,F div./sep./casada,nenhum,4,carro/outros,20,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,1
+< 0 DM,9,conta crítica/outros créditos,reparos,1288,100-500 DM,>= 7 anos,3,M solteiro,fiador,4,imóvel,48,nenhum,própria,2,qualificado/funcionário,2,não,não,0
+< 0 DM,12,todos pagos neste banco,requalificação,339,< 100 DM,>= 7 anos,4,M casado/viúvo,nenhum,1,carro/outros,45,banco,própria,1,não qualificado (residente),1,não,sim,0
+0-200 DM,24,pagos em dia até agora,carro (novo),3512,100-500 DM,4-7 anos,2,M solteiro,nenhum,3,carro/outros,38,banco,própria,2,qualificado/funcionário,1,sim,sim,0
+sem conta,6,conta crítica/outros créditos,rádio/TV,1898,desconhecido/sem poupança,1-4 anos,1,M solteiro,nenhum,2,imóvel,34,nenhum,própria,2,não qualificado (residente),2,não,sim,0
+sem conta,24,conta crítica/outros créditos,rádio/TV,2872,100-500 DM,>= 7 anos,3,M solteiro,nenhum,4,imóvel,36,nenhum,própria,1,qualificado/funcionário,2,sim,sim,0
+sem conta,18,conta crítica/outros créditos,carro (novo),1055,< 100 DM,< 1 ano,4,F div./sep./casada,nenhum,1,poupança/seguro de vida,30,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,15,pagos em dia até agora,eletrodomésticos,1262,500-1000 DM,4-7 anos,4,M solteiro,nenhum,3,poupança/seguro de vida,36,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+0-200 DM,10,pagos em dia até agora,carro (novo),7308,< 100 DM,desempregado,2,M solteiro,nenhum,4,desconhecido/nenhum,70,banco,gratuita,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+sem conta,36,pagos em dia até agora,carro (novo),909,500-1000 DM,>= 7 anos,4,M solteiro,nenhum,4,poupança/seguro de vida,36,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,6,pagos em dia até agora,móveis/equip.,2978,500-1000 DM,1-4 anos,1,M solteiro,nenhum,2,carro/outros,32,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+< 0 DM,18,pagos em dia até agora,móveis/equip.,1131,< 100 DM,desempregado,4,F div./sep./casada,nenhum,2,carro/outros,33,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+0-200 DM,11,pagos em dia até agora,móveis/equip.,1577,>= 1000 DM,< 1 ano,4,F div./sep./casada,nenhum,1,imóvel,20,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,24,pagos em dia até agora,móveis/equip.,3972,< 100 DM,4-7 anos,2,F div./sep./casada,nenhum,4,poupança/seguro de vida,25,nenhum,aluguel,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,24,conta crítica/outros créditos,negócios,1935,< 100 DM,>= 7 anos,4,M divorciado/separado,nenhum,4,imóvel,31,nenhum,própria,2,qualificado/funcionário,1,sim,sim,1
+< 0 DM,15,sem créditos/todos pagos,carro (novo),950,< 100 DM,>= 7 anos,4,M solteiro,nenhum,3,carro/outros,33,nenhum,aluguel,2,qualificado/funcionário,2,não,sim,1
+sem conta,12,pagos em dia até agora,móveis/equip.,763,< 100 DM,1-4 anos,4,F div./sep./casada,nenhum,1,imóvel,26,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,24,atrasos no passado,móveis/equip.,2064,< 100 DM,desempregado,3,F div./sep./casada,nenhum,2,poupança/seguro de vida,34,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,1
+0-200 DM,8,pagos em dia até agora,rádio/TV,1414,< 100 DM,1-4 anos,4,M solteiro,fiador,2,imóvel,33,nenhum,própria,1,qualificado/funcionário,1,não,não,0
+< 0 DM,21,atrasos no passado,educação,3414,< 100 DM,< 1 ano,2,M solteiro,nenhum,1,poupança/seguro de vida,26,nenhum,própria,2,qualificado/funcionário,1,não,sim,1
+sem conta,30,todos pagos neste banco,carro (usado),7485,desconhecido/sem poupança,desempregado,4,F div./sep./casada,nenhum,1,imóvel,53,banco,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,1
+< 0 DM,12,pagos em dia até agora,móveis/equip.,2577,< 100 DM,1-4 anos,2,M divorciado/separado,nenhum,1,carro/outros,42,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,6,conta crítica/outros créditos,rádio/TV,338,500-1000 DM,>= 7 anos,4,M solteiro,nenhum,4,carro/outros,52,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,12,pagos em dia até agora,rádio/TV,1963,< 100 DM,4-7 anos,4,M solteiro,nenhum,2,carro/outros,31,nenhum,aluguel,2,gerência/autônomo/alta qualif.,2,sim,sim,0
+< 0 DM,21,conta crítica/outros créditos,carro (novo),571,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,imóvel,65,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,36,atrasos no passado,negócios,9572,< 100 DM,< 1 ano,1,M divorciado/separado,nenhum,1,carro/outros,28,nenhum,própria,2,qualificado/funcionário,1,não,sim,1
+0-200 DM,36,atrasos no passado,negócios,4455,< 100 DM,1-4 anos,2,M divorciado/separado,nenhum,2,imóvel,30,lojas,própria,2,gerência/autônomo/alta qualif.,1,sim,sim,1
+< 0 DM,21,todos pagos neste banco,carro (novo),1647,desconhecido/sem poupança,1-4 anos,4,M solteiro,nenhum,2,poupança/seguro de vida,40,nenhum,própria,2,não qualificado (residente),2,não,sim,1
+sem conta,24,conta crítica/outros créditos,móveis/equip.,3777,>= 1000 DM,1-4 anos,4,M solteiro,nenhum,4,imóvel,50,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,18,conta crítica/outros créditos,carro (novo),884,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,carro/outros,36,banco,própria,1,qualificado/funcionário,2,sim,sim,1
+sem conta,15,conta crítica/outros créditos,rádio/TV,1360,< 100 DM,1-4 anos,4,M solteiro,nenhum,2,poupança/seguro de vida,31,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+0-200 DM,9,todos pagos neste banco,carro (usado),5129,< 100 DM,>= 7 anos,2,F div./sep./casada,nenhum,4,desconhecido/nenhum,74,banco,gratuita,1,gerência/autônomo/alta qualif.,2,sim,sim,1
+0-200 DM,16,conta crítica/outros créditos,carro (novo),1175,< 100 DM,desempregado,2,M solteiro,nenhum,3,carro/outros,68,nenhum,gratuita,3,desempregado/não qualif. (não residente),1,sim,sim,0
+< 0 DM,12,pagos em dia até agora,rádio/TV,674,100-500 DM,4-7 anos,4,M casado/viúvo,nenhum,1,poupança/seguro de vida,20,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+0-200 DM,18,sem créditos/todos pagos,móveis/equip.,3244,< 100 DM,1-4 anos,1,F div./sep./casada,nenhum,4,carro/outros,33,banco,própria,2,qualificado/funcionário,1,sim,sim,0
+sem conta,24,pagos em dia até agora,negócios,4591,>= 1000 DM,1-4 anos,2,M solteiro,nenhum,3,poupança/seguro de vida,54,nenhum,própria,3,gerência/autônomo/alta qualif.,1,sim,sim,1
+0-200 DM,48,sem créditos/todos pagos,negócios,3844,100-500 DM,4-7 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,34,nenhum,gratuita,1,não qualificado (residente),2,não,sim,1
+0-200 DM,27,pagos em dia até agora,negócios,3915,< 100 DM,1-4 anos,4,M solteiro,nenhum,2,carro/outros,36,nenhum,própria,1,qualificado/funcionário,2,sim,sim,1
+sem conta,6,pagos em dia até agora,rádio/TV,2108,< 100 DM,4-7 anos,2,M casado/viúvo,nenhum,2,imóvel,29,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,45,pagos em dia até agora,rádio/TV,3031,100-500 DM,1-4 anos,4,M solteiro,fiador,4,poupança/seguro de vida,21,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,1
+0-200 DM,9,conta crítica/outros créditos,educação,1501,< 100 DM,>= 7 anos,2,F div./sep./casada,nenhum,3,carro/outros,34,nenhum,própria,2,gerência/autônomo/alta qualif.,1,sim,sim,1
+sem conta,6,conta crítica/outros créditos,rádio/TV,1382,< 100 DM,1-4 anos,1,F div./sep./casada,nenhum,1,carro/outros,28,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+0-200 DM,12,pagos em dia até agora,móveis/equip.,951,100-500 DM,< 1 ano,4,F div./sep./casada,nenhum,4,carro/outros,27,banco,aluguel,4,qualificado/funcionário,1,não,sim,1
+0-200 DM,24,pagos em dia até agora,carro (usado),2760,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,36,banco,gratuita,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,18,atrasos no passado,móveis/equip.,4297,< 100 DM,>= 7 anos,4,M divorciado/separado,nenhum,3,desconhecido/nenhum,40,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,1
+sem conta,9,conta crítica/outros créditos,educação,936,500-1000 DM,>= 7 anos,4,M solteiro,nenhum,2,carro/outros,52,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+< 0 DM,12,pagos em dia até agora,carro (novo),1168,< 100 DM,1-4 anos,4,M casado/viúvo,nenhum,3,imóvel,27,nenhum,própria,1,não qualificado (residente),1,não,sim,0
+sem conta,27,atrasos no passado,negócios,5117,< 100 DM,4-7 anos,3,M solteiro,nenhum,4,carro/outros,26,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+< 0 DM,12,pagos em dia até agora,requalificação,902,< 100 DM,4-7 anos,4,M casado/viúvo,nenhum,4,poupança/seguro de vida,21,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,1
+sem conta,12,conta crítica/outros créditos,carro (novo),1495,< 100 DM,>= 7 anos,4,M solteiro,nenhum,1,imóvel,38,nenhum,própria,2,não qualificado (residente),2,não,sim,0
+< 0 DM,30,conta crítica/outros créditos,carro (usado),10623,< 100 DM,>= 7 anos,3,M solteiro,nenhum,4,desconhecido/nenhum,38,nenhum,gratuita,3,gerência/autônomo/alta qualif.,2,sim,sim,0
+sem conta,12,conta crítica/outros créditos,móveis/equip.,1935,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,imóvel,43,nenhum,própria,3,qualificado/funcionário,1,sim,sim,0
+0-200 DM,12,conta crítica/outros créditos,eletrodomésticos,1424,< 100 DM,4-7 anos,4,M solteiro,nenhum,3,poupança/seguro de vida,26,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,24,pagos em dia até agora,negócios,6568,< 100 DM,1-4 anos,2,M casado/viúvo,nenhum,2,carro/outros,21,lojas,própria,1,não qualificado (residente),1,não,sim,0
+sem conta,12,pagos em dia até agora,carro (usado),1413,>= 1000 DM,4-7 anos,3,M solteiro,nenhum,2,poupança/seguro de vida,55,nenhum,própria,1,qualificado/funcionário,1,não,não,0
+sem conta,9,conta crítica/outros créditos,rádio/TV,3074,desconhecido/sem poupança,1-4 anos,1,M solteiro,nenhum,2,imóvel,33,nenhum,própria,2,qualificado/funcionário,2,não,sim,0
+sem conta,36,pagos em dia até agora,rádio/TV,3835,desconhecido/sem poupança,>= 7 anos,2,F div./sep./casada,nenhum,4,imóvel,45,nenhum,própria,1,não qualificado (residente),1,sim,sim,0
+< 0 DM,27,sem créditos/todos pagos,negócios,5293,< 100 DM,desempregado,2,M solteiro,nenhum,4,poupança/seguro de vida,50,lojas,própria,2,qualificado/funcionário,1,sim,sim,1
+>= 200 DM,30,atrasos no passado,negócios,1908,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,imóvel,66,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,1
+sem conta,36,conta crítica/outros créditos,rádio/TV,3342,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,2,carro/outros,51,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,6,conta crítica/outros créditos,requalificação,932,desconhecido/sem poupança,4-7 anos,1,F div./sep./casada,nenhum,3,poupança/seguro de vida,39,nenhum,própria,2,não qualificado (residente),1,não,sim,0
+< 0 DM,18,sem créditos/todos pagos,negócios,3104,< 100 DM,4-7 anos,3,M solteiro,nenhum,1,poupança/seguro de vida,31,banco,própria,1,qualificado/funcionário,1,sim,sim,0
+>= 200 DM,36,pagos em dia até agora,rádio/TV,3913,< 100 DM,1-4 anos,2,M solteiro,nenhum,2,imóvel,23,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+< 0 DM,24,pagos em dia até agora,móveis/equip.,3021,< 100 DM,1-4 anos,2,M divorciado/separado,nenhum,2,imóvel,24,nenhum,aluguel,1,não qualificado (residente),1,não,sim,0
+sem conta,10,pagos em dia até agora,carro (novo),1364,< 100 DM,1-4 anos,2,F div./sep./casada,nenhum,4,carro/outros,64,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,12,pagos em dia até agora,rádio/TV,625,< 100 DM,< 1 ano,4,M casado/viúvo,fiador,1,imóvel,26,banco,própria,1,não qualificado (residente),1,não,sim,0
+< 0 DM,12,pagos em dia até agora,educação,1200,desconhecido/sem poupança,1-4 anos,4,F div./sep./casada,nenhum,4,poupança/seguro de vida,23,banco,aluguel,1,qualificado/funcionário,1,sim,sim,0
+sem conta,12,pagos em dia até agora,rádio/TV,707,< 100 DM,1-4 anos,4,M solteiro,nenhum,2,imóvel,30,banco,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,24,atrasos no passado,negócios,2978,desconhecido/sem poupança,1-4 anos,4,M solteiro,nenhum,4,imóvel,32,nenhum,própria,2,qualificado/funcionário,2,sim,sim,0
+sem conta,15,pagos em dia até agora,carro (usado),4657,< 100 DM,1-4 anos,3,M solteiro,nenhum,2,carro/outros,30,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+sem conta,36,sem créditos/todos pagos,reparos,2613,< 100 DM,1-4 anos,4,M solteiro,nenhum,2,carro/outros,27,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+0-200 DM,48,pagos em dia até agora,rádio/TV,10961,>= 1000 DM,4-7 anos,1,M solteiro,co-requerente,2,desconhecido/nenhum,27,banco,própria,2,qualificado/funcionário,1,sim,sim,1
+< 0 DM,12,pagos em dia até agora,móveis/equip.,7865,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,53,nenhum,gratuita,1,gerência/autônomo/alta qualif.,1,sim,sim,1
+sem conta,9,pagos em dia até agora,rádio/TV,1478,< 100 DM,4-7 anos,4,M solteiro,nenhum,2,carro/outros,22,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+< 0 DM,24,pagos em dia até agora,móveis/equip.,3149,< 100 DM,< 1 ano,4,M solteiro,nenhum,1,desconhecido/nenhum,22,banco,gratuita,1,qualificado/funcionário,1,não,sim,0
+>= 200 DM,36,pagos em dia até agora,rádio/TV,4210,< 100 DM,1-4 anos,4,M solteiro,nenhum,2,carro/outros,26,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+sem conta,9,pagos em dia até agora,carro (novo),2507,500-1000 DM,>= 7 anos,2,M solteiro,nenhum,4,desconhecido/nenhum,51,nenhum,gratuita,1,não qualificado (residente),1,não,sim,0
+sem conta,12,pagos em dia até agora,rádio/TV,2141,100-500 DM,4-7 anos,3,M solteiro,nenhum,1,desconhecido/nenhum,35,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,18,pagos em dia até agora,rádio/TV,866,< 100 DM,1-4 anos,4,M casado/viúvo,fiador,2,imóvel,25,nenhum,própria,1,não qualificado (residente),1,não,sim,0
+sem conta,4,conta crítica/outros créditos,rádio/TV,1544,< 100 DM,4-7 anos,2,M solteiro,nenhum,1,imóvel,42,nenhum,própria,3,não qualificado (residente),2,não,sim,0
+< 0 DM,24,pagos em dia até agora,rádio/TV,1823,< 100 DM,desempregado,4,M solteiro,nenhum,2,carro/outros,30,lojas,própria,1,gerência/autônomo/alta qualif.,2,não,sim,1
+0-200 DM,6,pagos em dia até agora,carro (novo),14555,desconhecido/sem poupança,desempregado,1,M solteiro,nenhum,2,poupança/seguro de vida,23,nenhum,própria,1,desempregado/não qualif. (não residente),1,sim,sim,1
+0-200 DM,21,pagos em dia até agora,negócios,2767,100-500 DM,>= 7 anos,4,M divorciado/separado,nenhum,2,carro/outros,61,banco,aluguel,2,não qualificado (residente),1,não,sim,1
+sem conta,12,conta crítica/outros créditos,rádio/TV,1291,< 100 DM,1-4 anos,4,F div./sep./casada,nenhum,2,poupança/seguro de vida,35,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+< 0 DM,30,pagos em dia até agora,rádio/TV,2522,< 100 DM,>= 7 anos,1,M solteiro,fiador,3,poupança/seguro de vida,39,nenhum,própria,1,qualificado/funcionário,2,não,sim,0
+< 0 DM,24,pagos em dia até agora,carro (novo),915,desconhecido/sem poupança,>= 7 anos,4,F div./sep./casada,nenhum,2,carro/outros,29,banco,própria,1,qualificado/funcionário,1,não,sim,1
+sem conta,6,pagos em dia até agora,rádio/TV,1595,< 100 DM,4-7 anos,3,M solteiro,nenhum,2,poupança/seguro de vida,51,nenhum,própria,1,qualificado/funcionário,2,não,sim,0
+< 0 DM,48,sem créditos/todos pagos,carro (usado),4605,< 100 DM,>= 7 anos,3,M solteiro,nenhum,4,desconhecido/nenhum,24,nenhum,gratuita,2,qualificado/funcionário,2,não,sim,1
+sem conta,12,conta crítica/outros créditos,negócios,1185,< 100 DM,1-4 anos,3,F div./sep./casada,nenhum,2,imóvel,27,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,12,todos pagos neste banco,requalificação,3447,500-1000 DM,1-4 anos,4,F div./sep./casada,nenhum,3,imóvel,35,nenhum,própria,1,não qualificado (residente),2,não,sim,0
+sem conta,24,pagos em dia até agora,negócios,1258,< 100 DM,4-7 anos,4,M solteiro,nenhum,1,imóvel,25,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+sem conta,12,conta crítica/outros créditos,rádio/TV,717,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,imóvel,52,nenhum,própria,3,qualificado/funcionário,1,não,sim,0
+sem conta,6,sem créditos/todos pagos,carro (novo),1204,100-500 DM,1-4 anos,4,M solteiro,nenhum,1,desconhecido/nenhum,35,banco,aluguel,1,qualificado/funcionário,1,não,não,0
+>= 200 DM,24,pagos em dia até agora,móveis/equip.,1925,< 100 DM,1-4 anos,2,M solteiro,nenhum,2,imóvel,26,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,18,pagos em dia até agora,rádio/TV,433,< 100 DM,desempregado,3,F div./sep./casada,co-requerente,4,imóvel,22,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,1
+< 0 DM,6,conta crítica/outros créditos,carro (novo),666,>= 1000 DM,4-7 anos,3,F div./sep./casada,nenhum,4,imóvel,39,nenhum,própria,2,não qualificado (residente),1,sim,sim,0
+>= 200 DM,12,pagos em dia até agora,móveis/equip.,2251,< 100 DM,1-4 anos,1,F div./sep./casada,nenhum,2,carro/outros,46,nenhum,própria,1,não qualificado (residente),1,não,sim,0
+0-200 DM,30,pagos em dia até agora,carro (novo),2150,< 100 DM,1-4 anos,4,F div./sep./casada,fiador,2,desconhecido/nenhum,24,banco,própria,1,qualificado/funcionário,1,não,sim,1
+sem conta,24,atrasos no passado,móveis/equip.,4151,100-500 DM,1-4 anos,2,M solteiro,nenhum,3,poupança/seguro de vida,35,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+0-200 DM,9,pagos em dia até agora,móveis/equip.,2030,desconhecido/sem poupança,4-7 anos,2,M solteiro,nenhum,1,carro/outros,24,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,60,atrasos no passado,rádio/TV,7418,desconhecido/sem poupança,1-4 anos,1,M solteiro,nenhum,1,imóvel,27,nenhum,própria,1,não qualificado (residente),1,não,sim,0
+sem conta,24,conta crítica/outros créditos,rádio/TV,2684,< 100 DM,1-4 anos,4,M solteiro,nenhum,2,imóvel,35,nenhum,própria,2,não qualificado (residente),1,não,sim,0
+< 0 DM,12,todos pagos neste banco,rádio/TV,2149,< 100 DM,1-4 anos,4,M divorciado/separado,nenhum,1,desconhecido/nenhum,29,nenhum,gratuita,1,qualificado/funcionário,1,não,sim,1
+sem conta,15,pagos em dia até agora,carro (usado),3812,100-500 DM,< 1 ano,1,F div./sep./casada,nenhum,4,carro/outros,23,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+sem conta,11,conta crítica/outros créditos,rádio/TV,1154,100-500 DM,desempregado,4,F div./sep./casada,nenhum,4,imóvel,57,nenhum,própria,3,não qualificado (residente),1,não,sim,0
+< 0 DM,12,pagos em dia até agora,móveis/equip.,1657,< 100 DM,1-4 anos,2,M solteiro,nenhum,2,imóvel,27,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,24,pagos em dia até agora,rádio/TV,1603,< 100 DM,>= 7 anos,4,F div./sep./casada,nenhum,4,carro/outros,55,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,18,conta crítica/outros créditos,carro (novo),5302,< 100 DM,>= 7 anos,2,M solteiro,nenhum,4,desconhecido/nenhum,36,nenhum,gratuita,3,gerência/autônomo/alta qualif.,1,sim,sim,0
+sem conta,12,conta crítica/outros créditos,educação,2748,< 100 DM,>= 7 anos,2,F div./sep./casada,nenhum,4,desconhecido/nenhum,57,banco,gratuita,3,não qualificado (residente),1,não,sim,0
+sem conta,10,conta crítica/outros créditos,carro (novo),1231,< 100 DM,>= 7 anos,3,M solteiro,nenhum,4,imóvel,32,nenhum,própria,2,não qualificado (residente),2,não,não,0
+0-200 DM,15,pagos em dia até agora,rádio/TV,802,< 100 DM,>= 7 anos,4,M solteiro,nenhum,3,carro/outros,37,nenhum,própria,1,qualificado/funcionário,2,não,sim,1
+sem conta,36,conta crítica/outros créditos,negócios,6304,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,4,imóvel,36,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,24,pagos em dia até agora,rádio/TV,1533,< 100 DM,< 1 ano,4,F div./sep./casada,nenhum,3,carro/outros,38,lojas,própria,1,qualificado/funcionário,1,sim,sim,0
+< 0 DM,14,pagos em dia até agora,carro (novo),8978,< 100 DM,>= 7 anos,1,M divorciado/separado,nenhum,4,poupança/seguro de vida,45,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,não,1
+sem conta,24,pagos em dia até agora,rádio/TV,999,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,2,carro/outros,25,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,18,pagos em dia até agora,carro (novo),2662,desconhecido/sem poupança,4-7 anos,4,M solteiro,nenhum,3,poupança/seguro de vida,32,nenhum,própria,1,qualificado/funcionário,1,não,não,0
+sem conta,12,conta crítica/outros créditos,móveis/equip.,1402,500-1000 DM,4-7 anos,3,F div./sep./casada,nenhum,4,carro/outros,37,nenhum,aluguel,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,48,todos pagos neste banco,carro (novo),12169,desconhecido/sem poupança,desempregado,4,M solteiro,co-requerente,4,desconhecido/nenhum,36,nenhum,gratuita,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+0-200 DM,48,pagos em dia até agora,rádio/TV,3060,< 100 DM,4-7 anos,4,M solteiro,nenhum,4,imóvel,28,nenhum,própria,2,qualificado/funcionário,1,não,sim,1
+< 0 DM,30,pagos em dia até agora,reparos,11998,< 100 DM,< 1 ano,1,M divorciado/separado,nenhum,1,desconhecido/nenhum,34,nenhum,própria,1,não qualificado (residente),1,sim,sim,1
+sem conta,9,pagos em dia até agora,rádio/TV,2697,< 100 DM,1-4 anos,1,M solteiro,nenhum,2,imóvel,32,nenhum,própria,1,qualificado/funcionário,2,não,sim,0
+sem conta,18,conta crítica/outros créditos,rádio/TV,2404,< 100 DM,1-4 anos,2,F div./sep./casada,nenhum,2,carro/outros,26,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+< 0 DM,12,pagos em dia até agora,móveis/equip.,1262,desconhecido/sem poupança,>= 7 anos,2,M divorciado/separado,nenhum,4,poupança/seguro de vida,49,nenhum,própria,1,não qualificado (residente),1,sim,sim,0
+sem conta,6,pagos em dia até agora,móveis/equip.,4611,< 100 DM,< 1 ano,1,F div./sep./casada,nenhum,4,poupança/seguro de vida,32,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+sem conta,24,pagos em dia até agora,rádio/TV,1901,100-500 DM,1-4 anos,4,M solteiro,nenhum,4,carro/outros,29,nenhum,aluguel,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+sem conta,15,conta crítica/outros créditos,carro (usado),3368,>= 1000 DM,>= 7 anos,3,M solteiro,nenhum,4,desconhecido/nenhum,23,nenhum,aluguel,2,qualificado/funcionário,1,sim,sim,0
+sem conta,12,pagos em dia até agora,móveis/equip.,1574,< 100 DM,1-4 anos,4,M solteiro,nenhum,2,imóvel,50,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+>= 200 DM,18,todos pagos neste banco,rádio/TV,1445,desconhecido/sem poupança,4-7 anos,4,M solteiro,nenhum,4,carro/outros,49,banco,própria,1,não qualificado (residente),1,não,sim,0
+sem conta,15,conta crítica/outros créditos,móveis/equip.,1520,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,4,poupança/seguro de vida,63,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,24,conta crítica/outros créditos,carro (novo),3878,100-500 DM,< 1 ano,4,M divorciado/separado,nenhum,2,carro/outros,37,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+< 0 DM,47,pagos em dia até agora,carro (novo),10722,< 100 DM,< 1 ano,1,F div./sep./casada,nenhum,1,imóvel,35,nenhum,própria,1,não qualificado (residente),1,sim,sim,0
+< 0 DM,48,pagos em dia até agora,carro (usado),4788,< 100 DM,4-7 anos,4,M solteiro,nenhum,3,poupança/seguro de vida,26,nenhum,própria,1,qualificado/funcionário,2,não,sim,0
+0-200 DM,48,atrasos no passado,outros,7582,100-500 DM,desempregado,2,M solteiro,nenhum,4,desconhecido/nenhum,31,nenhum,gratuita,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+0-200 DM,12,pagos em dia até agora,rádio/TV,1092,< 100 DM,1-4 anos,4,F div./sep./casada,fiador,4,imóvel,49,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+< 0 DM,24,atrasos no passado,rádio/TV,1024,< 100 DM,< 1 ano,4,M casado/viúvo,nenhum,4,imóvel,48,lojas,própria,1,qualificado/funcionário,1,não,sim,1
+sem conta,12,pagos em dia até agora,negócios,1076,< 100 DM,1-4 anos,2,M casado/viúvo,nenhum,2,imóvel,26,nenhum,própria,1,qualificado/funcionário,1,sim,não,0
+0-200 DM,36,pagos em dia até agora,carro (usado),9398,< 100 DM,< 1 ano,1,M casado/viúvo,nenhum,4,carro/outros,28,nenhum,aluguel,1,gerência/autônomo/alta qualif.,1,sim,sim,1
+< 0 DM,24,conta crítica/outros créditos,carro (usado),6419,< 100 DM,>= 7 anos,2,F div./sep./casada,nenhum,4,desconhecido/nenhum,44,nenhum,gratuita,2,gerência/autônomo/alta qualif.,2,sim,sim,0
+>= 200 DM,42,conta crítica/outros créditos,carro (usado),4796,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,56,nenhum,gratuita,1,qualificado/funcionário,1,não,sim,0
+sem conta,48,conta crítica/outros créditos,negócios,7629,desconhecido/sem poupança,>= 7 anos,4,M divorciado/separado,nenhum,2,carro/outros,46,banco,própria,2,gerência/autônomo/alta qualif.,2,não,sim,0
+0-200 DM,48,pagos em dia até agora,móveis/equip.,9960,< 100 DM,< 1 ano,1,F div./sep./casada,nenhum,2,carro/outros,26,nenhum,própria,1,qualificado/funcionário,1,sim,sim,1
+sem conta,12,pagos em dia até agora,carro (usado),4675,desconhecido/sem poupança,< 1 ano,1,F div./sep./casada,nenhum,4,carro/outros,20,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,0
+sem conta,10,pagos em dia até agora,carro (novo),1287,desconhecido/sem poupança,>= 7 anos,4,M solteiro,co-requerente,2,poupança/seguro de vida,45,nenhum,própria,1,não qualificado (residente),1,não,não,0
+sem conta,18,pagos em dia até agora,móveis/equip.,2515,< 100 DM,1-4 anos,3,M solteiro,nenhum,4,imóvel,43,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,21,conta crítica/outros créditos,móveis/equip.,2745,>= 1000 DM,4-7 anos,3,M solteiro,nenhum,2,carro/outros,32,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+sem conta,6,pagos em dia até agora,carro (novo),672,< 100 DM,desempregado,1,F div./sep./casada,nenhum,4,imóvel,54,nenhum,própria,1,desempregado/não qualif. (não residente),1,sim,sim,0
+0-200 DM,36,sem créditos/todos pagos,rádio/TV,3804,< 100 DM,1-4 anos,4,F div./sep./casada,nenhum,1,carro/outros,42,nenhum,própria,1,qualificado/funcionário,1,sim,sim,1
+>= 200 DM,24,conta crítica/outros créditos,carro (novo),1344,desconhecido/sem poupança,4-7 anos,4,M solteiro,nenhum,2,imóvel,37,banco,própria,2,não qualificado (residente),2,não,sim,1
+< 0 DM,10,conta crítica/outros créditos,carro (novo),1038,< 100 DM,4-7 anos,4,M solteiro,co-requerente,3,poupança/seguro de vida,49,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+sem conta,48,conta crítica/outros créditos,carro (novo),10127,500-1000 DM,1-4 anos,2,M solteiro,nenhum,2,desconhecido/nenhum,44,banco,gratuita,1,qualificado/funcionário,1,não,sim,1
+sem conta,6,pagos em dia até agora,móveis/equip.,1543,>= 1000 DM,1-4 anos,4,M divorciado/separado,nenhum,2,imóvel,33,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,30,pagos em dia até agora,carro (usado),4811,desconhecido/sem poupança,4-7 anos,2,F div./sep./casada,nenhum,4,poupança/seguro de vida,24,lojas,aluguel,1,não qualificado (residente),1,não,sim,0
+< 0 DM,12,pagos em dia até agora,rádio/TV,727,100-500 DM,< 1 ano,4,M casado/viúvo,nenhum,3,desconhecido/nenhum,33,nenhum,própria,1,não qualificado (residente),1,sim,sim,1
+0-200 DM,8,pagos em dia até agora,móveis/equip.,1237,< 100 DM,1-4 anos,3,F div./sep./casada,nenhum,4,imóvel,24,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+0-200 DM,9,pagos em dia até agora,carro (novo),276,< 100 DM,1-4 anos,4,M casado/viúvo,nenhum,4,imóvel,22,nenhum,aluguel,1,não qualificado (residente),1,não,sim,0
+0-200 DM,48,pagos em dia até agora,outros,5381,desconhecido/sem poupança,desempregado,3,M solteiro,nenhum,4,desconhecido/nenhum,40,banco,gratuita,1,desempregado/não qualif. (não residente),1,sim,sim,0
+sem conta,24,pagos em dia até agora,móveis/equip.,5511,100-500 DM,1-4 anos,4,M solteiro,nenhum,1,carro/outros,25,lojas,própria,1,qualificado/funcionário,1,não,sim,0
+>= 200 DM,24,pagos em dia até agora,móveis/equip.,3749,< 100 DM,< 1 ano,2,F div./sep./casada,nenhum,4,carro/outros,26,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,12,pagos em dia até agora,carro (novo),685,< 100 DM,4-7 anos,2,M casado/viúvo,nenhum,3,carro/outros,25,banco,própria,1,não qualificado (residente),1,não,sim,1
+>= 200 DM,4,pagos em dia até agora,carro (novo),1494,desconhecido/sem poupança,< 1 ano,1,M solteiro,nenhum,2,imóvel,29,nenhum,própria,1,não qualificado (residente),2,não,não,0
+< 0 DM,36,todos pagos neste banco,móveis/equip.,2746,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,carro/outros,31,banco,própria,1,qualificado/funcionário,1,não,sim,1
+< 0 DM,12,pagos em dia até agora,móveis/equip.,708,< 100 DM,1-4 anos,2,M solteiro,fiador,3,poupança/seguro de vida,38,nenhum,própria,1,não qualificado (residente),2,não,sim,0
+0-200 DM,24,pagos em dia até agora,móveis/equip.,4351,desconhecido/sem poupança,1-4 anos,1,F div./sep./casada,nenhum,4,poupança/seguro de vida,48,nenhum,própria,1,não qualificado (residente),1,sim,sim,0
+sem conta,12,conta crítica/outros créditos,educação,701,< 100 DM,1-4 anos,4,M solteiro,nenhum,2,carro/outros,32,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+< 0 DM,15,atrasos no passado,móveis/equip.,3643,< 100 DM,>= 7 anos,1,F div./sep./casada,nenhum,4,poupança/seguro de vida,27,nenhum,própria,2,não qualificado (residente),1,não,sim,0
+0-200 DM,30,conta crítica/outros créditos,carro (novo),4249,< 100 DM,desempregado,4,M casado/viúvo,nenhum,2,carro/outros,28,nenhum,própria,2,gerência/autônomo/alta qualif.,1,não,sim,1
+< 0 DM,24,pagos em dia até agora,rádio/TV,1938,< 100 DM,< 1 ano,4,M divorciado/separado,nenhum,3,poupança/seguro de vida,32,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+< 0 DM,24,pagos em dia até agora,carro (usado),2910,< 100 DM,4-7 anos,2,M solteiro,nenhum,1,desconhecido/nenhum,34,nenhum,gratuita,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+< 0 DM,18,pagos em dia até agora,móveis/equip.,2659,>= 1000 DM,1-4 anos,4,M solteiro,nenhum,2,carro/outros,28,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,18,conta crítica/outros créditos,carro (novo),1028,< 100 DM,1-4 anos,4,F div./sep./casada,nenhum,3,imóvel,36,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+< 0 DM,8,conta crítica/outros créditos,carro (novo),3398,< 100 DM,4-7 anos,1,M solteiro,nenhum,4,imóvel,39,nenhum,própria,2,não qualificado (residente),1,não,não,0
+sem conta,12,conta crítica/outros créditos,móveis/equip.,5801,desconhecido/sem poupança,>= 7 anos,2,M solteiro,nenhum,4,poupança/seguro de vida,49,nenhum,aluguel,1,qualificado/funcionário,1,sim,sim,0
+sem conta,24,pagos em dia até agora,carro (novo),1525,>= 1000 DM,4-7 anos,4,F div./sep./casada,nenhum,3,carro/outros,34,nenhum,própria,1,qualificado/funcionário,2,sim,sim,0
+>= 200 DM,36,pagos em dia até agora,rádio/TV,4473,< 100 DM,>= 7 anos,4,M solteiro,nenhum,2,carro/outros,31,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,6,pagos em dia até agora,rádio/TV,1068,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,carro/outros,28,nenhum,própria,1,qualificado/funcionário,2,não,sim,0
+< 0 DM,24,conta crítica/outros créditos,carro (usado),6615,< 100 DM,desempregado,2,M solteiro,nenhum,4,desconhecido/nenhum,75,nenhum,gratuita,2,gerência/autônomo/alta qualif.,1,sim,sim,0
+sem conta,18,conta crítica/outros créditos,educação,1864,100-500 DM,1-4 anos,4,F div./sep./casada,nenhum,2,imóvel,30,nenhum,própria,2,qualificado/funcionário,1,não,sim,1
+0-200 DM,60,pagos em dia até agora,carro (novo),7408,100-500 DM,< 1 ano,4,F div./sep./casada,nenhum,2,poupança/seguro de vida,24,nenhum,própria,1,gerência/autônomo/alta qualif.,1,não,sim,1
+sem conta,48,conta crítica/outros créditos,carro (usado),11590,100-500 DM,1-4 anos,2,F div./sep./casada,nenhum,4,carro/outros,24,banco,aluguel,2,não qualificado (residente),1,não,sim,1
+< 0 DM,24,sem créditos/todos pagos,móveis/equip.,4110,< 100 DM,>= 7 anos,3,M solteiro,nenhum,4,desconhecido/nenhum,23,banco,aluguel,2,qualificado/funcionário,2,não,sim,1
+< 0 DM,6,conta crítica/outros créditos,móveis/equip.,3384,< 100 DM,1-4 anos,1,M divorciado/separado,nenhum,4,imóvel,44,nenhum,aluguel,1,gerência/autônomo/alta qualif.,1,sim,sim,1
+0-200 DM,13,pagos em dia até agora,rádio/TV,2101,< 100 DM,< 1 ano,2,F div./sep./casada,fiador,4,poupança/seguro de vida,23,nenhum,própria,1,não qualificado (residente),1,não,sim,0
+< 0 DM,15,pagos em dia até agora,eletrodomésticos,1275,desconhecido/sem poupança,1-4 anos,4,F div./sep./casada,nenhum,2,carro/outros,24,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,1
+< 0 DM,24,pagos em dia até agora,móveis/equip.,4169,< 100 DM,1-4 anos,4,M solteiro,nenhum,4,poupança/seguro de vida,28,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,10,pagos em dia até agora,móveis/equip.,1521,< 100 DM,1-4 anos,4,M divorciado/separado,nenhum,2,carro/outros,31,nenhum,própria,1,não qualificado (residente),1,não,sim,0
+0-200 DM,24,conta crítica/outros créditos,educação,5743,< 100 DM,< 1 ano,2,F div./sep./casada,nenhum,4,desconhecido/nenhum,24,nenhum,gratuita,2,qualificado/funcionário,1,sim,sim,0
+< 0 DM,21,pagos em dia até agora,móveis/equip.,3599,< 100 DM,4-7 anos,1,F div./sep./casada,nenhum,4,carro/outros,26,nenhum,aluguel,1,não qualificado (residente),1,não,sim,0
+0-200 DM,18,pagos em dia até agora,rádio/TV,3213,500-1000 DM,< 1 ano,1,M casado/viúvo,nenhum,3,imóvel,25,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,18,pagos em dia até agora,negócios,4439,< 100 DM,>= 7 anos,1,M solteiro,co-requerente,1,imóvel,33,banco,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+>= 200 DM,10,pagos em dia até agora,carro (novo),3949,< 100 DM,< 1 ano,1,M solteiro,fiador,1,poupança/seguro de vida,37,nenhum,própria,1,não qualificado (residente),2,não,sim,0
+sem conta,15,conta crítica/outros créditos,rádio/TV,1459,< 100 DM,1-4 anos,4,F div./sep./casada,nenhum,2,carro/outros,43,nenhum,própria,1,não qualificado (residente),1,não,sim,0
+0-200 DM,13,conta crítica/outros créditos,rádio/TV,882,< 100 DM,< 1 ano,4,M solteiro,fiador,4,imóvel,23,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+0-200 DM,24,pagos em dia até agora,rádio/TV,3758,500-1000 DM,desempregado,1,F div./sep./casada,nenhum,4,desconhecido/nenhum,23,nenhum,aluguel,1,desempregado/não qualif. (não residente),1,não,sim,0
+sem conta,6,atrasos no passado,negócios,1743,100-500 DM,1-4 anos,1,M solteiro,nenhum,2,imóvel,34,nenhum,própria,2,não qualificado (residente),1,não,sim,0
+0-200 DM,9,conta crítica/outros créditos,educação,1136,>= 1000 DM,>= 7 anos,4,M solteiro,nenhum,3,desconhecido/nenhum,32,nenhum,gratuita,2,qualificado/funcionário,2,não,sim,1
+sem conta,9,pagos em dia até agora,eletrodomésticos,1236,< 100 DM,< 1 ano,1,F div./sep./casada,nenhum,4,imóvel,23,nenhum,aluguel,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,9,pagos em dia até agora,móveis/equip.,959,< 100 DM,1-4 anos,1,F div./sep./casada,nenhum,2,carro/outros,29,nenhum,própria,1,qualificado/funcionário,1,não,não,1
+sem conta,18,conta crítica/outros créditos,carro (usado),3229,desconhecido/sem poupança,desempregado,2,M solteiro,nenhum,4,desconhecido/nenhum,38,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+< 0 DM,12,sem créditos/todos pagos,rádio/TV,6199,< 100 DM,1-4 anos,4,M solteiro,nenhum,2,poupança/seguro de vida,28,nenhum,aluguel,2,qualificado/funcionário,1,sim,sim,1
+sem conta,10,pagos em dia até agora,educação,727,500-1000 DM,>= 7 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,46,nenhum,gratuita,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,24,pagos em dia até agora,carro (novo),1246,< 100 DM,< 1 ano,4,M solteiro,nenhum,2,imóvel,23,lojas,própria,1,não qualificado (residente),1,não,sim,1
+sem conta,12,conta crítica/outros créditos,rádio/TV,2331,desconhecido/sem poupança,>= 7 anos,1,M solteiro,co-requerente,4,imóvel,49,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+sem conta,36,atrasos no passado,rádio/TV,4463,< 100 DM,1-4 anos,4,M solteiro,nenhum,2,carro/outros,26,nenhum,própria,2,gerência/autônomo/alta qualif.,1,sim,sim,1
+sem conta,12,pagos em dia até agora,rádio/TV,776,< 100 DM,1-4 anos,4,M casado/viúvo,nenhum,2,imóvel,28,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,30,pagos em dia até agora,móveis/equip.,2406,< 100 DM,4-7 anos,4,F div./sep./casada,nenhum,4,imóvel,23,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,1
+0-200 DM,18,pagos em dia até agora,educação,1239,desconhecido/sem poupança,1-4 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,61,nenhum,gratuita,1,qualificado/funcionário,1,não,sim,0
+>= 200 DM,12,pagos em dia até agora,rádio/TV,3399,desconhecido/sem poupança,>= 7 anos,2,M solteiro,nenhum,3,carro/outros,37,nenhum,própria,1,gerência/autônomo/alta qualif.,1,não,sim,0
+>= 200 DM,12,atrasos no passado,carro (novo),2247,< 100 DM,1-4 anos,2,F div./sep./casada,nenhum,2,carro/outros,36,lojas,própria,2,qualificado/funcionário,1,sim,sim,0
+sem conta,6,pagos em dia até agora,móveis/equip.,1766,< 100 DM,1-4 anos,1,M casado/viúvo,nenhum,2,poupança/seguro de vida,21,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,18,pagos em dia até agora,móveis/equip.,2473,< 100 DM,desempregado,4,M solteiro,nenhum,1,carro/outros,25,nenhum,própria,1,desempregado/não qualif. (não residente),1,não,sim,1
+sem conta,12,pagos em dia até agora,negócios,1542,< 100 DM,4-7 anos,2,M solteiro,nenhum,4,carro/outros,36,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+sem conta,18,conta crítica/outros créditos,carro (usado),3850,< 100 DM,4-7 anos,3,M solteiro,nenhum,1,carro/outros,27,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+< 0 DM,18,pagos em dia até agora,móveis/equip.,3650,< 100 DM,< 1 ano,1,F div./sep./casada,nenhum,4,carro/outros,22,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,36,pagos em dia até agora,móveis/equip.,3446,< 100 DM,>= 7 anos,4,M solteiro,nenhum,2,carro/outros,42,nenhum,própria,1,qualificado/funcionário,2,não,sim,1
+0-200 DM,18,pagos em dia até agora,móveis/equip.,3001,< 100 DM,4-7 anos,2,F div./sep./casada,nenhum,4,imóvel,40,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,0
+sem conta,36,pagos em dia até agora,carro (novo),3079,desconhecido/sem poupança,1-4 anos,4,M solteiro,nenhum,4,imóvel,36,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,18,conta crítica/outros créditos,rádio/TV,6070,< 100 DM,>= 7 anos,3,M solteiro,nenhum,4,carro/outros,33,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+sem conta,10,conta crítica/outros créditos,móveis/equip.,2146,< 100 DM,< 1 ano,1,F div./sep./casada,nenhum,3,imóvel,23,nenhum,aluguel,2,qualificado/funcionário,1,não,sim,0
+sem conta,60,conta crítica/outros créditos,carro (novo),13756,desconhecido/sem poupança,>= 7 anos,2,M solteiro,nenhum,4,desconhecido/nenhum,63,banco,gratuita,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+0-200 DM,60,todos pagos neste banco,outros,14782,100-500 DM,>= 7 anos,3,F div./sep./casada,nenhum,4,desconhecido/nenhum,60,banco,gratuita,2,gerência/autônomo/alta qualif.,1,sim,sim,1
+< 0 DM,48,todos pagos neste banco,negócios,7685,< 100 DM,4-7 anos,2,F div./sep./casada,fiador,4,carro/outros,37,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,1
+sem conta,18,atrasos no passado,rádio/TV,2320,< 100 DM,desempregado,2,M casado/viúvo,nenhum,3,imóvel,34,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,7,atrasos no passado,rádio/TV,846,desconhecido/sem poupança,>= 7 anos,3,M solteiro,nenhum,4,desconhecido/nenhum,36,nenhum,gratuita,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,36,pagos em dia até agora,carro (novo),14318,< 100 DM,>= 7 anos,4,M solteiro,nenhum,2,desconhecido/nenhum,57,nenhum,gratuita,1,gerência/autônomo/alta qualif.,1,sim,sim,1
+sem conta,6,conta crítica/outros créditos,carro (novo),362,100-500 DM,1-4 anos,4,F div./sep./casada,nenhum,4,carro/outros,52,nenhum,própria,2,não qualificado (residente),1,não,sim,0
+< 0 DM,20,pagos em dia até agora,móveis/equip.,2212,desconhecido/sem poupança,4-7 anos,4,M solteiro,nenhum,4,carro/outros,39,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,18,pagos em dia até agora,carro (usado),12976,< 100 DM,desempregado,3,F div./sep./casada,nenhum,4,desconhecido/nenhum,38,nenhum,gratuita,1,gerência/autônomo/alta qualif.,1,sim,sim,1
+sem conta,22,pagos em dia até agora,carro (novo),1283,desconhecido/sem poupança,4-7 anos,4,F div./sep./casada,nenhum,4,poupança/seguro de vida,25,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,0
+>= 200 DM,12,pagos em dia até agora,carro (novo),1330,< 100 DM,< 1 ano,4,M solteiro,nenhum,1,imóvel,26,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,30,atrasos no passado,negócios,4272,100-500 DM,1-4 anos,2,M solteiro,nenhum,2,poupança/seguro de vida,26,nenhum,própria,2,não qualificado (residente),1,não,sim,0
+sem conta,18,conta crítica/outros créditos,rádio/TV,2238,< 100 DM,1-4 anos,2,F div./sep./casada,nenhum,1,carro/outros,25,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,18,pagos em dia até agora,rádio/TV,1126,desconhecido/sem poupança,< 1 ano,4,F div./sep./casada,nenhum,2,imóvel,21,nenhum,aluguel,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,18,conta crítica/outros créditos,móveis/equip.,7374,< 100 DM,desempregado,4,M solteiro,nenhum,4,poupança/seguro de vida,40,lojas,própria,2,gerência/autônomo/alta qualif.,1,sim,sim,0
+0-200 DM,15,conta crítica/outros créditos,negócios,2326,500-1000 DM,1-4 anos,2,M solteiro,nenhum,4,carro/outros,27,banco,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,9,pagos em dia até agora,negócios,1449,< 100 DM,4-7 anos,3,F div./sep./casada,nenhum,2,carro/outros,27,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,18,pagos em dia até agora,carro (novo),1820,< 100 DM,1-4 anos,2,M casado/viúvo,nenhum,2,poupança/seguro de vida,30,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+0-200 DM,12,pagos em dia até agora,móveis/equip.,983,>= 1000 DM,< 1 ano,1,F div./sep./casada,nenhum,4,imóvel,19,nenhum,aluguel,1,não qualificado (residente),1,não,sim,0
+< 0 DM,36,pagos em dia até agora,carro (novo),3249,< 100 DM,4-7 anos,2,M solteiro,nenhum,4,desconhecido/nenhum,39,banco,gratuita,1,gerência/autônomo/alta qualif.,2,sim,sim,0
+< 0 DM,6,conta crítica/outros créditos,rádio/TV,1957,< 100 DM,4-7 anos,1,F div./sep./casada,nenhum,4,carro/outros,31,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,9,conta crítica/outros créditos,móveis/equip.,2406,< 100 DM,desempregado,2,M solteiro,nenhum,3,carro/outros,31,nenhum,própria,1,gerência/autônomo/alta qualif.,1,não,sim,0
+0-200 DM,39,atrasos no passado,educação,11760,100-500 DM,4-7 anos,2,M solteiro,nenhum,3,desconhecido/nenhum,32,nenhum,aluguel,1,qualificado/funcionário,1,sim,sim,0
+< 0 DM,12,pagos em dia até agora,móveis/equip.,2578,< 100 DM,desempregado,3,F div./sep./casada,nenhum,4,desconhecido/nenhum,55,nenhum,gratuita,1,gerência/autônomo/alta qualif.,1,não,sim,0
+< 0 DM,36,conta crítica/outros créditos,móveis/equip.,2348,< 100 DM,1-4 anos,3,M casado/viúvo,nenhum,2,poupança/seguro de vida,46,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+0-200 DM,12,pagos em dia até agora,carro (novo),1223,< 100 DM,>= 7 anos,1,M divorciado/separado,nenhum,1,imóvel,46,nenhum,aluguel,2,qualificado/funcionário,1,não,sim,1
+sem conta,24,conta crítica/outros créditos,rádio/TV,1516,>= 1000 DM,1-4 anos,4,F div./sep./casada,nenhum,1,imóvel,43,nenhum,própria,2,não qualificado (residente),1,não,sim,0
+sem conta,18,pagos em dia até agora,rádio/TV,1473,< 100 DM,< 1 ano,3,M casado/viúvo,nenhum,4,imóvel,39,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,18,conta crítica/outros créditos,negócios,1887,desconhecido/sem poupança,1-4 anos,4,M casado/viúvo,nenhum,4,imóvel,28,banco,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,24,atrasos no passado,negócios,8648,< 100 DM,< 1 ano,2,M solteiro,nenhum,2,carro/outros,27,banco,própria,2,qualificado/funcionário,1,sim,sim,1
+sem conta,14,atrasos no passado,carro (novo),802,< 100 DM,1-4 anos,4,M solteiro,nenhum,2,carro/outros,27,nenhum,própria,2,não qualificado (residente),1,não,sim,0
+0-200 DM,18,atrasos no passado,carro (novo),2899,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,4,carro/outros,43,nenhum,própria,1,qualificado/funcionário,2,não,sim,0
+0-200 DM,24,pagos em dia até agora,rádio/TV,2039,< 100 DM,< 1 ano,1,M casado/viúvo,nenhum,1,poupança/seguro de vida,22,nenhum,própria,1,qualificado/funcionário,1,sim,sim,1
+sem conta,24,conta crítica/outros créditos,carro (usado),2197,desconhecido/sem poupança,4-7 anos,4,M solteiro,nenhum,4,carro/outros,43,nenhum,própria,2,qualificado/funcionário,2,sim,sim,0
+< 0 DM,15,pagos em dia até agora,rádio/TV,1053,< 100 DM,< 1 ano,4,M casado/viúvo,nenhum,2,imóvel,27,nenhum,própria,1,qualificado/funcionário,1,não,não,0
+sem conta,24,pagos em dia até agora,rádio/TV,3235,500-1000 DM,>= 7 anos,3,M divorciado/separado,nenhum,2,carro/outros,26,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+>= 200 DM,12,conta crítica/outros créditos,carro (novo),939,500-1000 DM,4-7 anos,4,M casado/viúvo,nenhum,2,imóvel,28,nenhum,própria,3,qualificado/funcionário,1,sim,sim,1
+0-200 DM,24,pagos em dia até agora,rádio/TV,1967,< 100 DM,>= 7 anos,4,F div./sep./casada,nenhum,4,carro/outros,20,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+sem conta,33,conta crítica/outros créditos,carro (usado),7253,< 100 DM,4-7 anos,3,M solteiro,nenhum,2,carro/outros,35,nenhum,própria,2,gerência/autônomo/alta qualif.,1,sim,sim,0
+sem conta,12,conta crítica/outros créditos,negócios,2292,< 100 DM,desempregado,4,M solteiro,nenhum,2,carro/outros,42,lojas,própria,2,gerência/autônomo/alta qualif.,1,sim,sim,1
+sem conta,10,pagos em dia até agora,carro (novo),1597,500-1000 DM,1-4 anos,3,M solteiro,nenhum,2,desconhecido/nenhum,40,nenhum,aluguel,1,não qualificado (residente),2,não,não,0
+< 0 DM,24,pagos em dia até agora,carro (novo),1381,desconhecido/sem poupança,1-4 anos,4,F div./sep./casada,nenhum,2,poupança/seguro de vida,35,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+sem conta,36,conta crítica/outros créditos,carro (usado),5842,< 100 DM,>= 7 anos,2,M solteiro,nenhum,2,poupança/seguro de vida,35,nenhum,própria,2,qualificado/funcionário,2,sim,sim,0
+< 0 DM,12,pagos em dia até agora,carro (novo),2579,< 100 DM,< 1 ano,4,M solteiro,nenhum,1,imóvel,33,nenhum,própria,1,não qualificado (residente),2,não,sim,1
+< 0 DM,18,atrasos no passado,educação,8471,desconhecido/sem poupança,1-4 anos,1,F div./sep./casada,nenhum,2,carro/outros,23,nenhum,aluguel,2,qualificado/funcionário,1,sim,sim,0
+sem conta,21,pagos em dia até agora,carro (novo),2782,500-1000 DM,4-7 anos,1,F div./sep./casada,nenhum,2,carro/outros,31,banco,própria,1,gerência/autônomo/alta qualif.,1,não,sim,0
+0-200 DM,18,pagos em dia até agora,carro (novo),1042,desconhecido/sem poupança,1-4 anos,4,F div./sep./casada,nenhum,2,poupança/seguro de vida,33,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+sem conta,15,pagos em dia até agora,carro (novo),3186,>= 1000 DM,4-7 anos,2,F div./sep./casada,nenhum,3,carro/outros,20,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,12,pagos em dia até agora,carro (usado),2028,desconhecido/sem poupança,1-4 anos,4,M solteiro,nenhum,2,carro/outros,30,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,12,conta crítica/outros créditos,carro (novo),958,< 100 DM,4-7 anos,2,M solteiro,nenhum,3,imóvel,47,nenhum,própria,2,não qualificado (residente),2,não,sim,0
+sem conta,21,atrasos no passado,móveis/equip.,1591,100-500 DM,4-7 anos,4,M solteiro,nenhum,3,imóvel,34,nenhum,própria,2,gerência/autônomo/alta qualif.,1,não,sim,0
+0-200 DM,12,pagos em dia até agora,móveis/equip.,2762,desconhecido/sem poupança,>= 7 anos,1,F div./sep./casada,nenhum,2,poupança/seguro de vida,25,banco,própria,1,qualificado/funcionário,1,sim,sim,1
+0-200 DM,18,pagos em dia até agora,carro (usado),2779,< 100 DM,1-4 anos,1,M casado/viúvo,nenhum,3,carro/outros,21,nenhum,aluguel,1,qualificado/funcionário,1,sim,sim,0
+sem conta,28,conta crítica/outros créditos,rádio/TV,2743,< 100 DM,>= 7 anos,4,M solteiro,nenhum,2,carro/outros,29,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,18,conta crítica/outros créditos,rádio/TV,1149,>= 1000 DM,1-4 anos,4,M solteiro,nenhum,3,imóvel,46,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,9,pagos em dia até agora,móveis/equip.,1313,< 100 DM,>= 7 anos,1,M solteiro,nenhum,4,carro/outros,20,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,18,conta crítica/outros créditos,reparos,1190,< 100 DM,desempregado,2,F div./sep./casada,nenhum,4,desconhecido/nenhum,55,nenhum,gratuita,3,desempregado/não qualif. (não residente),2,não,sim,1
+sem conta,5,pagos em dia até agora,negócios,3448,< 100 DM,4-7 anos,1,M solteiro,nenhum,4,imóvel,74,nenhum,própria,1,não qualificado (residente),1,não,sim,0
+0-200 DM,24,pagos em dia até agora,outros,11328,< 100 DM,1-4 anos,2,M solteiro,co-requerente,3,carro/outros,29,banco,própria,2,gerência/autônomo/alta qualif.,1,sim,sim,1
+< 0 DM,6,conta crítica/outros créditos,móveis/equip.,1872,< 100 DM,desempregado,4,M solteiro,nenhum,4,desconhecido/nenhum,36,nenhum,gratuita,3,gerência/autônomo/alta qualif.,1,sim,sim,0
+sem conta,24,conta crítica/outros créditos,reparos,2058,< 100 DM,1-4 anos,4,M divorciado/separado,nenhum,2,imóvel,33,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+< 0 DM,9,pagos em dia até agora,móveis/equip.,2136,< 100 DM,1-4 anos,3,M solteiro,nenhum,2,imóvel,25,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,12,pagos em dia até agora,rádio/TV,1484,desconhecido/sem poupança,1-4 anos,2,M casado/viúvo,nenhum,1,imóvel,25,nenhum,própria,1,qualificado/funcionário,1,sim,sim,1
+sem conta,6,pagos em dia até agora,reparos,660,500-1000 DM,4-7 anos,2,M casado/viúvo,nenhum,4,imóvel,23,nenhum,aluguel,1,não qualificado (residente),1,não,sim,0
+sem conta,24,conta crítica/outros créditos,carro (novo),1287,>= 1000 DM,>= 7 anos,4,F div./sep./casada,nenhum,4,imóvel,37,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+< 0 DM,42,conta crítica/outros créditos,reparos,3394,< 100 DM,desempregado,4,M solteiro,co-requerente,4,carro/outros,65,nenhum,própria,2,desempregado/não qualif. (não residente),1,não,sim,0
+>= 200 DM,12,todos pagos neste banco,negócios,609,< 100 DM,< 1 ano,4,F div./sep./casada,nenhum,1,imóvel,26,nenhum,própria,1,desempregado/não qualif. (não residente),1,não,sim,1
+sem conta,12,pagos em dia até agora,carro (novo),1884,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,carro/outros,39,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+< 0 DM,12,pagos em dia até agora,móveis/equip.,1620,< 100 DM,1-4 anos,2,F div./sep./casada,co-requerente,3,poupança/seguro de vida,30,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,20,atrasos no passado,outros,2629,< 100 DM,1-4 anos,2,M solteiro,nenhum,3,carro/outros,29,banco,própria,2,qualificado/funcionário,1,sim,sim,0
+sem conta,12,pagos em dia até agora,educação,719,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,carro/outros,41,banco,própria,1,não qualificado (residente),2,não,sim,1
+0-200 DM,48,conta crítica/outros créditos,móveis/equip.,5096,< 100 DM,1-4 anos,2,F div./sep./casada,nenhum,3,carro/outros,30,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,1
+sem conta,9,conta crítica/outros créditos,educação,1244,desconhecido/sem poupança,>= 7 anos,4,F div./sep./casada,nenhum,4,poupança/seguro de vida,41,nenhum,aluguel,2,não qualificado (residente),1,não,sim,0
+< 0 DM,36,pagos em dia até agora,carro (novo),1842,< 100 DM,< 1 ano,4,F div./sep./casada,nenhum,4,carro/outros,34,nenhum,própria,1,qualificado/funcionário,1,sim,sim,1
+0-200 DM,7,pagos em dia até agora,rádio/TV,2576,< 100 DM,1-4 anos,2,M solteiro,fiador,2,imóvel,35,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+>= 200 DM,12,pagos em dia até agora,móveis/equip.,1424,desconhecido/sem poupança,>= 7 anos,3,F div./sep./casada,nenhum,4,imóvel,55,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+0-200 DM,15,atrasos no passado,reparos,1512,>= 1000 DM,1-4 anos,3,M casado/viúvo,nenhum,3,poupança/seguro de vida,61,lojas,própria,2,qualificado/funcionário,1,não,sim,1
+sem conta,36,conta crítica/outros créditos,carro (usado),11054,desconhecido/sem poupança,1-4 anos,4,M solteiro,nenhum,2,carro/outros,30,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+sem conta,6,pagos em dia até agora,rádio/TV,518,< 100 DM,1-4 anos,3,F div./sep./casada,nenhum,1,imóvel,29,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,12,sem créditos/todos pagos,móveis/equip.,2759,< 100 DM,>= 7 anos,2,M solteiro,nenhum,4,poupança/seguro de vida,34,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,24,pagos em dia até agora,carro (usado),2670,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,carro/outros,35,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+< 0 DM,24,pagos em dia até agora,carro (novo),4817,< 100 DM,4-7 anos,2,M solteiro,co-requerente,3,poupança/seguro de vida,31,nenhum,própria,1,qualificado/funcionário,1,sim,sim,1
+sem conta,24,pagos em dia até agora,carro (usado),2679,< 100 DM,< 1 ano,4,F div./sep./casada,nenhum,1,desconhecido/nenhum,29,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+< 0 DM,11,conta crítica/outros créditos,carro (novo),3905,< 100 DM,1-4 anos,2,M solteiro,nenhum,2,imóvel,36,nenhum,aluguel,2,qualificado/funcionário,2,não,sim,0
+< 0 DM,12,pagos em dia até agora,carro (usado),3386,< 100 DM,>= 7 anos,3,M solteiro,nenhum,4,desconhecido/nenhum,35,nenhum,gratuita,1,qualificado/funcionário,1,sim,sim,1
+< 0 DM,6,pagos em dia até agora,eletrodomésticos,343,< 100 DM,< 1 ano,4,F div./sep./casada,nenhum,1,imóvel,27,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,18,pagos em dia até agora,rádio/TV,4594,< 100 DM,< 1 ano,3,M solteiro,nenhum,2,carro/outros,32,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+< 0 DM,36,pagos em dia até agora,móveis/equip.,3620,< 100 DM,1-4 anos,1,M solteiro,fiador,2,poupança/seguro de vida,37,nenhum,própria,1,qualificado/funcionário,2,não,sim,0
+< 0 DM,15,pagos em dia até agora,carro (novo),1721,< 100 DM,< 1 ano,2,M solteiro,nenhum,3,imóvel,36,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,12,pagos em dia até agora,móveis/equip.,3017,< 100 DM,< 1 ano,3,F div./sep./casada,nenhum,1,imóvel,34,nenhum,aluguel,1,gerência/autônomo/alta qualif.,1,não,sim,0
+0-200 DM,12,pagos em dia até agora,requalificação,754,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,4,poupança/seguro de vida,38,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,18,pagos em dia até agora,negócios,1950,< 100 DM,4-7 anos,4,M solteiro,nenhum,1,carro/outros,34,lojas,própria,2,qualificado/funcionário,1,sim,sim,0
+< 0 DM,24,pagos em dia até agora,carro (usado),2924,< 100 DM,1-4 anos,3,M solteiro,fiador,4,desconhecido/nenhum,63,banco,própria,1,qualificado/funcionário,2,sim,sim,0
+< 0 DM,24,atrasos no passado,rádio/TV,1659,< 100 DM,< 1 ano,4,F div./sep./casada,nenhum,2,carro/outros,29,nenhum,aluguel,1,não qualificado (residente),1,sim,sim,1
+sem conta,48,atrasos no passado,rádio/TV,7238,desconhecido/sem poupança,>= 7 anos,3,M solteiro,nenhum,3,carro/outros,32,banco,própria,2,qualificado/funcionário,2,não,sim,0
+sem conta,33,atrasos no passado,negócios,2764,< 100 DM,1-4 anos,2,F div./sep./casada,nenhum,2,carro/outros,26,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+sem conta,24,atrasos no passado,carro (usado),4679,< 100 DM,4-7 anos,3,M solteiro,nenhum,3,carro/outros,35,nenhum,própria,2,não qualificado (residente),1,sim,sim,0
+0-200 DM,24,pagos em dia até agora,rádio/TV,3092,100-500 DM,< 1 ano,3,M casado/viúvo,nenhum,2,carro/outros,22,nenhum,aluguel,1,qualificado/funcionário,1,sim,sim,1
+< 0 DM,6,pagos em dia até agora,educação,448,< 100 DM,< 1 ano,4,F div./sep./casada,nenhum,4,poupança/seguro de vida,23,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+< 0 DM,9,pagos em dia até agora,carro (novo),654,< 100 DM,1-4 anos,4,M solteiro,nenhum,3,carro/outros,28,nenhum,própria,1,não qualificado (residente),1,não,sim,1
+sem conta,6,pagos em dia até agora,requalificação,1238,desconhecido/sem poupança,desempregado,4,M solteiro,nenhum,4,poupança/seguro de vida,36,nenhum,própria,1,gerência/autônomo/alta qualif.,2,sim,sim,0
+0-200 DM,18,conta crítica/outros créditos,rádio/TV,1245,< 100 DM,1-4 anos,4,M casado/viúvo,nenhum,2,carro/outros,33,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+< 0 DM,18,sem créditos/todos pagos,móveis/equip.,3114,< 100 DM,< 1 ano,1,F div./sep./casada,nenhum,4,poupança/seguro de vida,26,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,1
+sem conta,39,pagos em dia até agora,carro (usado),2569,500-1000 DM,1-4 anos,4,M solteiro,nenhum,4,carro/outros,24,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+>= 200 DM,24,pagos em dia até agora,rádio/TV,5152,< 100 DM,4-7 anos,4,M solteiro,nenhum,2,carro/outros,25,banco,própria,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,12,pagos em dia até agora,negócios,1037,100-500 DM,4-7 anos,3,M solteiro,nenhum,4,imóvel,39,nenhum,própria,1,não qualificado (residente),1,não,sim,0
+< 0 DM,15,conta crítica/outros créditos,móveis/equip.,1478,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,carro/outros,44,nenhum,própria,2,qualificado/funcionário,2,sim,sim,0
+0-200 DM,12,conta crítica/outros créditos,rádio/TV,3573,< 100 DM,1-4 anos,1,F div./sep./casada,nenhum,1,imóvel,23,nenhum,própria,1,não qualificado (residente),1,não,sim,0
+0-200 DM,24,pagos em dia até agora,carro (novo),1201,< 100 DM,< 1 ano,4,M solteiro,nenhum,1,poupança/seguro de vida,26,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,30,pagos em dia até agora,móveis/equip.,3622,>= 1000 DM,>= 7 anos,4,F div./sep./casada,nenhum,4,poupança/seguro de vida,57,nenhum,aluguel,2,qualificado/funcionário,1,sim,sim,0
+sem conta,15,atrasos no passado,móveis/equip.,960,>= 1000 DM,4-7 anos,3,F div./sep./casada,nenhum,2,poupança/seguro de vida,30,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,12,conta crítica/outros créditos,carro (novo),1163,500-1000 DM,1-4 anos,4,M solteiro,nenhum,4,imóvel,44,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,6,atrasos no passado,carro (novo),1209,< 100 DM,desempregado,4,M solteiro,nenhum,4,poupança/seguro de vida,47,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,1
+sem conta,12,pagos em dia até agora,rádio/TV,3077,< 100 DM,1-4 anos,2,M solteiro,nenhum,4,carro/outros,52,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+sem conta,24,pagos em dia até agora,carro (novo),3757,< 100 DM,>= 7 anos,4,F div./sep./casada,co-requerente,4,desconhecido/nenhum,62,nenhum,gratuita,1,qualificado/funcionário,1,sim,sim,0
+sem conta,10,pagos em dia até agora,carro (novo),1418,100-500 DM,1-4 anos,3,M solteiro,nenhum,2,imóvel,35,nenhum,aluguel,1,não qualificado (residente),1,não,não,0
+sem conta,6,pagos em dia até agora,carro (novo),3518,< 100 DM,1-4 anos,2,M solteiro,fiador,3,poupança/seguro de vida,26,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,0
+sem conta,12,conta crítica/outros créditos,rádio/TV,1934,< 100 DM,>= 7 anos,2,M solteiro,nenhum,2,desconhecido/nenhum,26,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+0-200 DM,27,sem créditos/todos pagos,negócios,8318,< 100 DM,>= 7 anos,2,F div./sep./casada,nenhum,4,desconhecido/nenhum,42,nenhum,gratuita,2,gerência/autônomo/alta qualif.,1,sim,sim,1
+sem conta,6,conta crítica/outros créditos,rádio/TV,1237,100-500 DM,1-4 anos,1,F div./sep./casada,nenhum,1,poupança/seguro de vida,27,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+0-200 DM,6,pagos em dia até agora,rádio/TV,368,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,4,poupança/seguro de vida,38,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,12,conta crítica/outros créditos,carro (novo),2122,< 100 DM,1-4 anos,3,M solteiro,nenhum,2,imóvel,39,nenhum,aluguel,2,não qualificado (residente),2,não,não,0
+< 0 DM,24,pagos em dia até agora,móveis/equip.,2996,desconhecido/sem poupança,1-4 anos,2,M casado/viúvo,nenhum,4,carro/outros,20,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+0-200 DM,36,pagos em dia até agora,móveis/equip.,9034,100-500 DM,< 1 ano,4,M solteiro,co-requerente,1,desconhecido/nenhum,29,nenhum,aluguel,1,gerência/autônomo/alta qualif.,1,sim,sim,1
+sem conta,24,conta crítica/outros créditos,móveis/equip.,1585,< 100 DM,4-7 anos,4,M solteiro,nenhum,3,poupança/seguro de vida,40,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+0-200 DM,18,pagos em dia até agora,rádio/TV,1301,< 100 DM,>= 7 anos,4,M casado/viúvo,fiador,2,imóvel,32,nenhum,própria,1,não qualificado (residente),1,não,sim,0
+>= 200 DM,6,conta crítica/outros créditos,carro (novo),1323,100-500 DM,>= 7 anos,2,M divorciado/separado,nenhum,4,carro/outros,28,nenhum,própria,2,qualificado/funcionário,2,sim,sim,0
+< 0 DM,24,pagos em dia até agora,carro (novo),3123,< 100 DM,< 1 ano,4,F div./sep./casada,nenhum,1,poupança/seguro de vida,27,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+< 0 DM,36,pagos em dia até agora,carro (usado),5493,< 100 DM,>= 7 anos,2,M solteiro,nenhum,4,desconhecido/nenhum,42,nenhum,gratuita,1,qualificado/funcionário,2,não,sim,0
+>= 200 DM,9,pagos em dia até agora,rádio/TV,1126,100-500 DM,>= 7 anos,2,M divorciado/separado,nenhum,4,imóvel,49,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,24,conta crítica/outros créditos,rádio/TV,1216,100-500 DM,< 1 ano,4,M solteiro,nenhum,4,desconhecido/nenhum,38,banco,própria,2,qualificado/funcionário,2,não,sim,1
+< 0 DM,24,pagos em dia até agora,carro (novo),1207,< 100 DM,< 1 ano,4,F div./sep./casada,nenhum,4,poupança/seguro de vida,24,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,1
+sem conta,10,pagos em dia até agora,carro (novo),1309,desconhecido/sem poupança,1-4 anos,4,M solteiro,fiador,4,poupança/seguro de vida,27,nenhum,própria,1,não qualificado (residente),1,não,sim,1
+>= 200 DM,15,conta crítica/outros créditos,carro (usado),2360,500-1000 DM,1-4 anos,2,M solteiro,nenhum,2,carro/outros,36,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,15,todos pagos neste banco,carro (novo),6850,100-500 DM,desempregado,1,M solteiro,nenhum,2,poupança/seguro de vida,34,nenhum,própria,1,gerência/autônomo/alta qualif.,2,sim,sim,1
+sem conta,24,pagos em dia até agora,rádio/TV,1413,< 100 DM,1-4 anos,4,M casado/viúvo,nenhum,2,poupança/seguro de vida,28,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,39,pagos em dia até agora,carro (usado),8588,100-500 DM,>= 7 anos,4,M solteiro,nenhum,2,carro/outros,45,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+< 0 DM,12,pagos em dia até agora,carro (novo),759,< 100 DM,4-7 anos,4,M solteiro,nenhum,2,imóvel,26,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+sem conta,36,pagos em dia até agora,carro (usado),4686,< 100 DM,1-4 anos,2,M solteiro,nenhum,2,desconhecido/nenhum,32,nenhum,gratuita,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+>= 200 DM,15,pagos em dia até agora,negócios,2687,< 100 DM,4-7 anos,2,M solteiro,nenhum,4,poupança/seguro de vida,26,nenhum,aluguel,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,12,atrasos no passado,rádio/TV,585,< 100 DM,1-4 anos,4,M casado/viúvo,co-requerente,4,imóvel,20,nenhum,aluguel,2,qualificado/funcionário,1,não,sim,0
+sem conta,24,pagos em dia até agora,carro (novo),2255,desconhecido/sem poupança,< 1 ano,4,M solteiro,nenhum,1,poupança/seguro de vida,54,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,6,conta crítica/outros créditos,carro (novo),609,< 100 DM,4-7 anos,4,F div./sep./casada,nenhum,3,poupança/seguro de vida,37,nenhum,própria,2,qualificado/funcionário,1,não,não,0
+< 0 DM,6,conta crítica/outros créditos,carro (novo),1361,< 100 DM,< 1 ano,2,M solteiro,nenhum,4,imóvel,40,nenhum,própria,1,não qualificado (residente),2,não,não,0
+sem conta,36,conta crítica/outros créditos,móveis/equip.,7127,< 100 DM,< 1 ano,2,F div./sep./casada,nenhum,4,poupança/seguro de vida,23,nenhum,aluguel,2,qualificado/funcionário,1,sim,sim,1
+< 0 DM,6,pagos em dia até agora,carro (novo),1203,100-500 DM,>= 7 anos,3,M solteiro,nenhum,2,poupança/seguro de vida,43,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+sem conta,6,conta crítica/outros créditos,rádio/TV,700,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,36,nenhum,gratuita,2,qualificado/funcionário,1,não,sim,0
+sem conta,24,conta crítica/outros créditos,reparos,5507,< 100 DM,>= 7 anos,3,M solteiro,nenhum,4,desconhecido/nenhum,44,nenhum,gratuita,2,qualificado/funcionário,1,não,sim,0
+< 0 DM,18,pagos em dia até agora,rádio/TV,3190,< 100 DM,1-4 anos,2,F div./sep./casada,nenhum,2,imóvel,24,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+< 0 DM,48,sem créditos/todos pagos,móveis/equip.,7119,< 100 DM,1-4 anos,3,M solteiro,nenhum,4,desconhecido/nenhum,53,nenhum,gratuita,2,qualificado/funcionário,2,não,sim,1
+sem conta,24,pagos em dia até agora,carro (usado),3488,100-500 DM,4-7 anos,3,F div./sep./casada,nenhum,4,carro/outros,23,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,18,pagos em dia até agora,rádio/TV,1113,< 100 DM,1-4 anos,4,F div./sep./casada,fiador,4,imóvel,26,nenhum,própria,1,não qualificado (residente),2,não,sim,0
+0-200 DM,26,pagos em dia até agora,carro (usado),7966,< 100 DM,< 1 ano,2,M solteiro,nenhum,3,carro/outros,30,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,15,conta crítica/outros créditos,educação,1532,100-500 DM,1-4 anos,4,F div./sep./casada,nenhum,3,carro/outros,31,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,4,conta crítica/outros créditos,rádio/TV,1503,< 100 DM,4-7 anos,2,M solteiro,nenhum,1,imóvel,42,nenhum,própria,2,não qualificado (residente),2,não,sim,0
+< 0 DM,36,pagos em dia até agora,rádio/TV,2302,< 100 DM,1-4 anos,4,M divorciado/separado,nenhum,4,carro/outros,31,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,1
+< 0 DM,6,pagos em dia até agora,carro (novo),662,< 100 DM,< 1 ano,3,M solteiro,nenhum,4,imóvel,41,nenhum,própria,1,não qualificado (residente),2,sim,sim,0
+0-200 DM,36,pagos em dia até agora,educação,2273,< 100 DM,4-7 anos,3,M solteiro,nenhum,1,carro/outros,32,nenhum,própria,2,qualificado/funcionário,2,não,sim,0
+0-200 DM,15,pagos em dia até agora,carro (novo),2631,100-500 DM,1-4 anos,2,F div./sep./casada,nenhum,4,carro/outros,28,nenhum,aluguel,2,qualificado/funcionário,1,sim,sim,1
+sem conta,12,atrasos no passado,carro (usado),1503,< 100 DM,1-4 anos,4,M casado/viúvo,nenhum,4,imóvel,41,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,0
+sem conta,24,pagos em dia até agora,rádio/TV,1311,100-500 DM,4-7 anos,4,M casado/viúvo,nenhum,3,poupança/seguro de vida,26,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+sem conta,24,pagos em dia até agora,rádio/TV,3105,desconhecido/sem poupança,< 1 ano,4,M solteiro,nenhum,2,carro/outros,25,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+>= 200 DM,21,conta crítica/outros créditos,educação,2319,< 100 DM,< 1 ano,2,M divorciado/separado,nenhum,1,carro/outros,33,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,1
+< 0 DM,6,pagos em dia até agora,carro (novo),1374,desconhecido/sem poupança,desempregado,4,F div./sep./casada,nenhum,3,poupança/seguro de vida,75,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+0-200 DM,18,conta crítica/outros créditos,móveis/equip.,3612,< 100 DM,>= 7 anos,3,F div./sep./casada,nenhum,4,poupança/seguro de vida,37,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+< 0 DM,48,pagos em dia até agora,carro (novo),7763,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,42,banco,gratuita,1,gerência/autônomo/alta qualif.,1,não,sim,1
+>= 200 DM,18,pagos em dia até agora,móveis/equip.,3049,< 100 DM,< 1 ano,1,F div./sep./casada,nenhum,1,poupança/seguro de vida,45,lojas,própria,1,não qualificado (residente),1,não,sim,0
+0-200 DM,12,pagos em dia até agora,rádio/TV,1534,< 100 DM,< 1 ano,1,M casado/viúvo,nenhum,1,imóvel,23,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,1
+sem conta,24,atrasos no passado,carro (novo),2032,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,60,nenhum,gratuita,2,qualificado/funcionário,1,sim,sim,0
+< 0 DM,30,pagos em dia até agora,móveis/equip.,6350,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,4,poupança/seguro de vida,31,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+>= 200 DM,18,pagos em dia até agora,móveis/equip.,2864,< 100 DM,1-4 anos,2,M solteiro,nenhum,1,imóvel,34,nenhum,própria,1,não qualificado (residente),2,não,sim,1
+sem conta,12,conta crítica/outros créditos,carro (novo),1255,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,imóvel,61,nenhum,própria,2,não qualificado (residente),1,não,sim,0
+< 0 DM,24,atrasos no passado,carro (novo),1333,< 100 DM,desempregado,4,M solteiro,nenhum,2,imóvel,43,nenhum,gratuita,2,qualificado/funcionário,2,não,sim,1
+sem conta,24,conta crítica/outros créditos,carro (novo),2022,< 100 DM,1-4 anos,4,F div./sep./casada,nenhum,4,carro/outros,37,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+sem conta,24,pagos em dia até agora,rádio/TV,1552,< 100 DM,4-7 anos,3,M solteiro,nenhum,1,carro/outros,32,banco,própria,1,qualificado/funcionário,2,não,sim,0
+< 0 DM,12,todos pagos neste banco,rádio/TV,626,< 100 DM,1-4 anos,4,F div./sep./casada,nenhum,4,imóvel,24,banco,própria,1,não qualificado (residente),1,não,sim,1
+sem conta,48,conta crítica/outros créditos,carro (usado),8858,desconhecido/sem poupança,4-7 anos,2,M solteiro,nenhum,1,desconhecido/nenhum,35,nenhum,gratuita,2,qualificado/funcionário,1,sim,sim,0
+sem conta,12,conta crítica/outros créditos,reparos,996,desconhecido/sem poupança,4-7 anos,4,F div./sep./casada,nenhum,4,imóvel,23,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,6,todos pagos neste banco,rádio/TV,1750,500-1000 DM,>= 7 anos,2,M solteiro,nenhum,4,poupança/seguro de vida,45,banco,própria,1,não qualificado (residente),2,não,sim,0
+< 0 DM,48,pagos em dia até agora,rádio/TV,6999,< 100 DM,4-7 anos,1,M casado/viúvo,fiador,1,imóvel,34,nenhum,própria,2,qualificado/funcionário,1,sim,sim,1
+0-200 DM,12,conta crítica/outros créditos,carro (novo),1995,100-500 DM,< 1 ano,4,M solteiro,nenhum,1,carro/outros,27,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,9,pagos em dia até agora,educação,1199,< 100 DM,4-7 anos,4,F div./sep./casada,nenhum,4,poupança/seguro de vida,67,nenhum,própria,2,gerência/autônomo/alta qualif.,1,sim,sim,0
+0-200 DM,12,pagos em dia até agora,rádio/TV,1331,< 100 DM,< 1 ano,2,M solteiro,nenhum,1,carro/outros,22,lojas,própria,1,qualificado/funcionário,1,não,sim,1
+0-200 DM,18,sem créditos/todos pagos,carro (novo),2278,100-500 DM,< 1 ano,3,F div./sep./casada,nenhum,3,carro/outros,28,nenhum,própria,2,qualificado/funcionário,1,não,sim,1
+sem conta,21,sem créditos/todos pagos,carro (novo),5003,desconhecido/sem poupança,1-4 anos,1,F div./sep./casada,nenhum,4,poupança/seguro de vida,29,banco,própria,2,qualificado/funcionário,1,sim,sim,1
+< 0 DM,24,todos pagos neste banco,móveis/equip.,3552,< 100 DM,4-7 anos,3,M solteiro,nenhum,4,carro/outros,27,banco,própria,1,qualificado/funcionário,1,não,sim,1
+0-200 DM,18,conta crítica/outros créditos,móveis/equip.,1928,< 100 DM,< 1 ano,2,M solteiro,nenhum,2,imóvel,31,nenhum,própria,2,não qualificado (residente),1,não,sim,1
+< 0 DM,24,pagos em dia até agora,carro (usado),2964,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,49,banco,gratuita,1,qualificado/funcionário,2,sim,sim,0
+< 0 DM,24,todos pagos neste banco,rádio/TV,1546,< 100 DM,4-7 anos,4,M solteiro,fiador,4,carro/outros,24,banco,aluguel,1,não qualificado (residente),1,não,sim,1
+>= 200 DM,6,atrasos no passado,rádio/TV,683,< 100 DM,< 1 ano,2,F div./sep./casada,nenhum,1,poupança/seguro de vida,29,banco,própria,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,36,pagos em dia até agora,carro (novo),12389,desconhecido/sem poupança,1-4 anos,1,M solteiro,nenhum,4,desconhecido/nenhum,37,nenhum,gratuita,1,qualificado/funcionário,1,sim,sim,1
+0-200 DM,24,atrasos no passado,negócios,4712,desconhecido/sem poupança,1-4 anos,4,M solteiro,nenhum,2,poupança/seguro de vida,37,banco,própria,2,gerência/autônomo/alta qualif.,1,sim,sim,0
+0-200 DM,24,atrasos no passado,rádio/TV,1553,100-500 DM,4-7 anos,3,F div./sep./casada,nenhum,2,poupança/seguro de vida,23,nenhum,aluguel,2,qualificado/funcionário,1,sim,sim,0
+< 0 DM,12,pagos em dia até agora,carro (novo),1372,< 100 DM,4-7 anos,2,M divorciado/separado,nenhum,3,carro/outros,36,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+sem conta,24,conta crítica/outros créditos,rádio/TV,2578,>= 1000 DM,>= 7 anos,2,M solteiro,nenhum,2,carro/outros,34,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,48,pagos em dia até agora,rádio/TV,3979,desconhecido/sem poupança,4-7 anos,4,M solteiro,nenhum,1,carro/outros,41,nenhum,própria,2,qualificado/funcionário,2,sim,sim,0
+< 0 DM,48,pagos em dia até agora,rádio/TV,6758,< 100 DM,1-4 anos,3,F div./sep./casada,nenhum,2,carro/outros,31,nenhum,própria,1,qualificado/funcionário,1,sim,sim,1
+< 0 DM,24,pagos em dia até agora,móveis/equip.,3234,< 100 DM,< 1 ano,4,F div./sep./casada,nenhum,4,imóvel,23,nenhum,aluguel,1,não qualificado (residente),1,sim,sim,1
+sem conta,30,conta crítica/outros créditos,rádio/TV,5954,< 100 DM,4-7 anos,3,M solteiro,co-requerente,2,carro/outros,38,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,24,pagos em dia até agora,carro (usado),5433,desconhecido/sem poupança,desempregado,2,F div./sep./casada,nenhum,4,poupança/seguro de vida,26,nenhum,aluguel,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+< 0 DM,15,pagos em dia até agora,negócios,806,< 100 DM,1-4 anos,4,F div./sep./casada,nenhum,4,poupança/seguro de vida,22,nenhum,própria,1,não qualificado (residente),1,não,sim,0
+0-200 DM,9,pagos em dia até agora,rádio/TV,1082,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,carro/outros,27,nenhum,própria,2,não qualificado (residente),1,não,sim,0
+sem conta,15,conta crítica/outros créditos,móveis/equip.,2788,< 100 DM,4-7 anos,2,F div./sep./casada,co-requerente,3,carro/outros,24,banco,própria,2,qualificado/funcionário,1,não,sim,0
+0-200 DM,12,pagos em dia até agora,rádio/TV,2930,< 100 DM,4-7 anos,2,F div./sep./casada,nenhum,1,imóvel,27,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,24,conta crítica/outros créditos,educação,1927,desconhecido/sem poupança,1-4 anos,3,F div./sep./casada,nenhum,2,carro/outros,33,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+0-200 DM,36,conta crítica/outros créditos,carro (novo),2820,< 100 DM,< 1 ano,4,M divorciado/separado,nenhum,4,carro/outros,27,nenhum,própria,2,qualificado/funcionário,1,não,sim,1
+sem conta,24,pagos em dia até agora,requalificação,937,< 100 DM,< 1 ano,4,M casado/viúvo,nenhum,3,carro/outros,27,nenhum,própria,2,não qualificado (residente),1,não,sim,0
+0-200 DM,18,conta crítica/outros créditos,carro (novo),1056,< 100 DM,>= 7 anos,3,M solteiro,fiador,3,imóvel,30,banco,própria,2,qualificado/funcionário,1,não,sim,1
+0-200 DM,12,conta crítica/outros créditos,carro (novo),3124,< 100 DM,< 1 ano,1,M solteiro,nenhum,3,imóvel,49,banco,própria,2,não qualificado (residente),2,não,sim,0
+sem conta,9,pagos em dia até agora,móveis/equip.,1388,< 100 DM,1-4 anos,4,F div./sep./casada,nenhum,2,imóvel,26,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,36,pagos em dia até agora,reparos,2384,< 100 DM,< 1 ano,4,M solteiro,nenhum,1,desconhecido/nenhum,33,nenhum,aluguel,1,não qualificado (residente),1,não,sim,1
+sem conta,12,pagos em dia até agora,carro (novo),2133,desconhecido/sem poupança,>= 7 anos,4,F div./sep./casada,nenhum,4,desconhecido/nenhum,52,nenhum,gratuita,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+< 0 DM,18,pagos em dia até agora,móveis/equip.,2039,< 100 DM,1-4 anos,1,F div./sep./casada,nenhum,4,imóvel,20,banco,aluguel,1,qualificado/funcionário,1,não,sim,1
+< 0 DM,9,conta crítica/outros créditos,carro (novo),2799,< 100 DM,1-4 anos,2,M solteiro,nenhum,2,imóvel,36,nenhum,aluguel,2,qualificado/funcionário,2,não,sim,0
+< 0 DM,12,pagos em dia até agora,móveis/equip.,1289,< 100 DM,1-4 anos,4,M solteiro,fiador,1,poupança/seguro de vida,21,nenhum,própria,1,não qualificado (residente),1,não,sim,0
+< 0 DM,18,pagos em dia até agora,eletrodomésticos,1217,< 100 DM,1-4 anos,4,M casado/viúvo,nenhum,3,imóvel,47,nenhum,própria,1,não qualificado (residente),1,sim,sim,1
+< 0 DM,12,conta crítica/outros créditos,móveis/equip.,2246,< 100 DM,>= 7 anos,3,M solteiro,nenhum,3,poupança/seguro de vida,60,nenhum,própria,2,qualificado/funcionário,1,não,sim,1
+< 0 DM,12,conta crítica/outros créditos,rádio/TV,385,< 100 DM,4-7 anos,4,F div./sep./casada,nenhum,3,imóvel,58,nenhum,própria,4,não qualificado (residente),1,sim,sim,0
+0-200 DM,24,atrasos no passado,carro (novo),1965,desconhecido/sem poupança,1-4 anos,4,F div./sep./casada,nenhum,4,carro/outros,42,nenhum,aluguel,2,qualificado/funcionário,1,sim,sim,0
+sem conta,21,pagos em dia até agora,negócios,1572,>= 1000 DM,>= 7 anos,4,F div./sep./casada,nenhum,4,imóvel,36,banco,própria,1,não qualificado (residente),1,não,sim,0
+0-200 DM,24,pagos em dia até agora,carro (novo),2718,< 100 DM,1-4 anos,3,F div./sep./casada,nenhum,4,poupança/seguro de vida,20,nenhum,aluguel,1,não qualificado (residente),1,sim,sim,1
+< 0 DM,24,todos pagos neste banco,outros,1358,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,3,carro/outros,40,lojas,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,1
+0-200 DM,6,todos pagos neste banco,carro (novo),931,100-500 DM,< 1 ano,1,F div./sep./casada,nenhum,1,poupança/seguro de vida,32,lojas,própria,1,não qualificado (residente),1,não,sim,1
+< 0 DM,24,pagos em dia até agora,carro (novo),1442,< 100 DM,4-7 anos,4,F div./sep./casada,nenhum,4,carro/outros,23,nenhum,aluguel,2,qualificado/funcionário,1,não,sim,1
+0-200 DM,24,sem créditos/todos pagos,negócios,4241,< 100 DM,1-4 anos,1,M solteiro,nenhum,4,imóvel,36,nenhum,própria,3,não qualificado (residente),1,sim,sim,1
+sem conta,18,conta crítica/outros créditos,carro (novo),2775,< 100 DM,4-7 anos,2,M solteiro,nenhum,2,poupança/seguro de vida,31,banco,própria,2,qualificado/funcionário,1,não,sim,1
+sem conta,24,atrasos no passado,negócios,3863,< 100 DM,1-4 anos,1,M solteiro,nenhum,2,desconhecido/nenhum,32,nenhum,gratuita,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,7,pagos em dia até agora,rádio/TV,2329,< 100 DM,< 1 ano,1,F div./sep./casada,fiador,1,imóvel,45,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,9,pagos em dia até agora,móveis/equip.,918,< 100 DM,1-4 anos,4,F div./sep./casada,nenhum,1,poupança/seguro de vida,30,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+0-200 DM,24,todos pagos neste banco,educação,1837,< 100 DM,4-7 anos,4,F div./sep./casada,nenhum,4,desconhecido/nenhum,34,banco,gratuita,1,não qualificado (residente),1,não,sim,1
+sem conta,36,pagos em dia até agora,móveis/equip.,3349,< 100 DM,1-4 anos,4,F div./sep./casada,nenhum,2,carro/outros,28,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,1
+>= 200 DM,10,pagos em dia até agora,móveis/equip.,1275,< 100 DM,< 1 ano,4,F div./sep./casada,nenhum,2,poupança/seguro de vida,23,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,24,todos pagos neste banco,móveis/equip.,2828,500-1000 DM,1-4 anos,4,M solteiro,nenhum,4,imóvel,22,lojas,própria,1,qualificado/funcionário,1,sim,sim,0
+sem conta,24,conta crítica/outros créditos,negócios,4526,< 100 DM,1-4 anos,3,M solteiro,nenhum,2,imóvel,74,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+0-200 DM,36,pagos em dia até agora,rádio/TV,2671,100-500 DM,1-4 anos,4,F div./sep./casada,co-requerente,4,desconhecido/nenhum,50,nenhum,gratuita,1,qualificado/funcionário,1,não,sim,1
+sem conta,18,pagos em dia até agora,rádio/TV,2051,< 100 DM,< 1 ano,4,M solteiro,nenhum,1,imóvel,33,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,15,pagos em dia até agora,carro (usado),1300,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,45,banco,gratuita,1,qualificado/funcionário,2,não,sim,0
+< 0 DM,12,pagos em dia até agora,eletrodomésticos,741,100-500 DM,desempregado,4,F div./sep./casada,nenhum,3,poupança/seguro de vida,22,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+>= 200 DM,10,pagos em dia até agora,carro (novo),1240,100-500 DM,>= 7 anos,1,F div./sep./casada,nenhum,4,desconhecido/nenhum,48,nenhum,gratuita,1,não qualificado (residente),2,não,sim,1
+< 0 DM,21,pagos em dia até agora,rádio/TV,3357,>= 1000 DM,< 1 ano,4,F div./sep./casada,nenhum,2,carro/outros,29,banco,própria,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,24,todos pagos neste banco,carro (usado),3632,< 100 DM,1-4 anos,1,F div./sep./casada,fiador,4,carro/outros,22,banco,aluguel,1,qualificado/funcionário,1,não,não,0
+sem conta,18,atrasos no passado,móveis/equip.,1808,< 100 DM,4-7 anos,4,F div./sep./casada,nenhum,1,imóvel,22,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+0-200 DM,48,sem créditos/todos pagos,negócios,12204,desconhecido/sem poupança,1-4 anos,2,M solteiro,nenhum,2,carro/outros,48,banco,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+0-200 DM,60,atrasos no passado,rádio/TV,9157,desconhecido/sem poupança,1-4 anos,2,M solteiro,nenhum,2,desconhecido/nenhum,27,nenhum,gratuita,1,gerência/autônomo/alta qualif.,1,não,sim,0
+< 0 DM,6,conta crítica/outros créditos,carro (novo),3676,< 100 DM,1-4 anos,1,M solteiro,nenhum,3,imóvel,37,nenhum,aluguel,3,qualificado/funcionário,2,não,sim,0
+0-200 DM,30,pagos em dia até agora,móveis/equip.,3441,100-500 DM,1-4 anos,2,F div./sep./casada,co-requerente,4,carro/outros,21,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,1
+sem conta,12,pagos em dia até agora,carro (novo),640,< 100 DM,1-4 anos,4,M divorciado/separado,nenhum,2,imóvel,49,nenhum,própria,1,não qualificado (residente),1,não,sim,0
+0-200 DM,21,conta crítica/outros créditos,negócios,3652,< 100 DM,4-7 anos,2,M solteiro,nenhum,3,poupança/seguro de vida,27,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,18,conta crítica/outros créditos,carro (novo),1530,< 100 DM,1-4 anos,3,M solteiro,nenhum,2,poupança/seguro de vida,32,banco,própria,2,qualificado/funcionário,1,não,sim,1
+sem conta,48,pagos em dia até agora,negócios,3914,desconhecido/sem poupança,1-4 anos,4,M divorciado/separado,nenhum,2,imóvel,38,banco,própria,1,qualificado/funcionário,1,não,sim,1
+< 0 DM,12,pagos em dia até agora,móveis/equip.,1858,< 100 DM,< 1 ano,4,F div./sep./casada,nenhum,1,carro/outros,22,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,18,pagos em dia até agora,rádio/TV,2600,< 100 DM,1-4 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,65,nenhum,gratuita,2,qualificado/funcionário,1,não,sim,1
+sem conta,15,pagos em dia até agora,rádio/TV,1979,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,2,carro/outros,35,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+>= 200 DM,6,pagos em dia até agora,móveis/equip.,2116,< 100 DM,1-4 anos,2,M solteiro,nenhum,2,imóvel,41,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,9,todos pagos neste banco,carro (novo),1437,100-500 DM,4-7 anos,2,M solteiro,nenhum,3,desconhecido/nenhum,29,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+sem conta,42,conta crítica/outros créditos,móveis/equip.,4042,500-1000 DM,1-4 anos,4,M solteiro,nenhum,4,imóvel,36,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+sem conta,9,pagos em dia até agora,educação,3832,desconhecido/sem poupança,>= 7 anos,1,M solteiro,nenhum,4,imóvel,64,nenhum,própria,1,não qualificado (residente),1,não,sim,0
+< 0 DM,24,pagos em dia até agora,rádio/TV,3660,< 100 DM,1-4 anos,2,F div./sep./casada,nenhum,4,carro/outros,28,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,18,todos pagos neste banco,móveis/equip.,1553,< 100 DM,1-4 anos,4,M solteiro,nenhum,3,carro/outros,44,banco,própria,1,qualificado/funcionário,1,não,sim,1
+0-200 DM,15,pagos em dia até agora,rádio/TV,1444,desconhecido/sem poupança,< 1 ano,4,M solteiro,nenhum,1,poupança/seguro de vida,23,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,9,pagos em dia até agora,móveis/equip.,1980,< 100 DM,< 1 ano,2,F div./sep./casada,co-requerente,2,carro/outros,19,nenhum,aluguel,2,qualificado/funcionário,1,não,sim,1
+0-200 DM,24,pagos em dia até agora,carro (novo),1355,< 100 DM,< 1 ano,3,F div./sep./casada,nenhum,4,carro/outros,25,nenhum,própria,1,não qualificado (residente),1,sim,sim,1
+sem conta,12,pagos em dia até agora,educação,1393,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,poupança/seguro de vida,47,banco,própria,3,qualificado/funcionário,2,sim,sim,0
+sem conta,24,pagos em dia até agora,rádio/TV,1376,500-1000 DM,4-7 anos,4,F div./sep./casada,nenhum,1,carro/outros,28,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,60,atrasos no passado,rádio/TV,15653,< 100 DM,4-7 anos,2,M solteiro,nenhum,4,carro/outros,21,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+sem conta,12,pagos em dia até agora,rádio/TV,1493,< 100 DM,< 1 ano,4,F div./sep./casada,nenhum,3,carro/outros,34,nenhum,própria,1,qualificado/funcionário,2,não,sim,0
+< 0 DM,42,atrasos no passado,rádio/TV,4370,< 100 DM,4-7 anos,3,M solteiro,nenhum,2,poupança/seguro de vida,26,banco,própria,2,qualificado/funcionário,2,sim,sim,1
+< 0 DM,18,pagos em dia até agora,educação,750,< 100 DM,desempregado,4,F div./sep./casada,nenhum,1,imóvel,27,nenhum,própria,1,desempregado/não qualif. (não residente),1,não,sim,1
+0-200 DM,15,pagos em dia até agora,reparos,1308,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,carro/outros,38,nenhum,própria,2,não qualificado (residente),1,não,sim,0
+sem conta,15,pagos em dia até agora,educação,4623,100-500 DM,1-4 anos,3,M solteiro,nenhum,2,poupança/seguro de vida,40,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,1
+sem conta,24,conta crítica/outros créditos,rádio/TV,1851,< 100 DM,4-7 anos,4,M casado/viúvo,fiador,2,carro/outros,33,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+< 0 DM,18,conta crítica/outros créditos,rádio/TV,1880,< 100 DM,4-7 anos,4,M casado/viúvo,nenhum,1,poupança/seguro de vida,32,nenhum,própria,2,gerência/autônomo/alta qualif.,1,sim,sim,0
+sem conta,36,atrasos no passado,negócios,7980,desconhecido/sem poupança,< 1 ano,4,M solteiro,nenhum,4,carro/outros,27,nenhum,aluguel,2,qualificado/funcionário,1,sim,sim,1
+< 0 DM,30,sem créditos/todos pagos,móveis/equip.,4583,< 100 DM,1-4 anos,2,M divorciado/separado,fiador,2,imóvel,32,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,12,pagos em dia até agora,carro (novo),1386,500-1000 DM,1-4 anos,2,F div./sep./casada,nenhum,2,poupança/seguro de vida,26,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+>= 200 DM,24,pagos em dia até agora,carro (novo),947,< 100 DM,4-7 anos,4,M solteiro,nenhum,3,desconhecido/nenhum,38,banco,gratuita,1,qualificado/funcionário,2,não,sim,1
+< 0 DM,12,pagos em dia até agora,educação,684,< 100 DM,1-4 anos,4,M solteiro,nenhum,4,carro/outros,40,nenhum,aluguel,1,não qualificado (residente),2,não,sim,1
+< 0 DM,48,pagos em dia até agora,educação,7476,< 100 DM,4-7 anos,4,M solteiro,nenhum,1,desconhecido/nenhum,50,nenhum,gratuita,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+0-200 DM,12,pagos em dia até agora,móveis/equip.,1922,< 100 DM,1-4 anos,4,M solteiro,nenhum,2,poupança/seguro de vida,37,nenhum,própria,1,não qualificado (residente),1,não,sim,1
+< 0 DM,24,pagos em dia até agora,carro (novo),2303,< 100 DM,>= 7 anos,4,M solteiro,co-requerente,1,imóvel,45,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+0-200 DM,36,atrasos no passado,carro (novo),8086,100-500 DM,>= 7 anos,2,M solteiro,nenhum,4,carro/outros,42,nenhum,própria,4,gerência/autônomo/alta qualif.,1,sim,sim,1
+sem conta,24,conta crítica/outros créditos,carro (usado),2346,< 100 DM,4-7 anos,4,M solteiro,nenhum,3,carro/outros,35,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+< 0 DM,14,pagos em dia até agora,carro (novo),3973,< 100 DM,desempregado,1,M solteiro,nenhum,4,desconhecido/nenhum,22,nenhum,gratuita,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,12,pagos em dia até agora,carro (novo),888,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,carro/outros,41,banco,própria,1,não qualificado (residente),2,não,sim,1
+sem conta,48,pagos em dia até agora,rádio/TV,10222,desconhecido/sem poupança,4-7 anos,4,M solteiro,nenhum,3,carro/outros,37,lojas,própria,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,30,sem créditos/todos pagos,negócios,4221,< 100 DM,1-4 anos,2,F div./sep./casada,nenhum,1,carro/outros,28,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+0-200 DM,18,conta crítica/outros créditos,móveis/equip.,6361,< 100 DM,>= 7 anos,2,M solteiro,nenhum,1,desconhecido/nenhum,41,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+>= 200 DM,12,pagos em dia até agora,rádio/TV,1297,< 100 DM,1-4 anos,3,M casado/viúvo,nenhum,4,imóvel,23,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,12,pagos em dia até agora,carro (novo),900,desconhecido/sem poupança,1-4 anos,4,M casado/viúvo,nenhum,2,carro/outros,23,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+sem conta,21,pagos em dia até agora,móveis/equip.,2241,< 100 DM,>= 7 anos,4,M solteiro,nenhum,2,imóvel,50,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+0-200 DM,6,atrasos no passado,móveis/equip.,1050,< 100 DM,desempregado,4,M solteiro,nenhum,1,poupança/seguro de vida,35,lojas,própria,2,gerência/autônomo/alta qualif.,1,sim,sim,0
+>= 200 DM,6,conta crítica/outros créditos,educação,1047,< 100 DM,1-4 anos,2,F div./sep./casada,nenhum,4,poupança/seguro de vida,50,nenhum,própria,1,não qualificado (residente),1,não,sim,0
+sem conta,24,conta crítica/outros créditos,outros,6314,< 100 DM,desempregado,4,M solteiro,co-requerente,2,desconhecido/nenhum,27,banco,própria,2,gerência/autônomo/alta qualif.,1,sim,sim,0
+0-200 DM,30,todos pagos neste banco,móveis/equip.,3496,>= 1000 DM,1-4 anos,4,M solteiro,nenhum,2,carro/outros,34,lojas,própria,1,qualificado/funcionário,2,sim,sim,0
+sem conta,48,todos pagos neste banco,negócios,3609,< 100 DM,1-4 anos,1,F div./sep./casada,nenhum,1,imóvel,27,lojas,própria,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,12,conta crítica/outros créditos,carro (novo),4843,< 100 DM,>= 7 anos,3,M solteiro,co-requerente,4,poupança/seguro de vida,43,nenhum,aluguel,2,qualificado/funcionário,1,sim,sim,1
+>= 200 DM,30,conta crítica/outros créditos,rádio/TV,3017,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,poupança/seguro de vida,47,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,24,conta crítica/outros créditos,negócios,4139,100-500 DM,1-4 anos,3,M solteiro,nenhum,3,poupança/seguro de vida,27,nenhum,própria,2,não qualificado (residente),1,sim,sim,0
+sem conta,36,pagos em dia até agora,negócios,5742,100-500 DM,4-7 anos,2,M solteiro,nenhum,2,carro/outros,31,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+sem conta,60,pagos em dia até agora,carro (novo),10366,< 100 DM,>= 7 anos,2,M solteiro,nenhum,4,poupança/seguro de vida,42,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+sem conta,6,conta crítica/outros créditos,carro (novo),2080,500-1000 DM,1-4 anos,1,M casado/viúvo,nenhum,2,carro/outros,24,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,21,atrasos no passado,negócios,2580,500-1000 DM,< 1 ano,4,M solteiro,nenhum,2,imóvel,41,banco,própria,1,não qualificado (residente),2,não,sim,1
+sem conta,30,conta crítica/outros créditos,rádio/TV,4530,< 100 DM,4-7 anos,4,F div./sep./casada,nenhum,4,carro/outros,26,nenhum,aluguel,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+sem conta,24,conta crítica/outros créditos,móveis/equip.,5150,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,carro/outros,33,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,72,pagos em dia até agora,rádio/TV,5595,100-500 DM,1-4 anos,2,M casado/viúvo,nenhum,2,carro/outros,24,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+< 0 DM,24,pagos em dia até agora,rádio/TV,2384,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,imóvel,64,banco,aluguel,1,não qualificado (residente),1,não,sim,0
+sem conta,18,pagos em dia até agora,rádio/TV,1453,< 100 DM,< 1 ano,3,F div./sep./casada,nenhum,1,imóvel,26,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,6,pagos em dia até agora,educação,1538,< 100 DM,< 1 ano,1,F div./sep./casada,nenhum,2,desconhecido/nenhum,56,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,12,pagos em dia até agora,rádio/TV,2279,desconhecido/sem poupança,1-4 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,37,nenhum,gratuita,1,qualificado/funcionário,1,sim,sim,0
+sem conta,15,atrasos no passado,rádio/TV,1478,< 100 DM,1-4 anos,4,M casado/viúvo,nenhum,3,imóvel,33,banco,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,24,conta crítica/outros créditos,rádio/TV,5103,< 100 DM,< 1 ano,3,M casado/viúvo,nenhum,3,desconhecido/nenhum,47,nenhum,gratuita,3,qualificado/funcionário,1,sim,sim,0
+0-200 DM,36,atrasos no passado,negócios,9857,100-500 DM,4-7 anos,1,M solteiro,nenhum,3,poupança/seguro de vida,31,nenhum,própria,2,não qualificado (residente),2,sim,sim,0
+sem conta,60,pagos em dia até agora,carro (novo),6527,desconhecido/sem poupança,1-4 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,34,nenhum,gratuita,1,qualificado/funcionário,2,sim,sim,0
+>= 200 DM,10,conta crítica/outros créditos,rádio/TV,1347,desconhecido/sem poupança,4-7 anos,4,M solteiro,nenhum,2,poupança/seguro de vida,27,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+0-200 DM,36,atrasos no passado,carro (novo),2862,100-500 DM,>= 7 anos,4,M solteiro,nenhum,3,desconhecido/nenhum,30,nenhum,gratuita,1,qualificado/funcionário,1,não,sim,0
+sem conta,9,pagos em dia até agora,rádio/TV,2753,100-500 DM,>= 7 anos,3,M solteiro,co-requerente,4,carro/outros,35,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+< 0 DM,12,pagos em dia até agora,carro (novo),3651,>= 1000 DM,1-4 anos,1,M solteiro,nenhum,3,poupança/seguro de vida,31,nenhum,própria,1,qualificado/funcionário,2,não,sim,0
+< 0 DM,15,conta crítica/outros créditos,móveis/equip.,975,< 100 DM,1-4 anos,2,M divorciado/separado,nenhum,3,poupança/seguro de vida,25,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+0-200 DM,15,pagos em dia até agora,reparos,2631,100-500 DM,1-4 anos,3,F div./sep./casada,nenhum,2,imóvel,25,nenhum,própria,1,não qualificado (residente),1,não,sim,0
+0-200 DM,24,pagos em dia até agora,rádio/TV,2896,100-500 DM,< 1 ano,2,M solteiro,nenhum,1,carro/outros,29,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,6,conta crítica/outros créditos,carro (novo),4716,desconhecido/sem poupança,< 1 ano,1,M solteiro,nenhum,3,imóvel,44,nenhum,própria,2,não qualificado (residente),2,não,sim,0
+sem conta,24,pagos em dia até agora,rádio/TV,2284,< 100 DM,4-7 anos,4,M solteiro,nenhum,2,carro/outros,28,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+sem conta,6,pagos em dia até agora,carro (usado),1236,500-1000 DM,1-4 anos,2,M solteiro,nenhum,4,poupança/seguro de vida,50,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,12,pagos em dia até agora,rádio/TV,1103,< 100 DM,4-7 anos,4,M solteiro,fiador,3,imóvel,29,nenhum,própria,2,qualificado/funcionário,1,não,não,0
+sem conta,12,conta crítica/outros créditos,carro (novo),926,< 100 DM,desempregado,1,F div./sep./casada,nenhum,2,poupança/seguro de vida,38,nenhum,própria,1,desempregado/não qualif. (não residente),1,não,sim,0
+sem conta,18,conta crítica/outros créditos,rádio/TV,1800,< 100 DM,1-4 anos,4,M solteiro,nenhum,2,carro/outros,24,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+>= 200 DM,15,pagos em dia até agora,educação,1905,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,carro/outros,40,nenhum,aluguel,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+sem conta,12,pagos em dia até agora,móveis/equip.,1123,500-1000 DM,1-4 anos,4,F div./sep./casada,nenhum,4,carro/outros,29,nenhum,aluguel,1,não qualificado (residente),1,não,sim,1
+< 0 DM,48,conta crítica/outros créditos,carro (usado),6331,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,46,nenhum,gratuita,2,qualificado/funcionário,1,sim,sim,1
+>= 200 DM,24,pagos em dia até agora,rádio/TV,1377,100-500 DM,>= 7 anos,4,F div./sep./casada,nenhum,2,desconhecido/nenhum,47,nenhum,gratuita,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,30,atrasos no passado,negócios,2503,100-500 DM,>= 7 anos,4,M solteiro,nenhum,2,poupança/seguro de vida,41,lojas,própria,2,qualificado/funcionário,1,não,sim,0
+0-200 DM,27,pagos em dia até agora,negócios,2528,< 100 DM,< 1 ano,4,F div./sep./casada,nenhum,1,poupança/seguro de vida,32,nenhum,própria,1,qualificado/funcionário,2,sim,sim,0
+sem conta,15,pagos em dia até agora,carro (novo),5324,500-1000 DM,>= 7 anos,1,F div./sep./casada,nenhum,4,desconhecido/nenhum,35,nenhum,gratuita,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,48,pagos em dia até agora,carro (novo),6560,100-500 DM,4-7 anos,3,M solteiro,nenhum,2,poupança/seguro de vida,24,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+0-200 DM,12,sem créditos/todos pagos,móveis/equip.,2969,< 100 DM,< 1 ano,4,F div./sep./casada,nenhum,3,poupança/seguro de vida,25,nenhum,aluguel,2,qualificado/funcionário,1,não,sim,1
+0-200 DM,9,pagos em dia até agora,rádio/TV,1206,< 100 DM,>= 7 anos,4,F div./sep./casada,nenhum,4,imóvel,25,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,9,pagos em dia até agora,rádio/TV,2118,< 100 DM,1-4 anos,2,M solteiro,nenhum,2,imóvel,37,nenhum,própria,1,não qualificado (residente),2,não,sim,0
+sem conta,18,conta crítica/outros créditos,rádio/TV,629,500-1000 DM,>= 7 anos,4,M solteiro,nenhum,3,poupança/seguro de vida,32,banco,própria,2,gerência/autônomo/alta qualif.,1,sim,sim,0
+< 0 DM,6,todos pagos neste banco,educação,1198,< 100 DM,>= 7 anos,4,F div./sep./casada,nenhum,4,desconhecido/nenhum,35,nenhum,gratuita,1,qualificado/funcionário,1,não,sim,1
+sem conta,21,pagos em dia até agora,carro (usado),2476,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,4,imóvel,46,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+< 0 DM,9,conta crítica/outros créditos,rádio/TV,1138,< 100 DM,1-4 anos,4,M solteiro,nenhum,4,imóvel,25,nenhum,própria,2,não qualificado (residente),1,não,sim,0
+0-200 DM,60,pagos em dia até agora,carro (novo),14027,< 100 DM,4-7 anos,4,M solteiro,nenhum,2,desconhecido/nenhum,27,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,1
+sem conta,30,conta crítica/outros créditos,carro (usado),7596,desconhecido/sem poupança,>= 7 anos,1,M solteiro,nenhum,4,carro/outros,63,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,30,conta crítica/outros créditos,rádio/TV,3077,desconhecido/sem poupança,>= 7 anos,3,M solteiro,nenhum,2,carro/outros,40,nenhum,própria,2,qualificado/funcionário,2,sim,sim,0
+sem conta,18,pagos em dia até agora,rádio/TV,1505,< 100 DM,1-4 anos,4,M solteiro,nenhum,2,desconhecido/nenhum,32,nenhum,gratuita,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+>= 200 DM,24,conta crítica/outros créditos,rádio/TV,3148,desconhecido/sem poupança,1-4 anos,3,M solteiro,nenhum,2,carro/outros,31,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+0-200 DM,20,sem créditos/todos pagos,carro (usado),6148,100-500 DM,>= 7 anos,3,M casado/viúvo,nenhum,4,carro/outros,31,banco,própria,2,qualificado/funcionário,1,sim,sim,0
+>= 200 DM,9,sem créditos/todos pagos,rádio/TV,1337,< 100 DM,< 1 ano,4,M solteiro,nenhum,2,carro/outros,34,nenhum,própria,2,gerência/autônomo/alta qualif.,1,sim,sim,1
+0-200 DM,6,todos pagos neste banco,educação,433,>= 1000 DM,< 1 ano,4,F div./sep./casada,nenhum,2,poupança/seguro de vida,24,banco,aluguel,1,qualificado/funcionário,2,não,sim,1
+< 0 DM,12,pagos em dia até agora,carro (novo),1228,< 100 DM,1-4 anos,4,F div./sep./casada,nenhum,2,imóvel,24,nenhum,própria,1,não qualificado (residente),1,não,sim,1
+0-200 DM,9,pagos em dia até agora,rádio/TV,790,500-1000 DM,1-4 anos,4,F div./sep./casada,nenhum,3,imóvel,66,nenhum,própria,1,não qualificado (residente),1,não,sim,0
+sem conta,27,pagos em dia até agora,carro (novo),2570,< 100 DM,1-4 anos,3,F div./sep./casada,nenhum,3,imóvel,21,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,1
+sem conta,6,conta crítica/outros créditos,carro (novo),250,>= 1000 DM,1-4 anos,2,F div./sep./casada,nenhum,2,imóvel,41,banco,própria,2,não qualificado (residente),1,não,sim,0
+sem conta,15,conta crítica/outros créditos,rádio/TV,1316,500-1000 DM,1-4 anos,2,M casado/viúvo,nenhum,2,poupança/seguro de vida,47,nenhum,própria,2,não qualificado (residente),1,não,sim,0
+< 0 DM,18,pagos em dia até agora,rádio/TV,1882,< 100 DM,1-4 anos,4,F div./sep./casada,nenhum,4,carro/outros,25,banco,aluguel,2,qualificado/funcionário,1,não,sim,1
+0-200 DM,48,todos pagos neste banco,negócios,6416,< 100 DM,>= 7 anos,4,F div./sep./casada,nenhum,3,desconhecido/nenhum,59,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,1
+>= 200 DM,24,conta crítica/outros créditos,negócios,1275,>= 1000 DM,1-4 anos,2,M divorciado/separado,nenhum,4,imóvel,36,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+0-200 DM,24,atrasos no passado,rádio/TV,6403,< 100 DM,< 1 ano,1,M solteiro,nenhum,2,carro/outros,33,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,24,pagos em dia até agora,rádio/TV,1987,< 100 DM,1-4 anos,2,M solteiro,nenhum,4,imóvel,21,nenhum,aluguel,1,não qualificado (residente),2,não,sim,1
+0-200 DM,8,pagos em dia até agora,rádio/TV,760,< 100 DM,4-7 anos,4,F div./sep./casada,fiador,2,imóvel,44,nenhum,própria,1,não qualificado (residente),1,não,sim,0
+sem conta,24,pagos em dia até agora,carro (usado),2603,>= 1000 DM,1-4 anos,2,F div./sep./casada,nenhum,4,carro/outros,28,nenhum,aluguel,1,qualificado/funcionário,1,sim,sim,0
+sem conta,4,conta crítica/outros créditos,carro (novo),3380,< 100 DM,4-7 anos,1,F div./sep./casada,nenhum,1,imóvel,37,nenhum,própria,1,qualificado/funcionário,2,não,sim,0
+0-200 DM,36,todos pagos neste banco,eletrodomésticos,3990,desconhecido/sem poupança,< 1 ano,3,F div./sep./casada,nenhum,2,desconhecido/nenhum,29,banco,própria,1,desempregado/não qualif. (não residente),1,não,sim,0
+0-200 DM,24,pagos em dia até agora,carro (usado),11560,< 100 DM,1-4 anos,1,F div./sep./casada,nenhum,4,carro/outros,23,nenhum,aluguel,2,gerência/autônomo/alta qualif.,1,não,sim,1
+< 0 DM,18,pagos em dia até agora,carro (novo),4380,100-500 DM,1-4 anos,3,M solteiro,nenhum,4,carro/outros,35,nenhum,própria,1,não qualificado (residente),2,sim,sim,0
+sem conta,6,conta crítica/outros créditos,carro (novo),6761,< 100 DM,4-7 anos,1,M solteiro,nenhum,3,desconhecido/nenhum,45,nenhum,própria,2,gerência/autônomo/alta qualif.,2,sim,sim,0
+0-200 DM,30,sem créditos/todos pagos,negócios,4280,100-500 DM,1-4 anos,4,F div./sep./casada,nenhum,4,carro/outros,26,nenhum,aluguel,2,não qualificado (residente),1,não,sim,1
+< 0 DM,24,todos pagos neste banco,carro (novo),2325,100-500 DM,4-7 anos,2,M solteiro,nenhum,3,carro/outros,32,banco,própria,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,10,todos pagos neste banco,rádio/TV,1048,< 100 DM,1-4 anos,4,M solteiro,nenhum,4,imóvel,23,lojas,própria,1,não qualificado (residente),1,não,sim,0
+sem conta,21,pagos em dia até agora,rádio/TV,3160,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,3,poupança/seguro de vida,41,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+< 0 DM,24,todos pagos neste banco,móveis/equip.,2483,500-1000 DM,1-4 anos,4,M solteiro,nenhum,4,imóvel,22,lojas,própria,1,qualificado/funcionário,1,sim,sim,0
+< 0 DM,39,conta crítica/outros créditos,móveis/equip.,14179,desconhecido/sem poupança,4-7 anos,4,M solteiro,nenhum,4,poupança/seguro de vida,30,nenhum,própria,2,gerência/autônomo/alta qualif.,1,sim,sim,0
+< 0 DM,13,conta crítica/outros créditos,negócios,1797,< 100 DM,< 1 ano,3,M solteiro,nenhum,1,poupança/seguro de vida,28,banco,própria,2,não qualificado (residente),1,não,sim,0
+< 0 DM,15,pagos em dia até agora,carro (novo),2511,< 100 DM,desempregado,1,F div./sep./casada,nenhum,4,carro/outros,23,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,12,pagos em dia até agora,carro (novo),1274,< 100 DM,< 1 ano,3,F div./sep./casada,nenhum,1,imóvel,37,nenhum,própria,1,não qualificado (residente),1,não,sim,1
+sem conta,21,pagos em dia até agora,carro (usado),5248,desconhecido/sem poupança,1-4 anos,1,M solteiro,nenhum,3,carro/outros,26,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,15,pagos em dia até agora,carro (usado),3029,< 100 DM,4-7 anos,2,M solteiro,nenhum,2,carro/outros,33,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,6,pagos em dia até agora,móveis/equip.,428,< 100 DM,>= 7 anos,2,F div./sep./casada,nenhum,1,poupança/seguro de vida,49,banco,própria,1,qualificado/funcionário,1,sim,sim,0
+< 0 DM,18,pagos em dia até agora,carro (novo),976,< 100 DM,< 1 ano,1,F div./sep./casada,nenhum,2,carro/outros,23,nenhum,própria,1,não qualificado (residente),1,não,sim,1
+0-200 DM,12,pagos em dia até agora,negócios,841,100-500 DM,4-7 anos,2,F div./sep./casada,nenhum,4,imóvel,23,nenhum,aluguel,1,não qualificado (residente),1,não,sim,0
+sem conta,30,conta crítica/outros créditos,rádio/TV,5771,< 100 DM,4-7 anos,4,F div./sep./casada,nenhum,2,carro/outros,25,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,12,atrasos no passado,reparos,1555,>= 1000 DM,>= 7 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,55,nenhum,gratuita,2,qualificado/funcionário,2,não,sim,1
+< 0 DM,24,pagos em dia até agora,carro (novo),1285,desconhecido/sem poupança,4-7 anos,4,F div./sep./casada,nenhum,4,desconhecido/nenhum,32,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,1
+>= 200 DM,6,conta crítica/outros créditos,carro (novo),1299,< 100 DM,1-4 anos,1,M solteiro,nenhum,1,imóvel,74,nenhum,própria,3,desempregado/não qualif. (não residente),2,não,não,0
+>= 200 DM,15,conta crítica/outros créditos,rádio/TV,1271,desconhecido/sem poupança,1-4 anos,3,M solteiro,nenhum,4,desconhecido/nenhum,39,nenhum,gratuita,2,qualificado/funcionário,1,sim,sim,1
+sem conta,24,pagos em dia até agora,carro (novo),1393,< 100 DM,1-4 anos,2,M solteiro,fiador,2,imóvel,31,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+< 0 DM,12,conta crítica/outros créditos,carro (novo),691,< 100 DM,>= 7 anos,4,M solteiro,nenhum,3,poupança/seguro de vida,35,nenhum,própria,2,qualificado/funcionário,1,não,sim,1
+sem conta,15,conta crítica/outros créditos,carro (novo),5045,desconhecido/sem poupança,>= 7 anos,1,F div./sep./casada,nenhum,4,carro/outros,59,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+< 0 DM,18,conta crítica/outros créditos,móveis/equip.,2124,< 100 DM,1-4 anos,4,F div./sep./casada,nenhum,4,imóvel,24,nenhum,aluguel,2,qualificado/funcionário,1,não,sim,1
+< 0 DM,12,pagos em dia até agora,rádio/TV,2214,< 100 DM,1-4 anos,4,M solteiro,nenhum,3,poupança/seguro de vida,24,nenhum,própria,1,não qualificado (residente),1,não,sim,0
+sem conta,21,conta crítica/outros créditos,carro (novo),12680,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,30,nenhum,gratuita,1,gerência/autônomo/alta qualif.,1,sim,sim,1
+sem conta,24,conta crítica/outros créditos,carro (novo),2463,100-500 DM,4-7 anos,4,M casado/viúvo,nenhum,3,poupança/seguro de vida,27,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+0-200 DM,12,pagos em dia até agora,rádio/TV,1155,< 100 DM,>= 7 anos,3,M casado/viúvo,fiador,3,imóvel,40,banco,própria,2,não qualificado (residente),1,não,sim,0
+< 0 DM,30,pagos em dia até agora,móveis/equip.,3108,< 100 DM,< 1 ano,2,M divorciado/separado,nenhum,4,poupança/seguro de vida,31,nenhum,própria,1,não qualificado (residente),1,não,sim,1
+sem conta,10,pagos em dia até agora,carro (usado),2901,desconhecido/sem poupança,< 1 ano,1,F div./sep./casada,nenhum,4,imóvel,31,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,12,conta crítica/outros créditos,móveis/equip.,3617,< 100 DM,>= 7 anos,1,M solteiro,nenhum,4,carro/outros,28,nenhum,aluguel,3,qualificado/funcionário,1,sim,sim,0
+sem conta,12,conta crítica/outros créditos,rádio/TV,1655,< 100 DM,>= 7 anos,2,M solteiro,nenhum,4,imóvel,63,nenhum,própria,2,não qualificado (residente),1,sim,sim,0
+< 0 DM,24,pagos em dia até agora,carro (usado),2812,desconhecido/sem poupança,>= 7 anos,2,F div./sep./casada,nenhum,4,imóvel,26,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,36,conta crítica/outros créditos,educação,8065,< 100 DM,1-4 anos,3,F div./sep./casada,nenhum,2,desconhecido/nenhum,25,nenhum,própria,2,gerência/autônomo/alta qualif.,1,sim,sim,1
+sem conta,21,conta crítica/outros créditos,carro (usado),3275,< 100 DM,>= 7 anos,1,M solteiro,nenhum,4,carro/outros,36,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+sem conta,24,conta crítica/outros créditos,rádio/TV,2223,100-500 DM,>= 7 anos,4,M solteiro,nenhum,4,poupança/seguro de vida,52,banco,própria,2,qualificado/funcionário,1,não,sim,0
+>= 200 DM,12,conta crítica/outros créditos,carro (novo),1480,500-1000 DM,desempregado,2,M solteiro,nenhum,4,desconhecido/nenhum,66,banco,gratuita,3,desempregado/não qualif. (não residente),1,não,sim,0
+< 0 DM,24,pagos em dia até agora,carro (novo),1371,desconhecido/sem poupança,1-4 anos,4,F div./sep./casada,nenhum,4,imóvel,25,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,1
+sem conta,36,conta crítica/outros créditos,carro (novo),3535,< 100 DM,4-7 anos,4,M solteiro,nenhum,4,carro/outros,37,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+< 0 DM,18,pagos em dia até agora,rádio/TV,3509,< 100 DM,4-7 anos,4,F div./sep./casada,fiador,1,imóvel,25,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,36,conta crítica/outros créditos,carro (usado),5711,>= 1000 DM,>= 7 anos,4,M solteiro,nenhum,2,carro/outros,38,nenhum,própria,2,gerência/autônomo/alta qualif.,1,sim,sim,0
+0-200 DM,18,pagos em dia até agora,reparos,3872,< 100 DM,desempregado,2,F div./sep./casada,nenhum,4,carro/outros,67,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,39,conta crítica/outros créditos,rádio/TV,4933,< 100 DM,4-7 anos,2,M solteiro,fiador,2,imóvel,25,nenhum,própria,2,qualificado/funcionário,1,não,sim,1
+sem conta,24,conta crítica/outros créditos,carro (novo),1940,>= 1000 DM,>= 7 anos,4,M solteiro,nenhum,4,imóvel,60,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,12,sem créditos/todos pagos,requalificação,1410,< 100 DM,1-4 anos,2,M solteiro,nenhum,2,imóvel,31,nenhum,própria,1,não qualificado (residente),1,sim,sim,0
+0-200 DM,12,pagos em dia até agora,carro (novo),836,100-500 DM,< 1 ano,4,F div./sep./casada,nenhum,2,poupança/seguro de vida,23,banco,própria,1,não qualificado (residente),1,não,sim,1
+0-200 DM,20,pagos em dia até agora,carro (usado),6468,desconhecido/sem poupança,desempregado,1,M divorciado/separado,nenhum,4,imóvel,60,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+0-200 DM,18,pagos em dia até agora,negócios,1941,>= 1000 DM,1-4 anos,4,M solteiro,nenhum,2,poupança/seguro de vida,35,nenhum,própria,1,não qualificado (residente),1,sim,sim,0
+sem conta,22,pagos em dia até agora,rádio/TV,2675,500-1000 DM,>= 7 anos,3,M solteiro,nenhum,4,carro/outros,40,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,48,conta crítica/outros créditos,carro (usado),2751,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,3,carro/outros,38,nenhum,própria,2,qualificado/funcionário,2,sim,sim,0
+0-200 DM,48,atrasos no passado,educação,6224,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,50,nenhum,gratuita,1,qualificado/funcionário,1,não,sim,1
+< 0 DM,40,conta crítica/outros créditos,educação,5998,< 100 DM,1-4 anos,4,M solteiro,nenhum,3,desconhecido/nenhum,27,banco,própria,1,qualificado/funcionário,1,sim,sim,1
+0-200 DM,21,pagos em dia até agora,negócios,1188,< 100 DM,>= 7 anos,2,F div./sep./casada,nenhum,4,poupança/seguro de vida,39,nenhum,própria,1,qualificado/funcionário,2,não,sim,1
+sem conta,24,pagos em dia até agora,carro (usado),6313,desconhecido/sem poupança,>= 7 anos,3,M solteiro,nenhum,4,carro/outros,41,nenhum,própria,1,gerência/autônomo/alta qualif.,2,sim,sim,0
+sem conta,6,conta crítica/outros créditos,móveis/equip.,1221,desconhecido/sem poupança,1-4 anos,1,M casado/viúvo,nenhum,2,poupança/seguro de vida,27,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+>= 200 DM,24,pagos em dia até agora,móveis/equip.,2892,< 100 DM,>= 7 anos,3,M divorciado/separado,nenhum,4,desconhecido/nenhum,51,nenhum,gratuita,1,qualificado/funcionário,1,não,sim,0
+sem conta,24,pagos em dia até agora,móveis/equip.,3062,500-1000 DM,>= 7 anos,4,M solteiro,nenhum,3,desconhecido/nenhum,32,nenhum,aluguel,1,qualificado/funcionário,1,sim,sim,0
+sem conta,9,pagos em dia até agora,móveis/equip.,2301,100-500 DM,< 1 ano,2,F div./sep./casada,nenhum,4,poupança/seguro de vida,22,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,18,pagos em dia até agora,carro (usado),7511,desconhecido/sem poupança,>= 7 anos,1,M solteiro,nenhum,4,poupança/seguro de vida,51,nenhum,gratuita,1,qualificado/funcionário,2,sim,sim,1
+sem conta,12,conta crítica/outros créditos,móveis/equip.,1258,< 100 DM,< 1 ano,2,F div./sep./casada,nenhum,4,poupança/seguro de vida,22,nenhum,aluguel,2,não qualificado (residente),1,não,sim,0
+sem conta,24,atrasos no passado,carro (novo),717,desconhecido/sem poupança,>= 7 anos,4,M casado/viúvo,nenhum,4,carro/outros,54,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+0-200 DM,9,pagos em dia até agora,carro (novo),1549,desconhecido/sem poupança,< 1 ano,4,M solteiro,nenhum,2,imóvel,35,nenhum,própria,1,desempregado/não qualif. (não residente),1,não,sim,0
+sem conta,24,conta crítica/outros créditos,educação,1597,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,54,nenhum,gratuita,2,qualificado/funcionário,2,não,sim,0
+0-200 DM,18,conta crítica/outros créditos,rádio/TV,1795,< 100 DM,>= 7 anos,3,F div./sep./casada,fiador,4,imóvel,48,banco,aluguel,2,não qualificado (residente),1,sim,sim,0
+< 0 DM,20,conta crítica/outros créditos,móveis/equip.,4272,< 100 DM,>= 7 anos,1,F div./sep./casada,nenhum,4,poupança/seguro de vida,24,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,12,conta crítica/outros créditos,rádio/TV,976,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,4,carro/outros,35,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+0-200 DM,12,pagos em dia até agora,carro (novo),7472,desconhecido/sem poupança,desempregado,1,F div./sep./casada,nenhum,2,imóvel,24,nenhum,aluguel,1,desempregado/não qualif. (não residente),1,não,sim,0
+< 0 DM,36,pagos em dia até agora,carro (novo),9271,< 100 DM,4-7 anos,2,M solteiro,nenhum,1,carro/outros,24,nenhum,própria,1,qualificado/funcionário,1,sim,sim,1
+0-200 DM,6,pagos em dia até agora,rádio/TV,590,< 100 DM,< 1 ano,3,M casado/viúvo,nenhum,3,imóvel,26,nenhum,própria,1,não qualificado (residente),1,não,não,0
+sem conta,12,conta crítica/outros créditos,rádio/TV,930,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,4,imóvel,65,nenhum,própria,4,qualificado/funcionário,1,não,sim,0
+0-200 DM,42,todos pagos neste banco,carro (usado),9283,< 100 DM,desempregado,1,M solteiro,nenhum,2,desconhecido/nenhum,55,banco,gratuita,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+0-200 DM,15,sem créditos/todos pagos,carro (novo),1778,< 100 DM,< 1 ano,2,F div./sep./casada,nenhum,1,imóvel,26,nenhum,aluguel,2,desempregado/não qualif. (não residente),1,não,sim,1
+0-200 DM,8,pagos em dia até agora,negócios,907,< 100 DM,< 1 ano,3,M casado/viúvo,nenhum,2,imóvel,26,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,6,pagos em dia até agora,rádio/TV,484,< 100 DM,4-7 anos,3,M casado/viúvo,fiador,3,imóvel,28,banco,própria,1,não qualificado (residente),1,não,sim,0
+< 0 DM,36,conta crítica/outros créditos,carro (usado),9629,< 100 DM,4-7 anos,4,M solteiro,nenhum,4,carro/outros,24,nenhum,própria,2,qualificado/funcionário,1,sim,sim,1
+< 0 DM,48,pagos em dia até agora,eletrodomésticos,3051,< 100 DM,1-4 anos,3,M solteiro,nenhum,4,carro/outros,54,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+< 0 DM,48,pagos em dia até agora,carro (novo),3931,< 100 DM,4-7 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,46,nenhum,gratuita,1,qualificado/funcionário,2,não,sim,1
+0-200 DM,36,atrasos no passado,carro (novo),7432,< 100 DM,1-4 anos,2,F div./sep./casada,nenhum,2,poupança/seguro de vida,54,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,0
+sem conta,6,pagos em dia até agora,eletrodomésticos,1338,500-1000 DM,1-4 anos,1,M divorciado/separado,nenhum,4,imóvel,62,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,6,conta crítica/outros créditos,rádio/TV,1554,< 100 DM,4-7 anos,1,F div./sep./casada,nenhum,2,carro/outros,24,nenhum,aluguel,2,qualificado/funcionário,1,sim,sim,0
+< 0 DM,36,pagos em dia até agora,outros,15857,< 100 DM,desempregado,2,M divorciado/separado,co-requerente,3,carro/outros,43,nenhum,própria,1,gerência/autônomo/alta qualif.,1,não,sim,0
+< 0 DM,18,pagos em dia até agora,rádio/TV,1345,< 100 DM,1-4 anos,4,M casado/viúvo,nenhum,3,imóvel,26,banco,própria,1,qualificado/funcionário,1,não,sim,1
+sem conta,12,pagos em dia até agora,carro (novo),1101,< 100 DM,1-4 anos,3,M casado/viúvo,nenhum,2,imóvel,27,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+>= 200 DM,12,pagos em dia até agora,rádio/TV,3016,< 100 DM,1-4 anos,3,M casado/viúvo,nenhum,1,carro/outros,24,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,36,pagos em dia até agora,móveis/equip.,2712,< 100 DM,>= 7 anos,2,M solteiro,nenhum,2,poupança/seguro de vida,41,banco,própria,1,qualificado/funcionário,2,não,sim,1
+< 0 DM,8,conta crítica/outros créditos,carro (novo),731,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,imóvel,47,nenhum,própria,2,não qualificado (residente),1,não,sim,0
+sem conta,18,conta crítica/outros créditos,móveis/equip.,3780,< 100 DM,< 1 ano,3,M divorciado/separado,nenhum,2,carro/outros,35,nenhum,própria,2,gerência/autônomo/alta qualif.,1,sim,sim,0
+< 0 DM,21,conta crítica/outros créditos,carro (novo),1602,< 100 DM,>= 7 anos,4,M casado/viúvo,nenhum,3,carro/outros,30,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+< 0 DM,18,conta crítica/outros créditos,carro (novo),3966,< 100 DM,>= 7 anos,1,F div./sep./casada,nenhum,4,imóvel,33,banco,aluguel,3,qualificado/funcionário,1,sim,sim,1
+sem conta,18,sem créditos/todos pagos,negócios,4165,< 100 DM,1-4 anos,2,M solteiro,nenhum,2,carro/outros,36,lojas,própria,2,qualificado/funcionário,2,não,sim,1
+< 0 DM,36,pagos em dia até agora,carro (usado),8335,desconhecido/sem poupança,>= 7 anos,3,M solteiro,nenhum,4,desconhecido/nenhum,47,nenhum,gratuita,1,qualificado/funcionário,1,não,sim,1
+0-200 DM,48,atrasos no passado,negócios,6681,desconhecido/sem poupança,1-4 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,38,nenhum,gratuita,1,qualificado/funcionário,2,sim,sim,0
+sem conta,24,atrasos no passado,negócios,2375,500-1000 DM,1-4 anos,4,M solteiro,nenhum,2,carro/outros,44,nenhum,própria,2,qualificado/funcionário,2,sim,sim,0
+< 0 DM,18,pagos em dia até agora,carro (novo),1216,< 100 DM,< 1 ano,4,F div./sep./casada,nenhum,3,carro/outros,23,nenhum,aluguel,1,qualificado/funcionário,1,sim,sim,1
+< 0 DM,45,sem créditos/todos pagos,negócios,11816,< 100 DM,>= 7 anos,2,M solteiro,nenhum,4,carro/outros,29,nenhum,aluguel,2,qualificado/funcionário,1,não,sim,1
+0-200 DM,24,pagos em dia até agora,rádio/TV,5084,desconhecido/sem poupança,>= 7 anos,2,F div./sep./casada,nenhum,4,carro/outros,42,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+>= 200 DM,15,pagos em dia até agora,rádio/TV,2327,< 100 DM,< 1 ano,2,F div./sep./casada,nenhum,3,imóvel,25,nenhum,própria,1,não qualificado (residente),1,não,sim,1
+< 0 DM,12,sem créditos/todos pagos,carro (novo),1082,< 100 DM,1-4 anos,4,M solteiro,nenhum,4,carro/outros,48,banco,própria,2,qualificado/funcionário,1,não,sim,1
+sem conta,12,pagos em dia até agora,rádio/TV,886,desconhecido/sem poupança,1-4 anos,4,F div./sep./casada,nenhum,2,carro/outros,21,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,4,pagos em dia até agora,móveis/equip.,601,< 100 DM,< 1 ano,1,F div./sep./casada,nenhum,3,imóvel,23,nenhum,aluguel,1,não qualificado (residente),2,não,sim,0
+< 0 DM,24,conta crítica/outros créditos,carro (usado),2957,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,poupança/seguro de vida,63,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+sem conta,24,conta crítica/outros créditos,rádio/TV,2611,< 100 DM,>= 7 anos,4,M casado/viúvo,co-requerente,3,imóvel,46,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+< 0 DM,36,pagos em dia até agora,móveis/equip.,5179,< 100 DM,4-7 anos,4,M solteiro,nenhum,2,poupança/seguro de vida,29,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+sem conta,21,atrasos no passado,carro (usado),2993,< 100 DM,1-4 anos,3,M solteiro,nenhum,2,imóvel,28,lojas,própria,2,não qualificado (residente),1,não,sim,0
+sem conta,18,pagos em dia até agora,reparos,1943,< 100 DM,< 1 ano,4,F div./sep./casada,nenhum,4,imóvel,23,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+sem conta,24,todos pagos neste banco,negócios,1559,< 100 DM,4-7 anos,4,M solteiro,nenhum,4,carro/outros,50,banco,própria,1,qualificado/funcionário,1,sim,sim,0
+sem conta,18,pagos em dia até agora,móveis/equip.,3422,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,poupança/seguro de vida,47,banco,própria,3,qualificado/funcionário,2,sim,sim,0
+0-200 DM,21,pagos em dia até agora,móveis/equip.,3976,desconhecido/sem poupança,4-7 anos,2,M solteiro,nenhum,3,carro/outros,35,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+sem conta,18,pagos em dia até agora,carro (novo),6761,desconhecido/sem poupança,1-4 anos,2,M solteiro,nenhum,4,carro/outros,68,nenhum,aluguel,2,qualificado/funcionário,1,não,sim,1
+sem conta,24,pagos em dia até agora,carro (novo),1249,< 100 DM,< 1 ano,4,M casado/viúvo,nenhum,2,imóvel,28,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,9,pagos em dia até agora,rádio/TV,1364,< 100 DM,4-7 anos,3,M solteiro,nenhum,4,imóvel,59,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,12,pagos em dia até agora,rádio/TV,709,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,imóvel,57,lojas,própria,1,não qualificado (residente),1,não,sim,1
+< 0 DM,20,conta crítica/outros créditos,carro (novo),2235,< 100 DM,1-4 anos,4,M casado/viúvo,fiador,2,poupança/seguro de vida,33,banco,aluguel,2,qualificado/funcionário,1,não,não,1
+sem conta,24,conta crítica/outros créditos,carro (usado),4042,desconhecido/sem poupança,4-7 anos,3,M solteiro,nenhum,4,poupança/seguro de vida,43,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+sem conta,15,conta crítica/outros créditos,rádio/TV,1471,< 100 DM,1-4 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,35,nenhum,gratuita,2,qualificado/funcionário,1,sim,sim,0
+< 0 DM,18,todos pagos neste banco,carro (novo),1442,< 100 DM,4-7 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,32,nenhum,gratuita,2,não qualificado (residente),2,não,sim,1
+sem conta,36,atrasos no passado,carro (novo),10875,< 100 DM,>= 7 anos,2,M solteiro,nenhum,2,carro/outros,45,nenhum,própria,2,qualificado/funcionário,2,sim,sim,0
+sem conta,24,pagos em dia até agora,carro (novo),1474,100-500 DM,< 1 ano,4,M casado/viúvo,nenhum,3,imóvel,33,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+sem conta,10,pagos em dia até agora,requalificação,894,desconhecido/sem poupança,4-7 anos,4,F div./sep./casada,nenhum,3,poupança/seguro de vida,40,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+sem conta,15,conta crítica/outros créditos,móveis/equip.,3343,< 100 DM,1-4 anos,4,M solteiro,nenhum,2,desconhecido/nenhum,28,nenhum,gratuita,1,qualificado/funcionário,1,sim,sim,0
+< 0 DM,15,pagos em dia até agora,carro (novo),3959,< 100 DM,1-4 anos,3,F div./sep./casada,nenhum,2,poupança/seguro de vida,29,nenhum,própria,1,qualificado/funcionário,1,sim,sim,1
+sem conta,9,pagos em dia até agora,carro (novo),3577,100-500 DM,1-4 anos,1,M solteiro,fiador,2,imóvel,26,nenhum,aluguel,1,qualificado/funcionário,2,não,não,0
+sem conta,24,conta crítica/outros créditos,carro (usado),5804,>= 1000 DM,1-4 anos,4,M solteiro,nenhum,2,imóvel,27,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,18,atrasos no passado,negócios,2169,< 100 DM,1-4 anos,4,M casado/viúvo,nenhum,2,carro/outros,28,nenhum,própria,1,qualificado/funcionário,1,sim,sim,1
+< 0 DM,24,pagos em dia até agora,rádio/TV,2439,< 100 DM,< 1 ano,4,F div./sep./casada,nenhum,4,imóvel,35,nenhum,própria,1,qualificado/funcionário,1,sim,sim,1
+sem conta,27,conta crítica/outros créditos,móveis/equip.,4526,>= 1000 DM,< 1 ano,4,M solteiro,nenhum,2,imóvel,32,lojas,própria,2,não qualificado (residente),2,sim,sim,0
+sem conta,10,pagos em dia até agora,móveis/equip.,2210,< 100 DM,1-4 anos,2,M solteiro,nenhum,2,imóvel,25,banco,aluguel,1,não qualificado (residente),1,não,sim,1
+sem conta,15,pagos em dia até agora,móveis/equip.,2221,500-1000 DM,1-4 anos,2,F div./sep./casada,nenhum,4,carro/outros,20,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,18,pagos em dia até agora,rádio/TV,2389,< 100 DM,< 1 ano,4,F div./sep./casada,nenhum,1,carro/outros,27,lojas,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,12,conta crítica/outros créditos,móveis/equip.,3331,< 100 DM,>= 7 anos,2,M solteiro,nenhum,4,poupança/seguro de vida,42,lojas,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,36,pagos em dia até agora,negócios,7409,desconhecido/sem poupança,>= 7 anos,3,M solteiro,nenhum,2,poupança/seguro de vida,37,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+< 0 DM,12,pagos em dia até agora,móveis/equip.,652,< 100 DM,>= 7 anos,4,F div./sep./casada,nenhum,4,poupança/seguro de vida,24,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,0
+sem conta,36,atrasos no passado,móveis/equip.,7678,500-1000 DM,4-7 anos,2,F div./sep./casada,nenhum,4,carro/outros,40,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+>= 200 DM,6,conta crítica/outros créditos,carro (novo),1343,< 100 DM,>= 7 anos,1,M solteiro,nenhum,4,imóvel,46,nenhum,própria,2,qualificado/funcionário,2,não,não,0
+< 0 DM,24,conta crítica/outros créditos,negócios,1382,100-500 DM,4-7 anos,4,M solteiro,nenhum,1,imóvel,26,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+sem conta,15,pagos em dia até agora,eletrodomésticos,874,desconhecido/sem poupança,< 1 ano,4,F div./sep./casada,nenhum,1,imóvel,24,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,12,pagos em dia até agora,móveis/equip.,3590,< 100 DM,1-4 anos,2,M solteiro,co-requerente,2,poupança/seguro de vida,29,nenhum,própria,1,não qualificado (residente),2,não,sim,0
+0-200 DM,11,conta crítica/outros créditos,carro (novo),1322,>= 1000 DM,1-4 anos,4,F div./sep./casada,nenhum,4,carro/outros,40,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+< 0 DM,18,todos pagos neste banco,rádio/TV,1940,< 100 DM,< 1 ano,3,M solteiro,co-requerente,4,desconhecido/nenhum,36,banco,gratuita,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+sem conta,36,pagos em dia até agora,rádio/TV,3595,< 100 DM,>= 7 anos,4,M solteiro,nenhum,2,carro/outros,28,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,9,pagos em dia até agora,carro (novo),1422,< 100 DM,< 1 ano,3,M solteiro,nenhum,2,desconhecido/nenhum,27,nenhum,gratuita,1,gerência/autônomo/alta qualif.,1,sim,sim,1
+sem conta,30,conta crítica/outros créditos,rádio/TV,6742,desconhecido/sem poupança,4-7 anos,2,M solteiro,nenhum,3,poupança/seguro de vida,36,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,24,pagos em dia até agora,carro (usado),7814,< 100 DM,4-7 anos,3,M solteiro,nenhum,3,carro/outros,38,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+sem conta,24,pagos em dia até agora,carro (usado),9277,desconhecido/sem poupança,1-4 anos,2,M divorciado/separado,nenhum,4,desconhecido/nenhum,48,nenhum,gratuita,1,qualificado/funcionário,1,sim,sim,0
+0-200 DM,30,conta crítica/outros créditos,carro (novo),2181,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,4,imóvel,36,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,18,conta crítica/outros créditos,rádio/TV,1098,< 100 DM,desempregado,4,F div./sep./casada,nenhum,4,carro/outros,65,nenhum,própria,2,desempregado/não qualif. (não residente),1,não,sim,0
+0-200 DM,24,pagos em dia até agora,móveis/equip.,4057,< 100 DM,4-7 anos,3,M divorciado/separado,nenhum,3,carro/outros,43,nenhum,própria,1,qualificado/funcionário,1,sim,sim,1
+< 0 DM,12,pagos em dia até agora,educação,795,< 100 DM,< 1 ano,4,F div./sep./casada,nenhum,4,poupança/seguro de vida,53,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+0-200 DM,24,conta crítica/outros créditos,negócios,2825,desconhecido/sem poupança,4-7 anos,4,M solteiro,nenhum,3,desconhecido/nenhum,34,nenhum,própria,2,qualificado/funcionário,2,sim,sim,0
+0-200 DM,48,pagos em dia até agora,negócios,15672,< 100 DM,1-4 anos,2,M solteiro,nenhum,2,carro/outros,23,nenhum,própria,1,qualificado/funcionário,1,sim,sim,1
+sem conta,36,conta crítica/outros créditos,carro (novo),6614,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,carro/outros,34,nenhum,própria,2,gerência/autônomo/alta qualif.,1,sim,sim,0
+sem conta,28,todos pagos neste banco,carro (usado),7824,desconhecido/sem poupança,< 1 ano,3,M solteiro,fiador,4,imóvel,40,banco,aluguel,2,qualificado/funcionário,2,sim,sim,0
+< 0 DM,27,conta crítica/outros créditos,negócios,2442,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,carro/outros,43,lojas,própria,4,gerência/autônomo/alta qualif.,2,sim,sim,0
+sem conta,15,conta crítica/outros créditos,rádio/TV,1829,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,carro/outros,46,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+< 0 DM,12,conta crítica/outros créditos,carro (novo),2171,< 100 DM,1-4 anos,4,M solteiro,nenhum,4,poupança/seguro de vida,38,banco,própria,2,não qualificado (residente),1,não,não,0
+0-200 DM,36,conta crítica/outros créditos,carro (usado),5800,< 100 DM,1-4 anos,3,M solteiro,nenhum,4,carro/outros,34,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+sem conta,18,conta crítica/outros créditos,rádio/TV,1169,desconhecido/sem poupança,1-4 anos,4,M solteiro,nenhum,3,poupança/seguro de vida,29,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+sem conta,36,atrasos no passado,carro (usado),8947,desconhecido/sem poupança,4-7 anos,3,M solteiro,nenhum,2,carro/outros,31,lojas,própria,1,gerência/autônomo/alta qualif.,2,sim,sim,0
+< 0 DM,21,pagos em dia até agora,rádio/TV,2606,< 100 DM,< 1 ano,4,F div./sep./casada,nenhum,4,poupança/seguro de vida,28,nenhum,aluguel,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+sem conta,12,conta crítica/outros créditos,móveis/equip.,1592,>= 1000 DM,4-7 anos,3,F div./sep./casada,nenhum,2,poupança/seguro de vida,35,nenhum,própria,1,qualificado/funcionário,1,não,não,0
+sem conta,15,pagos em dia até agora,móveis/equip.,2186,desconhecido/sem poupança,4-7 anos,1,F div./sep./casada,nenhum,4,imóvel,33,banco,aluguel,1,não qualificado (residente),1,não,sim,0
+< 0 DM,18,pagos em dia até agora,móveis/equip.,4153,< 100 DM,1-4 anos,2,M solteiro,co-requerente,3,carro/outros,42,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+< 0 DM,16,conta crítica/outros créditos,carro (novo),2625,< 100 DM,>= 7 anos,2,M solteiro,fiador,4,poupança/seguro de vida,43,banco,aluguel,1,qualificado/funcionário,1,sim,sim,1
+sem conta,20,conta crítica/outros créditos,carro (novo),3485,desconhecido/sem poupança,< 1 ano,2,M divorciado/separado,nenhum,4,imóvel,44,nenhum,própria,2,qualificado/funcionário,1,sim,sim,0
+sem conta,36,conta crítica/outros créditos,carro (usado),10477,desconhecido/sem poupança,>= 7 anos,2,M solteiro,nenhum,4,desconhecido/nenhum,42,nenhum,gratuita,2,qualificado/funcionário,1,não,sim,0
+sem conta,15,pagos em dia até agora,rádio/TV,1386,desconhecido/sem poupança,1-4 anos,4,M casado/viúvo,nenhum,2,imóvel,40,nenhum,aluguel,1,qualificado/funcionário,1,sim,sim,0
+sem conta,24,pagos em dia até agora,rádio/TV,1278,< 100 DM,>= 7 anos,4,M solteiro,nenhum,1,imóvel,36,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+< 0 DM,12,pagos em dia até agora,rádio/TV,1107,< 100 DM,1-4 anos,2,M solteiro,nenhum,2,imóvel,20,nenhum,aluguel,1,gerência/autônomo/alta qualif.,2,sim,sim,0
+< 0 DM,21,pagos em dia até agora,carro (novo),3763,desconhecido/sem poupança,4-7 anos,2,M solteiro,co-requerente,2,imóvel,24,nenhum,própria,1,não qualificado (residente),1,não,não,0
+0-200 DM,36,pagos em dia até agora,educação,3711,desconhecido/sem poupança,1-4 anos,2,M casado/viúvo,nenhum,2,carro/outros,27,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,15,atrasos no passado,carro (usado),3594,< 100 DM,< 1 ano,1,F div./sep./casada,nenhum,2,poupança/seguro de vida,46,nenhum,própria,2,não qualificado (residente),1,não,sim,0
+0-200 DM,9,pagos em dia até agora,carro (novo),3195,desconhecido/sem poupança,1-4 anos,1,F div./sep./casada,nenhum,2,imóvel,33,nenhum,própria,1,não qualificado (residente),1,não,sim,0
+sem conta,36,atrasos no passado,rádio/TV,4454,< 100 DM,1-4 anos,4,F div./sep./casada,nenhum,4,imóvel,34,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+0-200 DM,24,conta crítica/outros créditos,móveis/equip.,4736,< 100 DM,< 1 ano,2,F div./sep./casada,nenhum,4,carro/outros,25,banco,própria,1,não qualificado (residente),1,não,sim,1
+0-200 DM,30,pagos em dia até agora,rádio/TV,2991,desconhecido/sem poupança,>= 7 anos,2,F div./sep./casada,nenhum,4,carro/outros,25,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,11,pagos em dia até agora,negócios,2142,>= 1000 DM,>= 7 anos,1,M divorciado/separado,nenhum,2,imóvel,28,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+< 0 DM,24,todos pagos neste banco,negócios,3161,< 100 DM,1-4 anos,4,M solteiro,nenhum,2,poupança/seguro de vida,31,nenhum,aluguel,1,qualificado/funcionário,1,sim,sim,1
+0-200 DM,48,sem créditos/todos pagos,outros,18424,< 100 DM,1-4 anos,1,F div./sep./casada,nenhum,2,poupança/seguro de vida,32,banco,própria,1,gerência/autônomo/alta qualif.,1,sim,não,1
+sem conta,10,pagos em dia até agora,carro (usado),2848,100-500 DM,1-4 anos,1,M solteiro,co-requerente,2,imóvel,32,nenhum,própria,1,qualificado/funcionário,2,não,sim,0
+< 0 DM,6,pagos em dia até agora,carro (novo),14896,< 100 DM,>= 7 anos,1,M solteiro,nenhum,4,desconhecido/nenhum,68,banco,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,1
+< 0 DM,24,pagos em dia até agora,móveis/equip.,2359,100-500 DM,desempregado,1,M divorciado/separado,nenhum,1,poupança/seguro de vida,33,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+< 0 DM,24,pagos em dia até agora,móveis/equip.,3345,< 100 DM,>= 7 anos,4,M solteiro,nenhum,2,poupança/seguro de vida,39,nenhum,aluguel,1,gerência/autônomo/alta qualif.,1,sim,sim,1
+sem conta,18,conta crítica/outros créditos,móveis/equip.,1817,< 100 DM,1-4 anos,4,F div./sep./casada,nenhum,2,desconhecido/nenhum,28,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,48,atrasos no passado,rádio/TV,12749,500-1000 DM,4-7 anos,4,M solteiro,nenhum,1,carro/outros,37,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+< 0 DM,9,pagos em dia até agora,rádio/TV,1366,< 100 DM,< 1 ano,3,F div./sep./casada,nenhum,4,poupança/seguro de vida,22,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,1
+0-200 DM,12,pagos em dia até agora,carro (novo),2002,< 100 DM,4-7 anos,3,M solteiro,nenhum,4,poupança/seguro de vida,30,nenhum,aluguel,1,qualificado/funcionário,2,sim,sim,0
+< 0 DM,24,todos pagos neste banco,móveis/equip.,6872,< 100 DM,< 1 ano,2,M divorciado/separado,nenhum,1,poupança/seguro de vida,55,banco,própria,1,qualificado/funcionário,1,sim,sim,1
+< 0 DM,12,todos pagos neste banco,carro (novo),697,< 100 DM,< 1 ano,4,M solteiro,nenhum,2,carro/outros,46,banco,própria,2,qualificado/funcionário,1,sim,sim,1
+< 0 DM,18,conta crítica/outros créditos,móveis/equip.,1049,< 100 DM,< 1 ano,4,F div./sep./casada,nenhum,4,poupança/seguro de vida,21,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,48,pagos em dia até agora,carro (usado),10297,< 100 DM,4-7 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,39,lojas,gratuita,3,qualificado/funcionário,2,sim,sim,1
+sem conta,30,pagos em dia até agora,rádio/TV,1867,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,4,carro/outros,58,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+< 0 DM,12,atrasos no passado,carro (novo),1344,< 100 DM,1-4 anos,4,M solteiro,nenhum,2,imóvel,43,nenhum,própria,2,não qualificado (residente),2,não,sim,0
+< 0 DM,24,pagos em dia até agora,móveis/equip.,1747,< 100 DM,< 1 ano,4,M solteiro,co-requerente,1,poupança/seguro de vida,24,nenhum,própria,1,não qualificado (residente),1,não,não,0
+0-200 DM,9,pagos em dia até agora,rádio/TV,1670,< 100 DM,< 1 ano,4,F div./sep./casada,nenhum,2,carro/outros,22,nenhum,própria,1,qualificado/funcionário,1,sim,sim,1
+sem conta,9,conta crítica/outros créditos,carro (novo),1224,< 100 DM,1-4 anos,3,M solteiro,nenhum,1,imóvel,30,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,12,conta crítica/outros créditos,rádio/TV,522,500-1000 DM,>= 7 anos,4,M solteiro,nenhum,4,poupança/seguro de vida,42,nenhum,própria,2,qualificado/funcionário,2,sim,sim,0
+< 0 DM,12,pagos em dia até agora,rádio/TV,1498,< 100 DM,1-4 anos,4,F div./sep./casada,nenhum,1,carro/outros,23,banco,própria,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,30,atrasos no passado,rádio/TV,1919,100-500 DM,< 1 ano,4,M solteiro,nenhum,3,desconhecido/nenhum,30,lojas,própria,2,gerência/autônomo/alta qualif.,1,não,sim,1
+>= 200 DM,9,pagos em dia até agora,rádio/TV,745,< 100 DM,1-4 anos,3,F div./sep./casada,nenhum,2,imóvel,28,nenhum,própria,1,não qualificado (residente),1,não,sim,1
+0-200 DM,6,pagos em dia até agora,rádio/TV,2063,< 100 DM,< 1 ano,4,M casado/viúvo,nenhum,3,carro/outros,30,nenhum,aluguel,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+0-200 DM,60,pagos em dia até agora,educação,6288,< 100 DM,1-4 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,42,nenhum,gratuita,1,qualificado/funcionário,1,não,sim,1
+sem conta,24,conta crítica/outros créditos,carro (usado),6842,desconhecido/sem poupança,1-4 anos,2,M solteiro,nenhum,4,poupança/seguro de vida,46,nenhum,própria,2,gerência/autônomo/alta qualif.,2,sim,sim,0
+sem conta,12,pagos em dia até agora,carro (novo),3527,desconhecido/sem poupança,< 1 ano,2,M solteiro,nenhum,3,poupança/seguro de vida,45,nenhum,própria,1,gerência/autônomo/alta qualif.,2,sim,sim,0
+sem conta,10,pagos em dia até agora,carro (novo),1546,< 100 DM,1-4 anos,3,M solteiro,nenhum,2,imóvel,31,nenhum,própria,1,não qualificado (residente),2,não,não,0
+sem conta,24,pagos em dia até agora,móveis/equip.,929,desconhecido/sem poupança,4-7 anos,4,M solteiro,nenhum,2,carro/outros,31,lojas,própria,1,qualificado/funcionário,1,sim,sim,0
+sem conta,4,conta crítica/outros créditos,carro (novo),1455,< 100 DM,4-7 anos,2,M solteiro,nenhum,1,imóvel,42,nenhum,própria,3,não qualificado (residente),2,não,sim,0
+< 0 DM,15,pagos em dia até agora,móveis/equip.,1845,< 100 DM,< 1 ano,4,F div./sep./casada,fiador,1,poupança/seguro de vida,46,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,48,sem créditos/todos pagos,carro (novo),8358,500-1000 DM,< 1 ano,1,F div./sep./casada,nenhum,1,carro/outros,30,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+< 0 DM,24,todos pagos neste banco,móveis/equip.,3349,500-1000 DM,< 1 ano,4,M solteiro,nenhum,4,desconhecido/nenhum,30,nenhum,gratuita,1,qualificado/funcionário,2,sim,sim,1
+sem conta,12,pagos em dia até agora,carro (novo),2859,desconhecido/sem poupança,desempregado,4,M solteiro,nenhum,4,desconhecido/nenhum,38,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+sem conta,18,pagos em dia até agora,móveis/equip.,1533,< 100 DM,< 1 ano,4,M casado/viúvo,co-requerente,1,poupança/seguro de vida,43,nenhum,própria,1,não qualificado (residente),2,não,sim,1
+sem conta,24,pagos em dia até agora,rádio/TV,3621,100-500 DM,>= 7 anos,2,M solteiro,nenhum,4,carro/outros,31,nenhum,própria,2,qualificado/funcionário,1,não,sim,1
+0-200 DM,18,conta crítica/outros créditos,negócios,3590,< 100 DM,desempregado,3,M casado/viúvo,nenhum,3,carro/outros,40,nenhum,própria,3,desempregado/não qualif. (não residente),2,sim,sim,0
+< 0 DM,36,atrasos no passado,negócios,2145,< 100 DM,4-7 anos,2,M solteiro,nenhum,1,carro/outros,24,nenhum,própria,2,qualificado/funcionário,1,sim,sim,1
+0-200 DM,24,pagos em dia até agora,carro (usado),4113,500-1000 DM,< 1 ano,3,F div./sep./casada,nenhum,4,carro/outros,28,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,1
+sem conta,36,pagos em dia até agora,móveis/equip.,10974,< 100 DM,desempregado,4,F div./sep./casada,nenhum,2,carro/outros,26,nenhum,própria,2,gerência/autônomo/alta qualif.,1,sim,sim,1
+< 0 DM,12,pagos em dia até agora,carro (novo),1893,< 100 DM,1-4 anos,4,F div./sep./casada,fiador,4,poupança/seguro de vida,29,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+< 0 DM,24,conta crítica/outros créditos,rádio/TV,1231,>= 1000 DM,>= 7 anos,4,F div./sep./casada,nenhum,4,poupança/seguro de vida,57,nenhum,aluguel,2,gerência/autônomo/alta qualif.,1,sim,sim,0
+>= 200 DM,30,conta crítica/outros créditos,rádio/TV,3656,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,4,poupança/seguro de vida,49,lojas,própria,2,não qualificado (residente),1,não,sim,0
+0-200 DM,9,conta crítica/outros créditos,rádio/TV,1154,< 100 DM,>= 7 anos,2,M solteiro,nenhum,4,imóvel,37,nenhum,própria,3,não qualificado (residente),1,não,sim,0
+< 0 DM,28,pagos em dia até agora,carro (novo),4006,< 100 DM,1-4 anos,3,M solteiro,nenhum,2,carro/outros,45,nenhum,própria,1,não qualificado (residente),1,não,sim,1
+0-200 DM,24,pagos em dia até agora,móveis/equip.,3069,100-500 DM,>= 7 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,30,nenhum,gratuita,1,qualificado/funcionário,1,não,sim,0
+sem conta,6,conta crítica/outros créditos,rádio/TV,1740,< 100 DM,>= 7 anos,2,M casado/viúvo,nenhum,2,imóvel,30,nenhum,aluguel,2,qualificado/funcionário,1,não,sim,0
+0-200 DM,21,atrasos no passado,carro (novo),2353,< 100 DM,1-4 anos,1,M divorciado/separado,nenhum,4,poupança/seguro de vida,47,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,15,pagos em dia até agora,carro (novo),3556,desconhecido/sem poupança,1-4 anos,3,M solteiro,nenhum,2,desconhecido/nenhum,29,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,24,pagos em dia até agora,rádio/TV,2397,500-1000 DM,>= 7 anos,3,M solteiro,nenhum,2,carro/outros,35,banco,própria,2,qualificado/funcionário,1,sim,sim,1
+0-200 DM,6,pagos em dia até agora,reparos,454,< 100 DM,< 1 ano,3,M casado/viúvo,nenhum,1,poupança/seguro de vida,22,nenhum,própria,1,não qualificado (residente),1,não,sim,0
+0-200 DM,30,pagos em dia até agora,rádio/TV,1715,desconhecido/sem poupança,1-4 anos,4,F div./sep./casada,nenhum,1,carro/outros,26,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,27,conta crítica/outros créditos,rádio/TV,2520,500-1000 DM,1-4 anos,4,M solteiro,nenhum,2,poupança/seguro de vida,23,nenhum,própria,2,não qualificado (residente),1,não,sim,1
+sem conta,15,pagos em dia até agora,rádio/TV,3568,< 100 DM,>= 7 anos,4,F div./sep./casada,nenhum,2,carro/outros,54,banco,aluguel,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+sem conta,42,pagos em dia até agora,rádio/TV,7166,desconhecido/sem poupança,4-7 anos,2,M casado/viúvo,nenhum,4,poupança/seguro de vida,29,nenhum,aluguel,1,qualificado/funcionário,1,sim,sim,0
+< 0 DM,11,conta crítica/outros créditos,carro (novo),3939,< 100 DM,1-4 anos,1,M solteiro,nenhum,2,imóvel,40,nenhum,própria,2,não qualificado (residente),2,não,sim,0
+0-200 DM,15,pagos em dia até agora,reparos,1514,100-500 DM,1-4 anos,4,M solteiro,fiador,2,imóvel,22,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+sem conta,24,pagos em dia até agora,carro (novo),7393,< 100 DM,1-4 anos,1,M solteiro,nenhum,4,poupança/seguro de vida,43,nenhum,própria,1,não qualificado (residente),2,não,sim,0
+< 0 DM,24,todos pagos neste banco,carro (novo),1193,< 100 DM,desempregado,1,F div./sep./casada,co-requerente,4,desconhecido/nenhum,29,nenhum,aluguel,2,desempregado/não qualif. (não residente),1,não,sim,1
+< 0 DM,60,pagos em dia até agora,negócios,7297,< 100 DM,>= 7 anos,4,M solteiro,co-requerente,4,desconhecido/nenhum,36,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,1
+sem conta,30,conta crítica/outros créditos,rádio/TV,2831,< 100 DM,1-4 anos,4,F div./sep./casada,nenhum,2,carro/outros,33,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+>= 200 DM,24,pagos em dia até agora,rádio/TV,1258,500-1000 DM,1-4 anos,3,F div./sep./casada,nenhum,3,carro/outros,57,nenhum,própria,1,não qualificado (residente),1,não,sim,0
+0-200 DM,6,pagos em dia até agora,rádio/TV,753,< 100 DM,1-4 anos,2,F div./sep./casada,fiador,3,imóvel,64,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+0-200 DM,18,atrasos no passado,negócios,2427,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,2,poupança/seguro de vida,42,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,24,atrasos no passado,carro (novo),2538,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,carro/outros,47,nenhum,própria,2,não qualificado (residente),2,não,sim,1
+0-200 DM,15,todos pagos neste banco,carro (novo),1264,100-500 DM,1-4 anos,2,M casado/viúvo,nenhum,2,poupança/seguro de vida,25,nenhum,aluguel,1,qualificado/funcionário,1,não,sim,1
+0-200 DM,30,conta crítica/outros créditos,móveis/equip.,8386,< 100 DM,4-7 anos,2,M solteiro,nenhum,2,poupança/seguro de vida,49,nenhum,própria,1,qualificado/funcionário,1,não,sim,1
+sem conta,48,pagos em dia até agora,negócios,4844,< 100 DM,desempregado,3,M solteiro,nenhum,2,carro/outros,33,banco,aluguel,1,gerência/autônomo/alta qualif.,1,sim,sim,1
+>= 200 DM,21,pagos em dia até agora,carro (novo),2923,100-500 DM,1-4 anos,1,F div./sep./casada,nenhum,1,carro/outros,28,banco,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+< 0 DM,36,pagos em dia até agora,carro (usado),8229,< 100 DM,1-4 anos,2,M solteiro,nenhum,2,poupança/seguro de vida,26,nenhum,própria,1,qualificado/funcionário,2,não,sim,1
+sem conta,24,conta crítica/outros créditos,móveis/equip.,2028,< 100 DM,4-7 anos,2,M solteiro,nenhum,2,poupança/seguro de vida,30,nenhum,própria,2,não qualificado (residente),1,não,sim,0
+< 0 DM,15,conta crítica/outros créditos,móveis/equip.,1433,< 100 DM,1-4 anos,4,F div./sep./casada,nenhum,3,poupança/seguro de vida,25,nenhum,aluguel,2,qualificado/funcionário,1,não,sim,0
+>= 200 DM,42,sem créditos/todos pagos,negócios,6289,< 100 DM,< 1 ano,2,M divorciado/separado,nenhum,1,poupança/seguro de vida,33,nenhum,própria,2,qualificado/funcionário,1,não,sim,0
+sem conta,13,pagos em dia até agora,rádio/TV,1409,100-500 DM,desempregado,2,F div./sep./casada,nenhum,4,imóvel,64,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,24,pagos em dia até agora,carro (usado),6579,< 100 DM,desempregado,4,M solteiro,nenhum,2,desconhecido/nenhum,29,nenhum,gratuita,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+0-200 DM,24,conta crítica/outros créditos,rádio/TV,1743,< 100 DM,>= 7 anos,4,M solteiro,nenhum,2,poupança/seguro de vida,48,nenhum,própria,2,não qualificado (residente),1,não,sim,0
+sem conta,12,conta crítica/outros créditos,educação,3565,desconhecido/sem poupança,< 1 ano,2,M solteiro,nenhum,1,poupança/seguro de vida,37,nenhum,própria,2,não qualificado (residente),2,não,sim,0
+sem conta,15,todos pagos neste banco,rádio/TV,1569,100-500 DM,>= 7 anos,4,M solteiro,nenhum,4,carro/outros,34,banco,própria,1,não qualificado (residente),2,não,sim,0
+< 0 DM,18,pagos em dia até agora,rádio/TV,1936,desconhecido/sem poupança,4-7 anos,2,M casado/viúvo,nenhum,4,carro/outros,23,nenhum,aluguel,2,não qualificado (residente),1,não,sim,0
+< 0 DM,36,pagos em dia até agora,móveis/equip.,3959,< 100 DM,desempregado,4,M solteiro,nenhum,3,poupança/seguro de vida,30,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+sem conta,12,pagos em dia até agora,carro (novo),2390,desconhecido/sem poupança,>= 7 anos,4,M solteiro,nenhum,3,carro/outros,50,nenhum,própria,1,qualificado/funcionário,1,sim,sim,0
+sem conta,12,pagos em dia até agora,móveis/equip.,1736,< 100 DM,4-7 anos,3,F div./sep./casada,nenhum,4,imóvel,31,nenhum,própria,1,não qualificado (residente),1,não,sim,0
+< 0 DM,30,pagos em dia até agora,carro (usado),3857,< 100 DM,1-4 anos,4,M divorciado/separado,nenhum,4,poupança/seguro de vida,40,nenhum,própria,1,gerência/autônomo/alta qualif.,1,sim,sim,0
+sem conta,12,pagos em dia até agora,rádio/TV,804,< 100 DM,>= 7 anos,4,M solteiro,nenhum,4,carro/outros,38,nenhum,própria,1,qualificado/funcionário,1,não,sim,0
+< 0 DM,45,pagos em dia até agora,rádio/TV,1845,< 100 DM,1-4 anos,4,M solteiro,nenhum,4,desconhecido/nenhum,23,nenhum,gratuita,1,qualificado/funcionário,1,sim,sim,1
+0-200 DM,45,conta crítica/outros créditos,carro (usado),4576,100-500 DM,desempregado,3,M solteiro,nenhum,4,carro/outros,27,nenhum,própria,1,qualificado/funcionário,1,não,sim,0

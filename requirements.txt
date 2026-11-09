@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+pyyaml
+# PyTorch: instale a build com CUDA pelo site oficial, ex.:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu126
+torch

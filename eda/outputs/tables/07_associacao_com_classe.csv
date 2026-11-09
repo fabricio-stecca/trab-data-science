@@ -1,0 +1,21 @@
+atributo,tipo,teste,p_valor,efeito,medida_efeito,informação_mútua,significativo_5%
+checking_status,categórico,qui-quadrado,1.2189020722893845e-26,0.3476189010590424,Cramér's V,0.06566796091172747,True
+duration,numérico,Mann-Whitney U,7.981665531518925e-11,0.21492666544189076,r ponto-bisserial (abs),0.03372947268842519,True
+credit_history,categórico,qui-quadrado,1.2791872956750916e-12,0.24030230119487,Cramér's V,0.030233554614260597,True
+age,numérico,Mann-Whitney U,0.00039127735615298106,0.09112740931949902,r ponto-bisserial (abs),0.02063512614801133,True
+savings_status,categórico,qui-quadrado,2.761214238568249e-07,0.1792402952214944,Cramér's V,0.01948760776931864,True
+purpose,categórico,qui-quadrado,0.00011574910079691542,0.15611481058093812,Cramér's V,0.01725488706656706,True
+credit_amount,numérico,Mann-Whitney U,0.005917609166184079,0.15473864110152383,r ponto-bisserial (abs),0.013125485225716327,True
+property,categórico,qui-quadrado,2.8584415733250017e-05,0.14400453584964393,Cramér's V,0.011773233742666228,True
+employment,categórico,qui-quadrado,0.0010454523491402541,0.11991106245316734,Cramér's V,0.00908183792481329,True
+housing,categórico,qui-quadrado,0.00011167465374597686,0.12733448032933792,Cramér's V,0.008839835250396999,True
+other_installment_plans,categórico,qui-quadrado,0.0016293178186473534,0.10415394681626367,Cramér's V,0.006151729960982663,True
+personal_status,categórico,qui-quadrado,0.02223800546926877,0.08129468862215453,Cramér's V,0.004720713347870664,True
+foreign_worker,categórico,qui-quadrado,0.009443096254921023,0.07577460430392431,Cramér's V,0.004036189803978272,True
+other_parties,categórico,qui-quadrado,0.036055954027247226,0.06817636837744626,Cramér's V,0.0033250415350678103,True
+installment_rate,numérico,Mann-Whitney U,0.019860046970362137,0.07240393725133037,r ponto-bisserial (abs),0.0027532719939854927,True
+existing_credits,numérico,Mann-Whitney U,0.1348189095343981,0.04573248933920645,r ponto-bisserial (abs),0.0013712747631635241,False
+job,categórico,qui-quadrado,0.5965815918843433,0.0,Cramér's V,0.0009269851357641898,False
+own_telephone,categórico,qui-quadrado,0.2488438213033109,0.018141429550818596,Cramér's V,0.0006679582223530767,False
+residence_since,numérico,Mann-Whitney U,0.9357824054306769,0.0029671587541552705,r ponto-bisserial (abs),0.00037603320732511325,False
+num_dependents,numérico,Mann-Whitney U,0.9242355855949411,0.0030148530833446663,r ponto-bisserial (abs),4.5523267850899884e-06,False

@@ -1,0 +1,62 @@
+{
+  "algorithm": "mlp",
+  "name": "mlp__so_weight_bias",
+  "params": {
+    "camadas": [
+      32,
+      16
+    ],
+    "ativacao": "relu",
+    "dropout": 0.3,
+    "otimizador": "adamw",
+    "lr": 0.001,
+    "weight_decay": 0.0001,
+    "loss": "bce",
+    "weight_bias": "auto",
+    "batch": 32,
+    "monitor": "val_loss",
+    "melhor_step": 170
+  },
+  "run_dir": "resultados\\extra\\runs\\mlp\\mlp__so_weight_bias_20261108-233852",
+  "seconds": 2.65,
+  "n_inputs": 59,
+  "threshold": 0.5,
+  "split_id": "1ff36d32de",
+  "split_sizes": {
+    "treino": 600,
+    "validacao": 200,
+    "teste": 200
+  },
+  "validacao": {
+    "accuracy": 0.665,
+    "balanced_accuracy": 0.675,
+    "precision": 0.46153846153846156,
+    "recall": 0.7,
+    "specificity": 0.65,
+    "f1": 0.5562913907284769,
+    "auc": 0.7254761904761905,
+    "cost_total": 139.0,
+    "cost_mean": 0.695,
+    "tn": 91,
+    "fp": 49,
+    "fn": 18,
+    "tp": 42,
+    "threshold": 0.5
+  },
+  "teste": {
+    "accuracy": 0.71,
+    "balanced_accuracy": 0.7166666666666666,
+    "precision": 0.5116279069767442,
+    "recall": 0.7333333333333333,
+    "specificity": 0.7,
+    "f1": 0.6027397260273971,
+    "auc": 0.7701190476190477,
+    "cost_total": 122.0,
+    "cost_mean": 0.61,
+    "tn": 98,
+    "fp": 42,
+    "fn": 16,
+    "tp": 44,
+    "threshold": 0.5
+  }
+}

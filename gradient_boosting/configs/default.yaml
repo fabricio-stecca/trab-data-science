@@ -1,0 +1,23 @@
+# =====================================================================
+#  Configuração base do Gradient Boosting — herda common/protocolo.yaml
+#  (divisão, limiar e métricas iguais para todos os algoritmos).
+# =====================================================================
+
+experiment:
+  name: gradient_boosting_default
+
+data:
+  drop_features: []
+  # Baseado em árvores: não depende da escala, então log e padronização ficam desligados.
+  log_transform: []
+  scaler: none
+  rare_category_min_frequency: 0.02
+
+model:
+  learning_rate: 0.1      # quanto cada nova árvore corrige (menor = mais lento e mais estável)
+  max_iter: 200           # nº de árvores (rodadas de boosting)
+  max_depth: null         # profundidade máxima de cada árvore (null = limitada só por max_leaf_nodes)
+  max_leaf_nodes: 31      # nº máximo de folhas por árvore
+  min_samples_leaf: 20    # mínimo de clientes em cada folha
+  l2_regularization: 0.0  # penalização L2 nos valores das folhas
+  weight_bias: auto       # peso da classe "mau": auto (= n_bom/n_mau no treino), número, ou null

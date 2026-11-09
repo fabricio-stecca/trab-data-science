@@ -1,0 +1,60 @@
+{
+  "algorithm": "knn",
+  "name": "knn__seed2",
+  "params": {
+    "modelo": {
+      "n_neighbors": 15,
+      "weights": "distance",
+      "p": 2
+    },
+    "pre_processamento": {
+      "log_transform": [
+        "credit_amount",
+        "duration"
+      ],
+      "scaler": "standard"
+    }
+  },
+  "run_dir": "resultados\\extra\\runs\\knn\\knn__seed2_20261108-234000",
+  "seconds": 0.0,
+  "n_inputs": 59,
+  "threshold": 0.18,
+  "split_id": "1740f040b2",
+  "split_sizes": {
+    "treino": 600,
+    "validacao": 200,
+    "teste": 200
+  },
+  "validacao": {
+    "accuracy": 0.54,
+    "balanced_accuracy": 0.6285714285714286,
+    "precision": 0.3805970149253731,
+    "recall": 0.85,
+    "specificity": 0.40714285714285714,
+    "f1": 0.5257731958762887,
+    "auc": 0.7191666666666666,
+    "cost_total": 128.0,
+    "cost_mean": 0.64,
+    "tn": 57,
+    "fp": 83,
+    "fn": 9,
+    "tp": 51,
+    "threshold": 0.18
+  },
+  "teste": {
+    "accuracy": 0.545,
+    "balanced_accuracy": 0.6369047619047619,
+    "precision": 0.3851851851851852,
+    "recall": 0.8666666666666667,
+    "specificity": 0.40714285714285714,
+    "f1": 0.5333333333333332,
+    "auc": 0.6828571428571428,
+    "cost_total": 123.0,
+    "cost_mean": 0.615,
+    "tn": 57,
+    "fp": 83,
+    "fn": 8,
+    "tp": 52,
+    "threshold": 0.18
+  }
+}

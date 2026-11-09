@@ -1,0 +1,55 @@
+atributo,código,categoria,n,%_da_base,%_mau
+checking_status,A11,< 0 DM,274,27.4,49.3
+checking_status,A12,0-200 DM,269,26.9,39.0
+checking_status,A13,>= 200 DM,63,6.3,22.2
+checking_status,A14,sem conta,394,39.4,11.7
+credit_history,A30,sem créditos/todos pagos,40,4.0,62.5
+credit_history,A31,todos pagos neste banco,49,4.9,57.1
+credit_history,A32,pagos em dia até agora,530,53.0,31.9
+credit_history,A33,atrasos no passado,88,8.8,31.8
+credit_history,A34,conta crítica/outros créditos,293,29.3,17.1
+purpose,A40,carro (novo),234,23.4,38.0
+purpose,A41,carro (usado),103,10.3,16.5
+purpose,A42,móveis/equip.,181,18.1,32.0
+purpose,A43,rádio/TV,280,28.0,22.1
+purpose,A44,eletrodomésticos,12,1.2,33.3
+purpose,A45,reparos,22,2.2,36.4
+purpose,A46,educação,50,5.0,44.0
+purpose,A48,requalificação,9,0.9,11.1
+purpose,A49,negócios,97,9.7,35.1
+purpose,A410,outros,12,1.2,41.7
+savings_status,A61,< 100 DM,603,60.3,36.0
+savings_status,A62,100-500 DM,103,10.3,33.0
+savings_status,A63,500-1000 DM,63,6.3,17.5
+savings_status,A64,>= 1000 DM,48,4.8,12.5
+savings_status,A65,desconhecido/sem poupança,183,18.3,17.5
+employment,A71,desempregado,62,6.2,37.1
+employment,A72,< 1 ano,172,17.2,40.7
+employment,A73,1-4 anos,339,33.9,30.7
+employment,A74,4-7 anos,174,17.4,22.4
+employment,A75,>= 7 anos,253,25.3,25.3
+personal_status,A91,M divorciado/separado,50,5.0,40.0
+personal_status,A92,F div./sep./casada,310,31.0,35.2
+personal_status,A93,M solteiro,548,54.8,26.6
+personal_status,A94,M casado/viúvo,92,9.2,27.2
+other_parties,A101,nenhum,907,90.7,30.0
+other_parties,A102,co-requerente,41,4.1,43.9
+other_parties,A103,fiador,52,5.2,19.2
+property,A121,imóvel,282,28.2,21.3
+property,A122,poupança/seguro de vida,232,23.2,30.6
+property,A123,carro/outros,332,33.2,30.7
+property,A124,desconhecido/nenhum,154,15.4,43.5
+other_installment_plans,A141,banco,139,13.9,41.0
+other_installment_plans,A142,lojas,47,4.7,40.4
+other_installment_plans,A143,nenhum,814,81.4,27.5
+housing,A151,aluguel,179,17.9,39.1
+housing,A152,própria,713,71.3,26.1
+housing,A153,gratuita,108,10.8,40.7
+job,A171,desempregado/não qualif. (não residente),22,2.2,31.8
+job,A172,não qualificado (residente),200,20.0,28.0
+job,A173,qualificado/funcionário,630,63.0,29.5
+job,A174,gerência/autônomo/alta qualif.,148,14.8,34.5
+own_telephone,A191,não,596,59.6,31.4
+own_telephone,A192,sim,404,40.4,28.0
+foreign_worker,A201,sim,963,96.3,30.7
+foreign_worker,A202,não,37,3.7,10.8
